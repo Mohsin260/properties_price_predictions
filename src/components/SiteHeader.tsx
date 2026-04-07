@@ -1,10 +1,10 @@
 import { Search } from "lucide-react";
-import { useState } from "react";
+import { useSearchStore } from "@/store/searchStore";
 
 const navItems = ["BUY", "SELL", "RENT"];
 
 const SiteHeader = () => {
-  const [siteSearch, setSiteSearch] = useState("");
+  const { filters, setFilter } = useSearchStore();
 
   return (
     <>
@@ -40,8 +40,8 @@ const SiteHeader = () => {
             <input
               type="text"
               placeholder="SITE SEARCH"
-              value={siteSearch}
-              onChange={(e) => setSiteSearch(e.target.value)}
+              value={filters.globalSearch}
+              onChange={(e) => setFilter('globalSearch', e.target.value)}
               className="bg-transparent text-nav-foreground text-xs placeholder:text-nav-foreground/60 outline-none w-32"
             />
             <Search className="w-4 h-4 text-nav-foreground/60" />

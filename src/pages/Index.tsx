@@ -7,6 +7,7 @@ import MapWrapper from "@/components/maps/shared/MapWrapper";
 import Footer from "@/components/Footer";
 import { dublinProperties } from "@/data/dublinProperties";
 import { usePropertyStore } from "@/store/propertyStore";
+import { useSearchStore } from "@/store/searchStore";
 import type { SortBy } from "@/types/property.types";
 
 const ITEMS_PER_PAGE = 10;
@@ -32,9 +33,59 @@ const Index = () => {
     setHoveredProperty, 
     centerMapOnProperty 
   } = usePropertyStore();
+  
+  const { filters } = useSearchStore();
+
+  // Apply search filters
+  const filteredProperties = useMemo(() => {
+    return dublinProperties.filter(property => {
+      // Global search - searches in title, address, and type
+      if (filters.globalSearch) {
+        const searchLower = filters.globalSearch.toLowerCase();
+        const matchesGlobal = 
+          property.title.toLowerCase().includes(searchLower) ||
+          property.address.toLowerCase().includes(searchLower) ||
+          property.type.toLowerCase().includes(searchLower);
+        if (!matchesGlobal) return false;
+      }
+
+      // Location filter
+      if (filters.location && filters.location !== 'Dublin') {
+        if (!property.address.toLowerCase().includes(filters.location.toLowerCase())) {
+          return false;
+        }
+      }
+
+      // Price filters
+      if (filters.minPrice && property.price < Number(filters.minPrice)) return false;
+      if (filters.maxPrice && property.price > Number(filters.maxPrice)) return false;
+
+      // Bedroom filters
+      if (filters.minBeds && property.beds < Number(filters.minBeds)) return false;
+      if (filters.maxBeds && property.beds > Number(filters.maxBeds)) return false;
+
+      // Bathroom filters
+      if (filters.minBaths && property.baths < Number(filters.minBaths)) return false;
+      if (filters.maxBaths && property.baths > Number(filters.maxBaths)) return false;
+
+      // Property type filter
+      if (filters.propertyType && property.type !== filters.propertyType) return false;
+
+      // Energy rating filter (BER)
+      if (filters.minEnergyRating) {
+        const ratingOrder = ['G', 'F', 'E', 'D', 'C', 'B', 'A'];
+        const propertyRatingLetter = property.berRating.charAt(0);
+        const minRatingIndex = ratingOrder.indexOf(filters.minEnergyRating);
+        const propertyRatingIndex = ratingOrder.indexOf(propertyRatingLetter);
+        if (propertyRatingIndex < minRatingIndex) return false;
+      }
+
+      return true;
+    });
+  }, [filters]);
 
   const sortedProperties = useMemo(() => {
-    const sorted = [...dublinProperties];
+    const sorted = [...filteredProperties];
     switch (sortBy) {
       case "price-asc":
         return sorted.sort((a, b) => a.price - b.price);
@@ -55,13 +106,18 @@ const Index = () => {
       default:
         return sorted;
     }
-  }, [sortBy]);
+  }, [filteredProperties, sortBy]);
 
   const totalPages = Math.ceil(sortedProperties.length / ITEMS_PER_PAGE);
   const paginatedProperties = sortedProperties.slice(
     (currentPage - 1) * ITEMS_PER_PAGE,
     currentPage * ITEMS_PER_PAGE
   );
+
+  // Reset to page 1 when filters change
+  useMemo(() => {
+    setCurrentPage(1);
+  }, [filters]);
 
   const handlePropertyClick = (property: typeof dublinProperties[0]) => {
     centerMapOnProperty(property);
