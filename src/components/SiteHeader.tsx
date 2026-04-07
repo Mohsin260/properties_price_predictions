@@ -1,7 +1,7 @@
 import { Search } from "lucide-react";
 import { useState } from "react";
 
-const navItems = ["BUY", "SELL", "RENT", "VALUATIONS", "MORTGAGES", "COMMERCIAL", "RESEARCH", "CONTACT"];
+const navItems = ["BUY", "SELL", "RENT"];
 
 const SiteHeader = () => {
   const [siteSearch, setSiteSearch] = useState("");
@@ -12,7 +12,7 @@ const SiteHeader = () => {
       <div className="bg-primary py-1.5 px-4">
         <div className="max-w-[1800px] mx-auto flex justify-end gap-6">
           <span className="text-primary-foreground/80 text-xs font-semibold tracking-wide cursor-pointer hover:text-primary-foreground transition-colors">
-            ABOUT SHERRY FITZGERALD
+            Dublin 
           </span>
           <span className="text-primary-foreground/40">|</span>
           <span className="text-primary-foreground/80 text-xs font-semibold tracking-wide cursor-pointer hover:text-primary-foreground transition-colors">
@@ -25,7 +25,7 @@ const SiteHeader = () => {
       <header className="bg-nav px-4 py-3">
         <div className="max-w-[1800px] mx-auto flex items-center justify-between">
           <div className="font-display text-nav-foreground text-xl font-bold italic tracking-tight">
-            Sherry FitzGerald
+            Dublin Property Portal
           </div>
 
           <nav className="hidden lg:flex items-center gap-6">
