@@ -5,7 +5,7 @@ const SearchBar = () => {
   const { filters, setFilter } = useSearchStore();
   const showAdvanced = filters.propertyType !== '' || filters.minBeds !== '' || filters.maxBeds !== '' || filters.minBaths !== '' || filters.maxBaths !== '' || filters.minEnergyRating !== '' || filters.onlyUndervalued !== 'false' || filters.minConfidence !== '';
 
-  const priceOptions = ["", "500", "600", "700", "750", "800", "900", "1000", "1250", "1500", "1750", "2000", "2500", "3000", "3500", "4000", "5000", "7000"];
+  const priceOptions = ["", "100000", "200000", "300000", "400000", "500000", "600000", "700000", "800000", "900000", "1000000", "1250000", "1500000", "2000000", "3000000", "5000000"];
   const bedOptions = ["", "1", "2", "3", "4", "5", "6", "7"];
 
   const toggleAdvanced = () => {
@@ -53,7 +53,7 @@ const SearchBar = () => {
           </div>
 
           <div className="flex flex-col gap-1">
-            <label className="text-xs font-bold text-muted-foreground tracking-wider uppercase">Price Per Month</label>
+            <label className="text-xs font-bold text-muted-foreground tracking-wider uppercase">Sale Price</label>
             <div className="flex gap-2">
               <select 
                 value={filters.minPrice} 
@@ -62,7 +62,7 @@ const SearchBar = () => {
               >
                 <option value="">No Min</option>
                 {priceOptions.filter(p => p).map((p) => (
-                  <option key={p} value={p}>€{Number(p).toLocaleString()}</option>
+                  <option key={p} value={p}>€{(Number(p) / 1000).toLocaleString()}k</option>
                 ))}
               </select>
               <select 
@@ -72,7 +72,7 @@ const SearchBar = () => {
               >
                 <option value="">No Max</option>
                 {priceOptions.filter(p => p).map((p) => (
-                  <option key={p} value={p}>€{Number(p).toLocaleString()}</option>
+                  <option key={p} value={p}>€{(Number(p) / 1000).toLocaleString()}k</option>
                 ))}
               </select>
             </div>

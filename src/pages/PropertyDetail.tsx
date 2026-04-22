@@ -59,6 +59,9 @@ const PropertyDetail = () => {
               src={property.images[0]}
               alt={property.title}
               className="w-full h-full object-cover"
+              onError={(e) => {
+                (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&q=80&w=1200';
+              }}
             />
           </div>
           {property.images.slice(1, 3).map((img, i) => (
@@ -67,6 +70,9 @@ const PropertyDetail = () => {
                 src={img}
                 alt={`${property.title} - ${i + 2}`}
                 className="w-full h-full object-cover"
+                onError={(e) => {
+                  (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&q=80&w=1200';
+                }}
               />
             </div>
           ))}
@@ -81,7 +87,7 @@ const PropertyDetail = () => {
               <p className="text-muted-foreground mb-4">{property.address}</p>
               <div className="flex items-center gap-4">
                 <span className="text-3xl font-bold text-accent">
-                  €{property.price.toLocaleString()}/month
+                  €{property.price.toLocaleString()}
                 </span>
                 <span className={`ber-badge ${berColorMap[property.berColor]}`}>
                   BER {property.berRating}

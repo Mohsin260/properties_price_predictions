@@ -37,6 +37,9 @@ const PropertyCard = ({ property, index }: { property: Property; index: number }
           alt={property.title}
           className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
           loading="lazy"
+          onError={(e) => {
+            (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&q=80&w=1200';
+          }}
         />
         {/* Desirability Badge */}
         <div className="absolute top-2 left-2 bg-card/95 backdrop-blur-sm px-2 py-1 rounded-md shadow-md">
@@ -52,8 +55,8 @@ const PropertyCard = ({ property, index }: { property: Property; index: number }
       {/* Price & BER */}
       <div className="px-4 pt-3 flex flex-col gap-2">
         <div className="flex items-center justify-between">
-          <span className="text-lg font-bold text-foreground">
-            €{property.price.toLocaleString()} per month
+          <span className="text-xl font-bold text-foreground">
+            Price: €{property.price.toLocaleString()}
           </span>
           <span className={`ber-badge ${berColorMap[property.berColor]}`}>
             BER {property.berRating}
@@ -63,7 +66,7 @@ const PropertyCard = ({ property, index }: { property: Property; index: number }
         {property.predictedPrice && property.price < property.predictedPrice * 0.95 && (
           <div className="flex items-center gap-1 text-xs text-green-600 font-bold bg-green-50 w-fit px-2 py-0.5 rounded border border-green-200">
             <Sparkles className="w-3 h-3" />
-            Great Deal! (AI predicted €{property.predictedPrice.toLocaleString()})
+            Great Deal! (AI Predicted Price: €{property.predictedPrice.toLocaleString()})
           </div>
         )}
       </div>

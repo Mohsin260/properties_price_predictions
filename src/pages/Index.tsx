@@ -19,7 +19,8 @@ const sortOptions = [
   { label: "Price: Lowest to Highest", value: "price-asc" },
   { label: "Price: Highest to Lowest", value: "price-desc" },
   { label: "Desirability: Highest to Lowest", value: "desirability-desc" },
-  { label: "Best Value", value: "value-desc" },
+  { label: "Best Value (GIS)", value: "value-desc" },
+  { label: "AI Best Deal", value: "ai-deal-desc" },
 ];
 
 const Index = () => {
@@ -112,6 +113,12 @@ const Index = () => {
           const valueA = a.desirabilityScore / a.pricePerSqm;
           const valueB = b.desirabilityScore / b.pricePerSqm;
           return valueB - valueA;
+        });
+      case "ai-deal-desc":
+        return sorted.sort((a, b) => {
+          const dealA = a.predictedPrice ? a.predictedPrice / a.price : 0;
+          const dealB = b.predictedPrice ? b.predictedPrice / b.price : 0;
+          return dealB - dealA;
         });
       default:
         return sorted;

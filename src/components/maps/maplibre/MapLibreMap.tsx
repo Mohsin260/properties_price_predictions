@@ -157,45 +157,42 @@ const MapLibreMap = ({
           </Marker>
         ))}
 
-        {/* Amenity Markers - Parks */}
-        {showAmenities && properties.length > 0 && (
+        {/* Amenity Markers */}
+        {showAmenities && (
           <>
-            {Array.from(new Set(properties.map(p => p.nearestAmenities.park.name))).map((parkName) => {
-              const park = properties.find(p => p.nearestAmenities.park.name === parkName)?.nearestAmenities.park;
-              if (!park) return null;
-              
-              return (
-                <Marker
-                  key={`park-${parkName}`}
-                  latitude={park.coordinates.lat}
-                  longitude={park.coordinates.lng}
-                  anchor="center"
-                >
-                  <div className="w-6 h-6 bg-green-500 rounded-full flex items-center justify-center shadow-md border-2 border-white">
-                    <span className="text-white text-xs font-bold">P</span>
-                  </div>
-                </Marker>
-              );
-            })}
-
-            {/* Bus Stations */}
-            {Array.from(new Set(properties.map(p => p.nearestAmenities.busStation.name))).map((busName) => {
-              const bus = properties.find(p => p.nearestAmenities.busStation.name === busName)?.nearestAmenities.busStation;
-              if (!bus) return null;
-              
-              return (
-                <Marker
-                  key={`bus-${busName}`}
-                  latitude={bus.coordinates.lat}
-                  longitude={bus.coordinates.lng}
-                  anchor="center"
-                >
-                  <div className="w-6 h-6 bg-blue-500 rounded-full flex items-center justify-center shadow-md border-2 border-white">
-                    <span className="text-white text-xs font-bold">B</span>
-                  </div>
-                </Marker>
-              );
-            })}
+            {properties
+              .filter(p => p.id === selectedPropertyId || p.id === hoveredPropertyId || properties.length <= 10)
+              .map((p) => (
+                <div key={`amenities-${p.id}`}>
+                  {/* Park */}
+                  <Marker
+                    latitude={p.nearestAmenities.park.coordinates.lat}
+                    longitude={p.nearestAmenities.park.coordinates.lng}
+                    anchor="center"
+                  >
+                    <div className="w-6 h-6 bg-green-500 rounded-full flex items-center justify-center shadow-md border-2 border-white cursor-help group relative">
+                      <span className="text-white text-[10px] font-bold">P</span>
+                      <div className="absolute bottom-full mb-2 hidden group-hover:block bg-card px-2 py-1 rounded shadow-lg text-[10px] whitespace-nowrap z-50">
+                        {p.nearestAmenities.park.name} ({formatDistance(p.nearestAmenities.park.distanceM)})
+                      </div>
+                    </div>
+                  </Marker>
+                  
+                  {/* Bus Station */}
+                  <Marker
+                    latitude={p.nearestAmenities.busStation.coordinates.lat}
+                    longitude={p.nearestAmenities.busStation.coordinates.lng}
+                    anchor="center"
+                  >
+                    <div className="w-6 h-6 bg-blue-500 rounded-full flex items-center justify-center shadow-md border-2 border-white cursor-help group relative">
+                      <span className="text-white text-[10px] font-bold">B</span>
+                      <div className="absolute bottom-full mb-2 hidden group-hover:block bg-card px-2 py-1 rounded shadow-lg text-[10px] whitespace-nowrap z-50">
+                        {p.nearestAmenities.busStation.name} ({formatDistance(p.nearestAmenities.busStation.distanceM)})
+                      </div>
+                    </div>
+                  </Marker>
+                </div>
+              ))}
           </>
         )}
 
@@ -216,10 +213,13 @@ const MapLibreMap = ({
                 src={popupInfo.images[0]} 
                 alt={popupInfo.title}
                 className="w-full h-32 object-cover rounded mb-2"
+                onError={(e) => {
+                  (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&q=80&w=1200';
+                }}
               />
               <h3 className="font-bold text-sm mb-1">{popupInfo.title}</h3>
               <p className="text-lg font-bold text-accent mb-2">
-                €{popupInfo.price.toLocaleString()}/month
+                €{popupInfo.price.toLocaleString()}
               </p>
               <div className="flex gap-3 text-xs text-muted-foreground mb-2">
                 <span>{popupInfo.beds} beds</span>

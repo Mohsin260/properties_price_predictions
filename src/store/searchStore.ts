@@ -24,7 +24,7 @@ interface SearchStore {
 }
 
 const defaultFilters: SearchFilters = {
-  searchType: 'Residential To Let',
+  searchType: 'Residential For Sale',
   location: 'Dublin',
   minPrice: '',
   maxPrice: '',
