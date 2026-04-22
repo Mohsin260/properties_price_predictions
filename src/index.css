@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&family=Playfair+Display:wght@400;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  :root {
+    --background: 0 0% 97%;
+    --foreground: 207 25% 20%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 207 25% 20%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 207 25% 20%;
+
+    --primary: 207 60% 25%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 210 20% 95%;
+    --secondary-foreground: 207 25% 20%;
+
+    --muted: 210 15% 93%;
+    --muted-foreground: 207 10% 50%;
+
+    --accent: 350 75% 50%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 210 15% 88%;
+    --input: 210 15% 88%;
+    --ring: 207 60% 25%;
+
+    --radius: 0.25rem;
+
+    --nav-bg: 207 55% 22%;
+    --nav-foreground: 0 0% 100%;
+    --search-bar-bg: 210 20% 96%;
+    --ber-green: 142 60% 40%;
+    --ber-yellow: 48 90% 50%;
+    --ber-orange: 25 90% 50%;
+    --ber-red: 0 70% 50%;
+    --property-hover: 207 60% 25%;
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 207 30% 10%;
+    --foreground: 210 20% 90%;
+    --card: 207 30% 14%;
+    --card-foreground: 210 20% 90%;
+    --popover: 207 30% 14%;
+    --popover-foreground: 210 20% 90%;
+    --primary: 207 60% 45%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 207 20% 20%;
+    --secondary-foreground: 210 20% 90%;
+    --muted: 207 15% 18%;
+    --muted-foreground: 210 10% 60%;
+    --accent: 350 75% 55%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 207 20% 22%;
+    --input: 207 20% 22%;
+    --ring: 207 60% 45%;
+    --nav-bg: 207 55% 15%;
+    --nav-foreground: 0 0% 100%;
+    --search-bar-bg: 207 20% 16%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans;
+    font-family: 'Lato', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', serif;
+  }
+}
+
+@layer components {
+  .property-card {
+    @apply bg-card rounded overflow-hidden shadow-sm transition-all duration-200;
+  }
+  .property-card:hover {
+    @apply shadow-lg;
+    transform: translateY(-2px);
+  }
+  .search-input {
+    @apply bg-card border border-border rounded px-4 py-2.5 text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-ring;
+  }
+  .nav-link {
+    @apply text-nav-foreground font-semibold text-sm uppercase tracking-wider hover:text-accent transition-colors;
+  }
+  .ber-badge {
+    @apply inline-flex items-center px-1.5 py-0.5 rounded text-xs font-bold;
+  }
+  .view-property-link {
+    @apply text-accent font-bold text-sm uppercase tracking-wider hover:underline inline-flex items-center gap-1;
+  }
+  
+  /* Mapbox popup customization */
+  .mapboxgl-popup-content,
+  .maplibregl-popup-content {
+    @apply rounded-lg shadow-xl p-0 !important;
+    max-width: none !important;
+  }
+  .mapboxgl-popup,
+  .maplibregl-popup {
+    z-index: 1000 !important;
+    max-width: none !important;
+  }
+  .property-popup {
+    max-width: none !important;
+  }
+  .property-popup .maplibregl-popup-content {
+    max-width: none !important;
+  }
+  .mapboxgl-popup-close-button,
+  .maplibregl-popup-close-button {
+    @apply text-foreground hover:text-accent text-xl font-bold !important;
+    right: 8px !important;
+    top: 5px !important;
+    z-index: 99;
+  }
+  .mapboxgl-popup-tip,
+  .maplibregl-popup-tip {
+    @apply border-t-card !important;
+  }
+  
+  /* MapLibre controls styling */
+  .maplibregl-ctrl-group button {
+    @apply bg-card border-border !important;
+  }
+  .maplibregl-ctrl-group button:hover {
+    @apply bg-muted !important;
+  }
+}

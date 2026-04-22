@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="32" fill="#2C5F7C"/>
+  
+  <!-- House icon -->
+  <path d="M32 14L16 26V50H26V38H38V50H48V26L32 14Z" fill="#FFFFFF"/>
+  <path d="M32 14L16 26V50H26V38H38V50H48V26L32 14Z" stroke="#E63946" stroke-width="2" stroke-linejoin="round"/>
+  
+  <!-- Map pin accent -->
+  <circle cx="48" cy="18" r="6" fill="#E63946"/>
+  <circle cx="48" cy="18" r="3" fill="#FFFFFF"/>
+</svg>
