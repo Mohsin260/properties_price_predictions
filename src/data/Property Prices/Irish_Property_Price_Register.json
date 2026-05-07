@@ -1,0 +1,3502 @@
+[
+    {
+        "Date": "2026-04-02",
+        "Address": "13 Castlegate Chase, Adamstown Castle, Lucan, K78 NN28",
+        "County": "Dublin",
+        "Price": "€526,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "26 Woodlands Grove, Blackrock, A94 DDW9",
+        "County": "Dublin",
+        "Price": "€1,400,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "3 Grange Oaks Drive, Kilternan",
+        "County": "Dublin",
+        "Price": "€870,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "3 Haven Bank Palmer Road, Rush, K56 NF80",
+        "County": "Dublin",
+        "Price": "€425,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "3 Mercer Row, Mercer Vale, Cherrywood, D18 YF9R",
+        "County": "Dublin",
+        "Price": "€952,221",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "56 Meadowbank Drive, Millers Glen, Swords",
+        "County": "Dublin",
+        "Price": "€500,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "59 Phoenix Park Avenue, Castleknock",
+        "County": "Dublin",
+        "Price": "€935,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "6 Owenstown Lodge, Fosters Avenue, Owenstown Park, A94 K132",
+        "County": "Dublin",
+        "Price": "€470,622",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "7 Lockhouse Close, Seven Mills, Clonburris",
+        "County": "Dublin",
+        "Price": "€480,001",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "8 Shackleton Mall, Shackleton Park, Lucan, K78 H4C1",
+        "County": "Dublin",
+        "Price": "€475,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "Apartment 46, 143 Merrion Road, Dublin 4, D04 V4X0",
+        "County": "Dublin",
+        "Price": "€708,073",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "Morenze, Dublin Road, Malahide, K36 R254",
+        "County": "Dublin",
+        "Price": "€900,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "106 Rowan Avenue, Kilcarbery, Grange, Dublin 22",
+        "County": "Dublin",
+        "Price": "€285,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "108 Burnell Square, Nothern Cross, Malahide Road, Dublin 17, D17 EK64",
+        "County": "Dublin",
+        "Price": "€317,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "13 Sycamore Road, Finglas, Dublin 11, D11 P274",
+        "County": "Dublin",
+        "Price": "€490,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "26 Rathmore Park, Raheny, Dublin 5, D05 RY18",
+        "County": "Dublin",
+        "Price": "€585,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "31 Willow Park Avenue, Glasnevin, Dublin 11, D11 HN35",
+        "County": "Dublin",
+        "Price": "€680,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "34 Hunters Hall, Hunters Wood, Ballycullen Road, D24 HR83",
+        "County": "Dublin",
+        "Price": "€275,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "36 The Rise, Kingswood Heights, Belgard Road, Dublin 24, D24 PD7A",
+        "County": "Dublin",
+        "Price": "€260,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "37 Eaton Green, Eaton Drive, Rathcoole, D24 EA02",
+        "County": "Dublin",
+        "Price": "€280,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "44 Lockhouse Lawn, Seven Mills, Clonburris",
+        "County": "Dublin",
+        "Price": "€490,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "Apartment 19 The Pines, Beckett Woods, Brighton Road",
+        "County": "Dublin",
+        "Price": "€672,247",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-04-02",
+        "Address": "Apartment 67 Block 3 Watermill, Saint Annes Park, Dublin 5, D05 HY07",
+        "County": "Dublin",
+        "Price": "€325,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "1 Rockville Park, Blackrock, A94 HY24",
+        "County": "Dublin",
+        "Price": "€865,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "15 Bracken Park Close, Carpenterstown Road, D15 P58R",
+        "County": "Dublin",
+        "Price": "€1,360,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "18 Lockhouse Close, Seven Mills, Clonburris",
+        "County": "Dublin",
+        "Price": "€479,999",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "20 Saint Helen's Chase, Saint Helen's Adamstown, Lucan, K78 H5R2",
+        "County": "Dublin",
+        "Price": "€514,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "27 The Oaks, Ridgewood, Swords, K67 P597",
+        "County": "Dublin",
+        "Price": "€397,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "30 Woodland Park, Rush, K56 KW44",
+        "County": "Dublin",
+        "Price": "€300,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "5 Caldragh, Saval Park Road, Dalkey, A96 EKN7",
+        "County": "Dublin",
+        "Price": "€1,280,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "65 Trimleston, Hamlet Lane, Balbriggan, K32 R778",
+        "County": "Dublin",
+        "Price": "€240,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "83 Fosterbrook, Stillorgan Road, Mount Merrion, A94 T8W3",
+        "County": "Dublin",
+        "Price": "€1,106,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "99 Downside Park, Skerries, K34 WP79",
+        "County": "Dublin",
+        "Price": "€650,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "1 Grange Downs, Dublin 14, D14 A582",
+        "County": "Dublin",
+        "Price": "€972,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "26 Riverwood Park, Castleknock, Dublin 15, D15 F6C9",
+        "County": "Dublin",
+        "Price": "€530,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "28 Suttonfield Paddocks, Ballybetagh Road, Kilternan",
+        "County": "Dublin",
+        "Price": "€775,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "3 Newlands Manor Green, Clondalkin, Dublin 22, D22 A8P8",
+        "County": "Dublin",
+        "Price": "€400,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "32 Marlfield Lawn, Kiltipper, Tallaght, Dublin 24, D24 WV04",
+        "County": "Dublin",
+        "Price": "€291,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "33 Laurel House, Carrickmines Green, Glenamuck Road, Carrickmines, D18 DY68",
+        "County": "Dublin",
+        "Price": "€350,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "34 John McCormack Avenue, Walkinstown, Dublin 12, D12 K7V7",
+        "County": "Dublin",
+        "Price": "€450,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "37 Cloonlara Crescent, Finglas South, Dublin 11, D11 R9X9",
+        "County": "Dublin",
+        "Price": "€270,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "39 Nutley Road, Donnybrook, Dublin 4, D04 W1C9",
+        "County": "Dublin",
+        "Price": "€1,510,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "7 Glenfield Close, Clondalkin, Dublin 22, D22 X2T3",
+        "County": "Dublin",
+        "Price": "€370,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "77 Diswellstown Way, Castleknock, Dublin 15, D15 YPN0",
+        "County": "Dublin",
+        "Price": "€710,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "8 Brookdale, Oldbawn, Tallaght, Dublin 24, D24 YW2H",
+        "County": "Dublin",
+        "Price": "€500,500",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "Block C The Hazel Apartment 301 Grange Hall, Brehon Field Road, Dublin 16, D16 EE35",
+        "County": "Dublin",
+        "Price": "€463,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-04-01",
+        "Address": "Cedar House, Quinns Road, Shankill, D18 NN93",
+        "County": "Dublin",
+        "Price": "€830,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "12 Swiftbanks Drive, Swiftbanks, Mill Road",
+        "County": "Dublin",
+        "Price": "€475,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "13 The Walk, Citywest Village, Tallaght, D24 V06D",
+        "County": "Dublin",
+        "Price": "€505,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "16 Willans Way, Clonee, Dublin 15, D15 DP21",
+        "County": "Dublin",
+        "Price": "€295,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "17 Longstone Park, Portrane, Donabate, K36 TH92",
+        "County": "Dublin",
+        "Price": "€445,488",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "172 Corrib Road, Terenure, Dublin 6w, D6W NN23",
+        "County": "Dublin",
+        "Price": "€850,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "18 Holywell Villas, Swords, K67 P471",
+        "County": "Dublin",
+        "Price": "€300,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "18 Melesian Lawn, Feltrim Road, Swords, K67 Y6N6",
+        "County": "Dublin",
+        "Price": "€510,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "2 Woodside Demense, Belmont Aikens Village, Stepaside, Dublin 18, D18 CT9E",
+        "County": "Dublin",
+        "Price": "€440,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "24 Meadowbank Court, Millers Glen, Swords",
+        "County": "Dublin",
+        "Price": "€499,999",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "30 Coldwell Street, Glasthule, Dun Laoghaire, A96 H9Y8",
+        "County": "Dublin",
+        "Price": "€320,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "33 Redford Avenue, Celbridge Link Road, Adamstown",
+        "County": "Dublin",
+        "Price": "€500,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "34 Meadowbank Court, Millers Glen, Swords",
+        "County": "Dublin",
+        "Price": "€525,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "38 Watson Park, Killiney, A96 H4X5",
+        "County": "Dublin",
+        "Price": "€625,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "39 Barnhill Avenue, Dalkey, A96 V584",
+        "County": "Dublin",
+        "Price": "€1,410,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "5 Rockfield, Mornington Grove, Artane, Dublin 5, D05 T627",
+        "County": "Dublin",
+        "Price": "€824,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "54 Meadowbank Drive, Miller S Glen, Swords",
+        "County": "Dublin",
+        "Price": "€500,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "71 Castlegate Way, Adamstown, K78 XF83",
+        "County": "Dublin",
+        "Price": "€463,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "72 Haley's Hill, Malahide Road, Kinsealy",
+        "County": "Dublin",
+        "Price": "€645,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "8 Lockhouse Close, Seven Mills, Clonburris",
+        "County": "Dublin",
+        "Price": "€479,999",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "Apartment 211 Shore Club, Beach Road, Dublin 4, D04 X2K0",
+        "County": "Dublin",
+        "Price": "€550,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "Apartment 51, The Waterfront, Hanover Quay, D02 FC96",
+        "County": "Dublin",
+        "Price": "€775,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "Apartment 7 Wolverstone, Stillorgan Park Avenue, Blackrock, A94 XE28",
+        "County": "Dublin",
+        "Price": "€633,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "134 Camross, Dublin Road, Sutton, Dublin 13, D13 C2Y0",
+        "County": "Dublin",
+        "Price": "€1,550,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "New Cottage, Loughshinny, Skerries, K34 CC60",
+        "County": "Dublin",
+        "Price": "€485,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "12 Chesterfield Grove, Castleknock, Dublin 15, D15 EWH5",
+        "County": "Dublin",
+        "Price": "€1,300,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "13 Durrow Road, Crumlin, D12 Y8H4",
+        "County": "Dublin",
+        "Price": "€375,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "157 Milbrook Avenue, 1 Kilbarrack, Dublin 5, D13 KR52",
+        "County": "Dublin",
+        "Price": "€410,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "16 Exchange Hall, Belgard Square North, Tallaght, Dublin 24, D24 K594",
+        "County": "Dublin",
+        "Price": "€261,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "175 Hampton Square, Navan Road, Dublin 7, D07 C9NY",
+        "County": "Dublin",
+        "Price": "€365,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "19 Avonbeg Road, Tallaght, Dublin 24, D24 R5FE",
+        "County": "Dublin",
+        "Price": "€374,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "19 Kempton Park, Navan Road, Dublin 7, D07 Y7C2",
+        "County": "Dublin",
+        "Price": "€730,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "19 Oakdale Park, Ballycullen, Dublin 24, D24 DDY2",
+        "County": "Dublin",
+        "Price": "€720,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "2 Saint Josephs Court, Prussia Street, Dublin 7, D07 V2P6",
+        "County": "Dublin",
+        "Price": "€760,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "2 The Orchard, Woodfarm Acres, Palmerstown, D20 V903",
+        "County": "Dublin",
+        "Price": "€500,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "24 Shanowen Road, Santry, Dublin 9, D09 P023",
+        "County": "Dublin",
+        "Price": "€200,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "265 Kylemore Road, Ballyfermot, Dublin 10, D10 KX65",
+        "County": "Dublin",
+        "Price": "€371,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "27 Verschoyle Park, Citywest, Dublin 24, D24 P5R3",
+        "County": "Dublin",
+        "Price": "€572,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "33 Monksfield Meadows, Clondalkin, Dublin 22, D22 VH48",
+        "County": "Dublin",
+        "Price": "€400,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "35 Belgree Rise, Tyrrelstown, Dublin 15, D15 X3EE",
+        "County": "Dublin",
+        "Price": "€410,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "4 Blackhall Court, Blackhall Place, Smithfield, Dublin 7, D07 EV50",
+        "County": "Dublin",
+        "Price": "€312,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "4 Fitzroy Avenue, Drumcondra, Dublin 3, D03 X2K8",
+        "County": "Dublin",
+        "Price": "€573,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "4 Kingston Hall, Harolds Grange Road, Sandyford, D18 N766",
+        "County": "Dublin",
+        "Price": "€467,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "61 Ailesbury Grove, Dundrum, Dublin 16, D16 YY24",
+        "County": "Dublin",
+        "Price": "€1,136,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "61 Crumlin Road, Dublin 12, D12 N726",
+        "County": "Dublin",
+        "Price": "€525,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "70 Montrose Crescent, Artane, Dublin 5, D05 N7E5",
+        "County": "Dublin",
+        "Price": "€597,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "96 Balally Drive, Dundrum, Dublin 16, D16 FY03",
+        "County": "Dublin",
+        "Price": "€1,220,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "97 The Ramparts, Loughlinstown, Dublin 18, D18 FC66",
+        "County": "Dublin",
+        "Price": "€440,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "Apartment 2 Joyce Hall, Carrickmines Wood, Brennanstown Road, D18 AK26",
+        "County": "Dublin",
+        "Price": "€422,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "Apartment 32, Second Floor, Ross House",
+        "County": "Dublin",
+        "Price": "€425,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-31",
+        "Address": "Apartment 55, Brabazon Hall, Cork Street, Dublin 8, D08 DF4A",
+        "County": "Dublin",
+        "Price": "€392,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "1 The Walk, Robswall, Malahide, K36 DK23",
+        "County": "Dublin",
+        "Price": "€410,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "107 Wyckham Point, Ballinteer, Dublin 16, D16 E304",
+        "County": "Dublin",
+        "Price": "€650,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "11h Belgard Square, Belgard, Tallaght, D24 EH31",
+        "County": "Dublin",
+        "Price": "€252,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "12 Hillcourt Road, Glenageary, A96 D8N4",
+        "County": "Dublin",
+        "Price": "€1,300,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "14 Orlynn Park, Station Road, Lusk, K45 HY96",
+        "County": "Dublin",
+        "Price": "€515,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "29 Bellingham Green, Park Road, Rush",
+        "County": "Dublin",
+        "Price": "€500,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "45 Green Road, Blackrock, A94 H6X0",
+        "County": "Dublin",
+        "Price": "€1,350,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "55 Cassian Court South, Royal Canal Park, Ratoath Road, D15 X599",
+        "County": "Dublin",
+        "Price": "€310,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "8 Camden Buildings, Dublin 2, D02 DX83",
+        "County": "Dublin",
+        "Price": "€575,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "83 Ardmore Park, Kill Avenue, Dun Laoghaire, A96 F624",
+        "County": "Dublin",
+        "Price": "€642,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "90 Somerton, Donabate, K36 YW18",
+        "County": "Dublin",
+        "Price": "€685,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "Belclare, Newtownpark Avenue, Blackrock, A94 X0K7",
+        "County": "Dublin",
+        "Price": "€990,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "Brazil Cottages, Swords, X00 X0XX",
+        "County": "Dublin",
+        "Price": "€439,461",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "Rathbeale Hall, Rathbeal, Swords, K67 X772",
+        "County": "Dublin",
+        "Price": "€5,599,600",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "West Lodge, Rathbeal, Swords, K67 K5K6",
+        "County": "Dublin",
+        "Price": "€354,718",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "10 Castle Avenue, Brennanstown, Dublin 18",
+        "County": "Dublin",
+        "Price": "€854,999",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "11 Woodstown Rise, Knocklyon, Dublin 16, D16 XY24",
+        "County": "Dublin",
+        "Price": "€595,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "111 Ardlea Road, Artane, Dublin 5, D05 P9C1",
+        "County": "Dublin",
+        "Price": "€595,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "13 Ardmore Crescent, Artane, Dublin 5, D05 N5Y9",
+        "County": "Dublin",
+        "Price": "€592,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "139 Walkinstown Drive, Dublin 12, D12 X6K4",
+        "County": "Dublin",
+        "Price": "€460,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "14 Fernleigh Park, Castleknock, Dublin 15, D15 YTE2",
+        "County": "Dublin",
+        "Price": "€397,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "162 Edgewood Lawn, Blanchardstown, Dublin 15, D15 FWH7",
+        "County": "Dublin",
+        "Price": "€393,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "18 Ashbrook House, Sallymount Avenue, D06 VW11",
+        "County": "Dublin",
+        "Price": "€540,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "18 Dodderbank Apartments, Milltown, Dublin 14, D14 NX75",
+        "County": "Dublin",
+        "Price": "€580,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "2 Thomastown House, Spencer Dock, North Wall, Dublin 1, D01 PW80",
+        "County": "Dublin",
+        "Price": "€456,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "20 Cairnwood Court, Cookstown, Tallaght, Dublin 24, D24 FD8N",
+        "County": "Dublin",
+        "Price": "€380,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "20 Castle Park, Tallaght, Dublin 24, D24 RPX8",
+        "County": "Dublin",
+        "Price": "€360,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "22 Fernhill Gate, Leopardstown Road, Sandyford",
+        "County": "Dublin",
+        "Price": "€569,999",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "29 Lockhouse Lawn, Seven Mills, Clonburris",
+        "County": "Dublin",
+        "Price": "€480,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "3 Belfry Lodge, Citywest, D24 R236",
+        "County": "Dublin",
+        "Price": "€287,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "3 Millrace Lawn, Millrace Road, Phoenix Park Racecourse, D15 C827",
+        "County": "Dublin",
+        "Price": "€435,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "308 Longbaot Quay North, Sr John Rogerson Quay, Dublin 2, D02 VF51",
+        "County": "Dublin",
+        "Price": "€535,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "35 Middle Third, Killester, Dublin 5, D05 XK16",
+        "County": "Dublin",
+        "Price": "€680,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "37 Mount Anville Park, Goatstown, Dublin 14, D14 NX03",
+        "County": "Dublin",
+        "Price": "€918,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "39 Montrose Crescent, Artane, Dublin 5, D05 T6F9",
+        "County": "Dublin",
+        "Price": "€655,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "4 The Thicket, Hainault Road, Foxrock, Dublin 18, D18 W2X4",
+        "County": "Dublin",
+        "Price": "€1,960,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "40 Elm Mount Road, Beaumont, Dublin 3, D09 VK03",
+        "County": "Dublin",
+        "Price": "€520,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "41 Juliet Square, Saint Edmunds, Lucan, K78 ND60",
+        "County": "Dublin",
+        "Price": "€330,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "43 Viking Harbour, Ushers Island, Dublin 8, D08 WP78",
+        "County": "Dublin",
+        "Price": "€263,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "44 Glenbeigh Road, Old Cabra Road, Dublin 7, D07 E7C6",
+        "County": "Dublin",
+        "Price": "€572,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "44 Glendun Road, Whitehall, Dublin 9, D09 TV20",
+        "County": "Dublin",
+        "Price": "€530,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "47 Bancroft Avenue, Tallaght, D24 XCV9",
+        "County": "Dublin",
+        "Price": "€525,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "56 Fishermans Wharf, York Road, Dublin 4, D04 K5R7",
+        "County": "Dublin",
+        "Price": "€493,500",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "57 Moyne Road, Ranelagh, Dublin 6, D06 A4Y7",
+        "County": "Dublin",
+        "Price": "€1,200,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "Apartment 141, The Old Distillery, Anne Street North, D07 WR20",
+        "County": "Dublin",
+        "Price": "€400,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "Apartment 102, Royal Canal Court, Royal Canal Way, Dublin 15, D15 PD29",
+        "County": "Dublin",
+        "Price": "€315,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "Apartment 3 Block A, The Steeples, Saint Laurences Road, Dublin 20, D20 RN61",
+        "County": "Dublin",
+        "Price": "€402,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "Apartment 56 4th Floor, Ross House, Montpellier Avenue",
+        "County": "Dublin",
+        "Price": "€337,500",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "Ioc Lansdowne Valley, Drimnagh, Dublin 12, D12 EA89",
+        "County": "Dublin",
+        "Price": "€250,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-30",
+        "Address": "Twin Oaks, Watermill Road, Raheny, Dublin 5, D05 E0C0",
+        "County": "Dublin",
+        "Price": "€1,020,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "134 Lower Kilmacud Road, Stillorgan, A94 CX51",
+        "County": "Dublin",
+        "Price": "€915,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "2, Charlotte Quay, Ringsend, Dublin 4, D04 PC93",
+        "County": "Dublin",
+        "Price": "€455,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "3 Bayview Lawns, Killiney, A96 F102",
+        "County": "Dublin",
+        "Price": "€645,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "33 Meadowbank Court, Millers Glen, Swords",
+        "County": "Dublin",
+        "Price": "€500,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "40 Lockhouse Lawn, Seven Mills, Clonburris",
+        "County": "Dublin",
+        "Price": "€480,001",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "50 Elm Park, Merrion Road, Ballsbridge, D04 DT85",
+        "County": "Dublin",
+        "Price": "€410,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "58 Wilson Road, Mount Merrion, Blackrock, A94 XR6Y",
+        "County": "Dublin",
+        "Price": "€1,759,999",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "8 Edwars Court, Ballyboden, Dublin 16, D16 A9W9",
+        "County": "Dublin",
+        "Price": "€565,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "Acropolis, Ulverton Road, Dalkey, A96 HH94",
+        "County": "Dublin",
+        "Price": "€1,161,250",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "Apartment 13b - Emmet Lodge, Saint Vincents Street West, Dublin 8, D08 PT89",
+        "County": "Dublin",
+        "Price": "€335,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "Dromore, Grove Avenue, Blackrock, A94 RF68",
+        "County": "Dublin",
+        "Price": "€1,295,250",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "11 Addison Avenue, Addison Park, Glasnevin, Dublin 11, D11 NH26",
+        "County": "Dublin",
+        "Price": "€890,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "2 Dean Swift Road, Glasnevin, Dublin 11, D11 NVE2",
+        "County": "Dublin",
+        "Price": "€525,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "61 Kincora Road, Clontarf, Dublin 3, D03 N960",
+        "County": "Dublin",
+        "Price": "€1,150,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "7 Llewellyn Lawn, Rathfarnham, Dublin 16, D16 Y267",
+        "County": "Dublin",
+        "Price": "€580,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "77 Highgrove Mount Talbot, Monastery Road, D22 TX95",
+        "County": "Dublin",
+        "Price": "€300,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "93 Roebuck Castle, Clonskeagh, Dublin 14, D14 PX43",
+        "County": "Dublin",
+        "Price": "€870,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "Apartment 8, Montgomery Court, Foley Street, Dublin 1, D01 WK16",
+        "County": "Dublin",
+        "Price": "€355,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "12 Lyreen Lodge, Dunboyne Road, Maynooth, W23 N2PK",
+        "County": "Dublin",
+        "Price": "€820,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "15 Kill Avenue, Dun Laoghaire, A96 Y163",
+        "County": "Dublin",
+        "Price": "€722,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "20 Downside, Skerries, K34 YR44",
+        "County": "Dublin",
+        "Price": "€615,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "20 Esker Glebe, Lucan, K78 X8D6",
+        "County": "Dublin",
+        "Price": "€460,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "23 Silver Pines, Brewery Road, Stillorgan, A94 K310",
+        "County": "Dublin",
+        "Price": "€745,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "24 Drumnigh Oaks, Portmarnock, D13 W2WK",
+        "County": "Dublin",
+        "Price": "€934,900",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "26 Wolverton Glen, Dalkey, A96 W2C1",
+        "County": "Dublin",
+        "Price": "€815,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "39 Craoibhin Park, Balbriggan, K32 W218",
+        "County": "Dublin",
+        "Price": "€295,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "56 Trimleston, Hamlet Lane, Balbriggan, K32 PK10",
+        "County": "Dublin",
+        "Price": "€237,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "82 Capel Street, Dublin 1, D01 WC04",
+        "County": "Dublin",
+        "Price": "€1,603,863",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "Apartment 13 The Pines, Becket Woods, Brighton Road",
+        "County": "Dublin",
+        "Price": "€675,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "Unit 2 25 Street Peters Road, Phibsborough",
+        "County": "Dublin",
+        "Price": "€157,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "Unit 3 25 Street Peters Road, Phibsborough",
+        "County": "Dublin",
+        "Price": "€157,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "Unit 4 25 Street Peters Road, Phibsborough",
+        "County": "Dublin",
+        "Price": "€157,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "Unit 5 25 Street Peters Road, Phibsborough",
+        "County": "Dublin",
+        "Price": "€157,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "100 Balally Drive, Dundrum, Dublin 16, D16 C566",
+        "County": "Dublin",
+        "Price": "€782,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "106 Killala Road, Cabra West, Dublin 7, D07 ENH2",
+        "County": "Dublin",
+        "Price": "€479,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "113 Donnybrook Manor, Donnybrook, Dublin 4, D04 V6F8",
+        "County": "Dublin",
+        "Price": "€810,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "13 Cremorne, Temple Park, Dartry, D06 HD71",
+        "County": "Dublin",
+        "Price": "€437,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "17 Lymewood Mews, Santry, Dublin 9, D09 K750",
+        "County": "Dublin",
+        "Price": "€350,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "2 Bella Vista Lodge, Off Butterfield Avenue, Rathfarnham, D14 K2T9",
+        "County": "Dublin",
+        "Price": "€898,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "21 Iveagh Gardens, Crumlin Road, Dublin 12, D12 DP40",
+        "County": "Dublin",
+        "Price": "€611,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "22 Phoinex Street, Inchicore, Dublin 10, D10 PN30",
+        "County": "Dublin",
+        "Price": "€310,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "23-24 Abbey Road, Monkstown, Blackrock, A94 C927",
+        "County": "Dublin",
+        "Price": "€910,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "23-24 Abbey Road, Monkstown, Blackrock, A94 C927",
+        "County": "Dublin",
+        "Price": "€720,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "292 Kestrel Building Blocks 9a 9c, Heuston South Quarter, Saint Johns Road West, Dublin 8, D08 W6W3",
+        "County": "Dublin",
+        "Price": "€535,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "3 Old Bridge Road, Dublin 16, D16 VH58",
+        "County": "Dublin",
+        "Price": "€700,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "3 Parkside Crescent, Parkside, Malahide Road, Dublin 3, D13 F75C",
+        "County": "Dublin",
+        "Price": "€545,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "35 Cowper Road, Rathmines, Dublin 6, D06 CF24",
+        "County": "Dublin",
+        "Price": "€1,950,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "4 Lockhouse Close, Seven Mills, Clonburris",
+        "County": "Dublin",
+        "Price": "€500,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "43 Kilteragh Road, Foxrock, Dublin 18, D18 Y6W8",
+        "County": "Dublin",
+        "Price": "€1,680,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "46 Dromard Road, Drimnagh, Dublin 12, D12 FF10",
+        "County": "Dublin",
+        "Price": "€456,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "46 Nutgrove Park, Clonskeagh, Dublin 14, D14 CH99",
+        "County": "Dublin",
+        "Price": "€1,180,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "513 Kilmainham Square, Inchicore Road, Kilmainham, Dublin 8, D08 N674",
+        "County": "Dublin",
+        "Price": "€510,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "7 Finn Street, Dublin 7, D07 V4P6",
+        "County": "Dublin",
+        "Price": "€480,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "77 Shelbourne Village, Ringsend Road, Dublin 4, D04 PC96",
+        "County": "Dublin",
+        "Price": "€378,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "Apartment 10, The Pines, Beckett Woods",
+        "County": "Dublin",
+        "Price": "€684,999",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "Apartment 1, 82 Lower Drumcondra Road, Drumcondra, D09 X0W2",
+        "County": "Dublin",
+        "Price": "€995,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "Apartment 11, Silken Park, Citywest, Dublin 22, D22 XF43",
+        "County": "Dublin",
+        "Price": "€295,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "Shrewsbury Square 43, Ballsbridge, Dublin 4, D04 YD59",
+        "County": "Dublin",
+        "Price": "€815,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-27",
+        "Address": "Unit 1 25 Street Peters Road, Phibsborough, D07 KH32",
+        "County": "Dublin",
+        "Price": "€157,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "11 Longview Place, Millers Glen, Swords, K67 X0E7",
+        "County": "Dublin",
+        "Price": "€540,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "13 Lissadel Wood, Swords Road, Malahide, K36 D458",
+        "County": "Dublin",
+        "Price": "€450,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "19 Dundela Haven, Sandycove, A96 P4F5",
+        "County": "Dublin",
+        "Price": "€610,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "2 Weaver's View, Clonsilla, D15 Y26X",
+        "County": "Dublin",
+        "Price": "€550,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "4 Mason Cross Green, Mason Cross, Newcastle",
+        "County": "Dublin",
+        "Price": "€500,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "40 Wilford Court, Corke Abbey Avenue, Bray, A98 FW94",
+        "County": "Dublin",
+        "Price": "€425,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "5 Riversdale Court, Queens Park, Monkstown, A94 PF60",
+        "County": "Dublin",
+        "Price": "€300,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "Apartment 3, Block 22, Clongriffin, D13 VF62",
+        "County": "Dublin",
+        "Price": "€395,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "Apartment 403 Shore Club, Beach Road, Dublin 4, D04 A2N9",
+        "County": "Dublin",
+        "Price": "€697,660",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "119 Mangerton Road, Drimnagh, Dublin 12, D12 E772",
+        "County": "Dublin",
+        "Price": "€425,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "14 Main Street, Ongar Village, Dublin 15, D15 R9YT",
+        "County": "Dublin",
+        "Price": "€380,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "15 Hawthorn Walk, Bird Avenue, Clonskeagh, Dublin 14, D14 N6X5",
+        "County": "Dublin",
+        "Price": "€650,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "16 Burrowfield Road, Sutton, Dublin 13, D13 K2N6",
+        "County": "Dublin",
+        "Price": "€1,075,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "16 Mellowes Road, Finglas West, Dublin 11, D11 N8W7",
+        "County": "Dublin",
+        "Price": "€390,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "28 Knockmore Grove, Tallaght, Dublin 24, D24 EC2F",
+        "County": "Dublin",
+        "Price": "€320,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "35 The Willows, Glasnevin, Dublin 11, D11 H6K2",
+        "County": "Dublin",
+        "Price": "€620,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "6 Glenshesk Road, Whitehall, Dublin 9, D09 E821",
+        "County": "Dublin",
+        "Price": "€220,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "61 Castlegate, Castle Street, Dublin 2, D02 TW02",
+        "County": "Dublin",
+        "Price": "€275,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "61 Owendoher Lodge, Ballyboden Road, Rathfarnham, Dublin 16, D16 A4E9",
+        "County": "Dublin",
+        "Price": "€515,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "67 Cherrywood Grove, Clondalkin, Dublin 22, D22 DE03",
+        "County": "Dublin",
+        "Price": "€385,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "82 Blasket Square, Waterville, Blanchardstown, Dublin 15, D15 F861",
+        "County": "Dublin",
+        "Price": "€310,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "Apartment 3, Castle View House, Castle Road, D18 HHE2",
+        "County": "Dublin",
+        "Price": "€450,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "Apartment 2 Herbert Mews, 22 Baggot Lane, Ballsbridge, Dublin 4, D04 AV99",
+        "County": "Dublin",
+        "Price": "€535,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "Apartment 31 - Whatley Hall, Archers Wood, Dublin 15, D15 AD78",
+        "County": "Dublin",
+        "Price": "€311,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "Apartment 9 Garthy Wood, Knocklyon Road, Dublin 16, D16 YR70",
+        "County": "Dublin",
+        "Price": "€403,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "155 Dunowen, Seafield Road East, Clontarf, D03 VK63",
+        "County": "Dublin",
+        "Price": "€2,146,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "13 Villa Nova, Mount Merrion Avenue, Blackrock, A94 W104",
+        "County": "Dublin",
+        "Price": "€540,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "15 Granite Hall, Rosmeen Gardens, Dun Laoghaire, A96 T322",
+        "County": "Dublin",
+        "Price": "€1,295,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "15 Johnsbridge Grove, Lucan, K78 XP59",
+        "County": "Dublin",
+        "Price": "€528,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "16 Rockford Manor, Stradbrook, A94 XK52",
+        "County": "Dublin",
+        "Price": "€765,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "21 Boroimhe Maples, Swords, K67 EH59",
+        "County": "Dublin",
+        "Price": "€320,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "21 Griffen Glen Drive, Glenbrook, Lucan, K78 FD77",
+        "County": "Dublin",
+        "Price": "€420,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "223 The Crescent Building, Park West Pointe, Dublin 12, D12 N289",
+        "County": "Dublin",
+        "Price": "€271,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "23 Larkfield Park, Kimmage, Dublin 6w, D6W C793",
+        "County": "Dublin",
+        "Price": "€805,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "24 Larkfield Square, Lucan, K78 RW08",
+        "County": "Dublin",
+        "Price": "€400,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "28 Castle Court, Killiney, A96 HN28",
+        "County": "Dublin",
+        "Price": "€475,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "3 Westbrook Park, Lucan, Hillcrest, K78 V9Y3",
+        "County": "Dublin",
+        "Price": "€465,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "35 Abbey Green, The Baskins, Cloghran, K67 T3K2",
+        "County": "Dublin",
+        "Price": "€640,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "42 Earls Court, Block A, Reuben Street, D08 V322",
+        "County": "Dublin",
+        "Price": "€119,296",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "56 Seabury Crescent, Malahide, K36 NY05",
+        "County": "Dublin",
+        "Price": "€810,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "61 Phoenix Park Avenue, Phoenix Park Racecourse, Ashtown",
+        "County": "Dublin",
+        "Price": "€901,672",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "62 Thornhill Oaks, Blackrock, A94 X8PC",
+        "County": "Dublin",
+        "Price": "€975,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "77 Larkfield Grove, Harold's Cross, Dublin 6w, D6W PX68",
+        "County": "Dublin",
+        "Price": "€580,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "Apartment 24, 143 Merrion Road, Dublin 4, D04 W2RA",
+        "County": "Dublin",
+        "Price": "€780,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "Apartment 302 Block K, Beechwood Court, Stillorgan",
+        "County": "Dublin",
+        "Price": "€480,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "1-20 Lockhouse Wood, Lockhouse Way, Seven Mills Clonburris",
+        "County": "Dublin",
+        "Price": "€9,795,050",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "10 Ard Mor Close, Fortunestown Lane, Tallaght, Dublin 24, D24 Y6F4",
+        "County": "Dublin",
+        "Price": "€142,500",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "106 Clonliffe Avenue, Ballybough, Dublin 3, D03 W354",
+        "County": "Dublin",
+        "Price": "€360,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "11 Greenogue Drive, Rathcoole, D24 R832",
+        "County": "Dublin",
+        "Price": "€560,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "14 Violet Hill Drive, Glasnevin, Dublin 11, D11 N9C3",
+        "County": "Dublin",
+        "Price": "€340,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "24 Daniel Street, Dublin 8, D08 E4P1",
+        "County": "Dublin",
+        "Price": "€290,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "24 Kennan Copse, Luttrellstown Gate, Castleknock",
+        "County": "Dublin",
+        "Price": "€709,999",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "35 Glencarrig Drive, Firhouse, Dublin 24, D24 XN2H",
+        "County": "Dublin",
+        "Price": "€471,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "40 Woodlawn Park, Churchtown, Dublin 14, D14 KN23",
+        "County": "Dublin",
+        "Price": "€985,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "41 Watermeadow Park, Dublin 24, D24 CH7V",
+        "County": "Dublin",
+        "Price": "€450,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "7 Roselawn Way, Castleknock, Dublin 15, D15 E0WF",
+        "County": "Dublin",
+        "Price": "€575,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "79 Grange Abbey Road, Donaghmede, Dublin 13, D13 P218",
+        "County": "Dublin",
+        "Price": "€550,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "9 Glenbourne Close, Leopardstown Valley, Leopardstown, Dublin 18, D18 E6X6",
+        "County": "Dublin",
+        "Price": "€686,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "96 Rowan Avenue, Kilcarbery, Grange",
+        "County": "Dublin",
+        "Price": "€280,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-26",
+        "Address": "Apartment 206, New Seskin Court, Whitestown Way, Dublin 24, D24 W540",
+        "County": "Dublin",
+        "Price": "€304,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "10 Tivoli Close, Dun Laoghaire, A96 E339",
+        "County": "Dublin",
+        "Price": "€395,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "15 Cheiftans Lodge, Cheiftains Way, Balbriggan, K32 VF43",
+        "County": "Dublin",
+        "Price": "€227,500",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "16 Crosstrees, Main Street, Howth, Dublin 13, D13 XD89",
+        "County": "Dublin",
+        "Price": "€585,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "17 The Pines, Beckett Woods, Foxrock",
+        "County": "Dublin",
+        "Price": "€710,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "20 Tymon Grove, Tallaght, Dublin 24, D24 W72N",
+        "County": "Dublin",
+        "Price": "€460,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "4 Talbot Hall, Applewood Village, Swords, K67 R529",
+        "County": "Dublin",
+        "Price": "€80,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "8 Ashdale Court, Kinsealy Court, Swords, K67 N206",
+        "County": "Dublin",
+        "Price": "€520,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "9 Church Fields Park, Church Fields East, Dublin 15",
+        "County": "Dublin",
+        "Price": "€485,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "Flat 1 394 North Circular Road, Dublin 7, D07 KX6E",
+        "County": "Dublin",
+        "Price": "€300,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "1 Leopardstown Rise, Leopardstown Road, Foxrock, Dublin 18, D18 E034",
+        "County": "Dublin",
+        "Price": "€1,255,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "103 Ballintyre Meadows, Ballintyre Hall, Ballinteer Avenue, Dublin 16, D16 WP66",
+        "County": "Dublin",
+        "Price": "€506,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "11 Morehampton Square, Dublin 4, D04 T324",
+        "County": "Dublin",
+        "Price": "€600,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "110 Carrigwood, Ballycullen Drive, Firhouse, Dublin 24, D24 HR4R",
+        "County": "Dublin",
+        "Price": "€670,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "12 Carrig Hill Drive, Portmarnock, D13 PT89",
+        "County": "Dublin",
+        "Price": "€645,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "12 Church Fields Glen, Church Fields East",
+        "County": "Dublin",
+        "Price": "€430,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "13 Phibblestown House, Ongar, Clonsilla, D15 HY90",
+        "County": "Dublin",
+        "Price": "€327,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "14 Bealing Avenue, Bealing Village, Tyrrelstown, Dublin 15, D15 K5N9",
+        "County": "Dublin",
+        "Price": "€285,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "142 Cappagh Road, Finglas West, Dublin 11, D11 C9F9",
+        "County": "Dublin",
+        "Price": "€325,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "18 Church Fields Glen, Church Fields East",
+        "County": "Dublin",
+        "Price": "€495,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "22 Hunters Hall, Hunterswood, Firhouse, Dublin 24, D24 H002",
+        "County": "Dublin",
+        "Price": "€215,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "22 Lissenfield, Rathmines Road Lower, Dublin 6, D06 DE15",
+        "County": "Dublin",
+        "Price": "€375,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "24 Manorfields Avenue, Clonee, Dublin 15, D15 W2K7",
+        "County": "Dublin",
+        "Price": "€420,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "25 Cruise Park Drive, Tyrrlestown, D15 XY59",
+        "County": "Dublin",
+        "Price": "€325,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "27 Mill Park, Old Nangor Road, Clondalkin, Dublin 22, D22 TH56",
+        "County": "Dublin",
+        "Price": "€325,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "28 Orchardstown Avenue, Rathfarnham, Dublin 14, D14 ED77",
+        "County": "Dublin",
+        "Price": "€780,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "29 Tamarisk Heights, Kilnamanagh, Dublin 24, D24 DPW7",
+        "County": "Dublin",
+        "Price": "€505,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "43 Church Fields Avenue, Church Fields East",
+        "County": "Dublin",
+        "Price": "€495,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "48 Portersfield, Clonsilla, Dublin 15, D15 PF21",
+        "County": "Dublin",
+        "Price": "€270,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "5 Carrigmore Grove, Citywest, Saggart, Dublin 24, D24 RH26",
+        "County": "Dublin",
+        "Price": "€422,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "5 Lockhouse Close, Seven Mills, Clonburris",
+        "County": "Dublin",
+        "Price": "€544,800",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "6 Bawnville Drive, Tallaght, D24 C3XK",
+        "County": "Dublin",
+        "Price": "€460,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "6 Brookfield Court, Brookfield Greeen, Kcr, Dublin 12, D12 V226",
+        "County": "Dublin",
+        "Price": "€415,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "6 Castle Avenue, Brennanstown",
+        "County": "Dublin",
+        "Price": "€854,999",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "6 Church Fields Park, Church Fields East",
+        "County": "Dublin",
+        "Price": "€485,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "60 Southmede, Ballinteer Road, Dundrum, Dublin 16, D16 D745",
+        "County": "Dublin",
+        "Price": "€515,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "75 Rathborne Avenue, Rathborne, Dublin 15, D15 NY98",
+        "County": "Dublin",
+        "Price": "€295,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "Apartment 18 - Rathmines Wood, Ardee Road, Rathmines, D06 RX25",
+        "County": "Dublin",
+        "Price": "€413,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "Apartment 6 The Hardwicke, North Brunswick Street, Dublin 7, D07 V128",
+        "County": "Dublin",
+        "Price": "€306,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "1 Rowan Park, Kilcarbery, Grange, Dublin 22",
+        "County": "Dublin",
+        "Price": "€499,999",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "2 4 6 8 Redford Avenue 14 16 Redford Drive and 20 Redford Place, The Boulavard",
+        "County": "Dublin",
+        "Price": "€2,754,428",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "34 Kennan Avenue, Luttrellstown Gate, Dublin 15",
+        "County": "Dublin",
+        "Price": "€565,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "37 Bellingham Green, Park Road, Rush",
+        "County": "Dublin",
+        "Price": "€515,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "Apartment 123 Hampton Lodge, Grace Park Road, Dublin 9, D09 VK06",
+        "County": "Dublin",
+        "Price": "€400,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "Halstead, Church Road, Malahide, K36 NR53",
+        "County": "Dublin",
+        "Price": "€1,725,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "Longford Lodge, 25 Monkstown Crescent, Monkstown, Blackrock, A94 C4H5",
+        "County": "Dublin",
+        "Price": "€1,350,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "1 Cullenswood Court, Cullenswood Park, Ranelagh, Dublin 6, D06 PW73",
+        "County": "Dublin",
+        "Price": "€1,670,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "1 Ropewalk Mews, Ropewalk Place, Ringsend, Dublin 4, D04 A8N1",
+        "County": "Dublin",
+        "Price": "€127,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "11 Newtown Hall, Hazelbrook Square, Whitehall Road, Dublin 14, D14 VY31",
+        "County": "Dublin",
+        "Price": "€546,115",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "13 Ardmore Drive, Artane, Dublin 5, D05 N2T6",
+        "County": "Dublin",
+        "Price": "€470,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "16 Portland Street, Dublin 1, D01 T288",
+        "County": "Dublin",
+        "Price": "€875,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "26 Larkfield Way, Clay Farm, Leopardstown, Dublin 18, D18 E3F1",
+        "County": "Dublin",
+        "Price": "€890,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "42 Elmfield Lawn, Clare Hall, Dublin 13, D13 Y1K6",
+        "County": "Dublin",
+        "Price": "€680,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "5 Dunsoghly Way, Rathoath Road, Finglas, Dublin 11, D11 N27Y",
+        "County": "Dublin",
+        "Price": "€451,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "50 Westhaven, Clonsilla, Dublin 15, D15 E42A",
+        "County": "Dublin",
+        "Price": "€440,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "Apartment 11, Reuben Square, Reuben Street, Dublin 8, D08 TKF5",
+        "County": "Dublin",
+        "Price": "€328,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-25",
+        "Address": "Unit 25 Block 9 Dunsoghly Way, Ratoath Road, Dublin 11, D11 HXE7",
+        "County": "Dublin",
+        "Price": "€442,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "1 Applewood Close, Applewood, Swords, K67 E681",
+        "County": "Dublin",
+        "Price": "€305,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "222 Clontarf Road, Clontarf, Dublin 2, D03 Y5R5",
+        "County": "Dublin",
+        "Price": "€1,125,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "23 The Gallery, Turvey Walk, Donabate, K36 KC84",
+        "County": "Dublin",
+        "Price": "€400,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "23 Verdemont, Blanchardstown, D15 WA09",
+        "County": "Dublin",
+        "Price": "€295,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "28 Bellingham Green, Park Road, Rush",
+        "County": "Dublin",
+        "Price": "€500,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "37 Redford Avenue, Aderrig, Adamstown",
+        "County": "Dublin",
+        "Price": "€500,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "65 College Park, Terenure, Dublin 6w, D6W K066",
+        "County": "Dublin",
+        "Price": "€910,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "76 Rosewood Grove, Lucan, K78 X504",
+        "County": "Dublin",
+        "Price": "€550,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "9 Mason Cross Way, Newcastle",
+        "County": "Dublin",
+        "Price": "€567,500",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "Apartment 18 The Pines, Beckett Woods, Brighton Road",
+        "County": "Dublin",
+        "Price": "€735,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "Apartment 80 Ridge Hall, Shangannah Road, Ballybrack Village, A96 CD78",
+        "County": "Dublin",
+        "Price": "€320,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "Apartment 11 Ross House, Montpelier Avenue, Dublin 7",
+        "County": "Dublin",
+        "Price": "€420,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "Soubirous, Lower Glenageary Road, Glenageary, A96 T8K5",
+        "County": "Dublin",
+        "Price": "€851,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "12 Hillside Park, Rathfarnham, Dublin 16, D16 V8C0",
+        "County": "Dublin",
+        "Price": "€730,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "13 Newlands Manor Fairways, Clondalkin, Dublin 22, D22 A4V2",
+        "County": "Dublin",
+        "Price": "€385,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "14 Woodstown Heights, Knocklyon, Dublin 16, D16 PP76",
+        "County": "Dublin",
+        "Price": "€630,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "22 Hazelgrove, Blessington Road, Tallaght, Dublin 24, D24 P6X0",
+        "County": "Dublin",
+        "Price": "€372,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "22 Woodstown Parade, Dublin 16, D16 X803",
+        "County": "Dublin",
+        "Price": "€850,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "3 Avondale Avenue, Phibsborough, Dublin 7, D07 HH33",
+        "County": "Dublin",
+        "Price": "€501,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "34 Pinehurst, Navan Road, Dublin 7, D07 Y1K8",
+        "County": "Dublin",
+        "Price": "€506,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "58 Marley View, Ballinteer Avenue, Dublin 16, D16 F990",
+        "County": "Dublin",
+        "Price": "€507,500",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "Apartment 34, Grange House, Taylors Hill, Dublin 16, D16 FK09",
+        "County": "Dublin",
+        "Price": "€396,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "Flat 1 6 Grove Park, Rathmines, D06 RC81",
+        "County": "Dublin",
+        "Price": "€1,000,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "180 Adamstown Way, Adamstown, Lucan",
+        "County": "Dublin",
+        "Price": "€500,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "2 Larkfield View, Clay Farm, Leopardstown, D18 YF29",
+        "County": "Dublin",
+        "Price": "€740,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "208 Adamstown Way, Aderrig, Adamstown",
+        "County": "Dublin",
+        "Price": "€445,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "21 Connawood Walk, Old Connaught Avenue, Bray, A98 V067",
+        "County": "Dublin",
+        "Price": "€566,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "2 Old Court Lodge, Firhouse, Dublin 24, D24 X3W7",
+        "County": "Dublin",
+        "Price": "€167,500",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "28 Castlefield Woods, Clonsilla, Dublin 15, D15 NW2Y",
+        "County": "Dublin",
+        "Price": "€525,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "29 The Orchard, Killester, Dublin 5, D05 K193",
+        "County": "Dublin",
+        "Price": "€520,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "29 Torquay Wood, Foxrock, Dublin 18, D18 P5K8",
+        "County": "Dublin",
+        "Price": "€965,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "32a Shancastle Park, Clondalkin, Dublin 22, D22 W5R9",
+        "County": "Dublin",
+        "Price": "€320,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "32b Shancastle Park, Clondalkin, Dublin 22, D22 V9H2",
+        "County": "Dublin",
+        "Price": "€320,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "5 Sycamore Grove, Westminster Park, Foxrock, D18 P8W7",
+        "County": "Dublin",
+        "Price": "€610,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "54 Kinvara Road, Navan Road, Dublin 7, D07 RD26",
+        "County": "Dublin",
+        "Price": "€510,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-24",
+        "Address": "6 Redwood, Hollystown, Dublin 15, D15 PT44",
+        "County": "Dublin",
+        "Price": "€520,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "147 Broadmeadow, Swords, K67 K7P6",
+        "County": "Dublin",
+        "Price": "€701,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "17 Regles Avenue, Lusk, K45 TD73",
+        "County": "Dublin",
+        "Price": "€390,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "21 Orpen Hill, Blackrock, A94 N2K4",
+        "County": "Dublin",
+        "Price": "€705,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "26 Fernhill Gate, Leopardstown Road, Sandyford",
+        "County": "Dublin",
+        "Price": "€489,403",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "3 Willowfield, Park Avenue, Sandymount, D04 R838",
+        "County": "Dublin",
+        "Price": "€685,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "55 Trimleston Gardens, Booterstown, A94 A3C3",
+        "County": "Dublin",
+        "Price": "€1,030,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "74 The Crescent, Millbrook Lawns, Tallaght, D24 V2TR",
+        "County": "Dublin",
+        "Price": "€442,500",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "Apartment 310 Shore Club, Beach Road, Dublin 4, D04 W9E2",
+        "County": "Dublin",
+        "Price": "€960,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "14 Ferndale, Seafield Road, Blackrock, A94 RY73",
+        "County": "Dublin",
+        "Price": "€1,285,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "Ground Floor Apartment 1 32 Abbeyview, Monkstown, A94 V095",
+        "County": "Dublin",
+        "Price": "€173,333",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "Mid Floor Apartment 2 32 Abbeyview, Monkstown, A94 RX93",
+        "County": "Dublin",
+        "Price": "€173,333",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "Top Apartment 3 32 Abbeyview, Monkstown, A94 VX76",
+        "County": "Dublin",
+        "Price": "€173,333",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "1 Herbert Park Mews, Donnybrook, Dublin 4, D04 YF75",
+        "County": "Dublin",
+        "Price": "€485,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "11 Charleville Square, Rathfarnham, Dublin 6, D14 RX58",
+        "County": "Dublin",
+        "Price": "€775,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "2 Western Way, Phibsboro, Dublin 7, D07 K1WX",
+        "County": "Dublin",
+        "Price": "€605,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "200 Cooley Road, Drimnagh, Dublin 12, D12 YNE4",
+        "County": "Dublin",
+        "Price": "€330,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "3 Castle Terrace, Brennanstown, D18 YP1D",
+        "County": "Dublin",
+        "Price": "€775,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "3 Lourdes Road, Maryland, Dublin 8, D08 T3H4",
+        "County": "Dublin",
+        "Price": "€304,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "4 Castle Avenue, Brennanstown, D18 WK3T",
+        "County": "Dublin",
+        "Price": "€865,097",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "42 Carnew Street, Circular Road North, Dublin 7, D07 Y2Y3",
+        "County": "Dublin",
+        "Price": "€490,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "47 Castlecurragh Heath, Mulhuddart, Dublin 15, D15 DP46",
+        "County": "Dublin",
+        "Price": "€378,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "47 The Meadow View, Clay Farm, Leopardstown",
+        "County": "Dublin",
+        "Price": "€415,109",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "59b Aras Na Cluaine, Clondalkin, Dublin 22",
+        "County": "Dublin",
+        "Price": "€246,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "6 Saint Johns Terrace, Mount Brown, Kilmainham, D08 R66C",
+        "County": "Dublin",
+        "Price": "€545,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "8 Grove Road, Finglas, Dublin 11, D11 X990",
+        "County": "Dublin",
+        "Price": "€440,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "Apartment Overhead, Gilnd's Grocery Shop, Main Street, D18 WF30",
+        "County": "Dublin",
+        "Price": "€350,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "Apartment 108, The Ash, Trimbleston, Dublin 14, D14 WD89",
+        "County": "Dublin",
+        "Price": "€625,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "Apartment 4, Smithfield Village, Smithfield, Dublin 7, D07 C667",
+        "County": "Dublin",
+        "Price": "€431,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "Apartment 7 - Hybla Court, Blackhorse Avenue, Dublin 7, D07 HD27",
+        "County": "Dublin",
+        "Price": "€315,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "20 Church Fields Glen, Church Fields East",
+        "County": "Dublin",
+        "Price": "€430,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "39 Millhill Park, Skerries, K34 WV32",
+        "County": "Dublin",
+        "Price": "€545,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "45 Kiltipper Gate, Tallaght, Dublin 24, D24 RA51",
+        "County": "Dublin",
+        "Price": "€250,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "1 Rathdown Grove, Sandyford Road, Dundrum, Dublin 14, D16 P5Y8",
+        "County": "Dublin",
+        "Price": "€575,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "19 Madden Road, South Circular Road, Dublin 8, D08 T9V3",
+        "County": "Dublin",
+        "Price": "€595,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "191 Clonsilla Road, Dublin 15, D15 YYK3",
+        "County": "Dublin",
+        "Price": "€262,500",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "30 Coolrua Drive, Beaumont, Dublin 9, D09 Y023",
+        "County": "Dublin",
+        "Price": "€476,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "339 Killinarden Estate, Tallaght, Dublin 24, D24 V6H2",
+        "County": "Dublin",
+        "Price": "€340,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "60 Hazelbury Green, Clonee, Dublin 15, D15 R7X9",
+        "County": "Dublin",
+        "Price": "€525,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-23",
+        "Address": "Apartment 12 Ground Floor, Ross House, Montpelier Avenue, D07 HXK8",
+        "County": "Dublin",
+        "Price": "€327,327",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "13 Bayview Close, Killiney, A96 F248",
+        "County": "Dublin",
+        "Price": "€305,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "33 Smiths Villas, York Road, Dun Laoghaire, A96 Y578",
+        "County": "Dublin",
+        "Price": "€610,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "Apartment 19 Block 11 Gallery Quay, Dublin 2, D02 V386",
+        "County": "Dublin",
+        "Price": "€480,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "Apartment 30 The Gardens at Elmpark Green, Merrion Road, Dublin 4, D04 N2C4",
+        "County": "Dublin",
+        "Price": "€730,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "Apartment 4b - Emmet Lodge, Saint Vincents Street West, Dublin 8, D08 PH21",
+        "County": "Dublin",
+        "Price": "€332,500",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "149 Grace Park Heights, Drumcondra, Dublin 9, D09 HF50",
+        "County": "Dublin",
+        "Price": "€565,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "20 Cherrymount Park, Circular Road North, Dublin 7, D07 C564",
+        "County": "Dublin",
+        "Price": "€875,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "35 Meadowbank, Dublin 6, D06 W8X7",
+        "County": "Dublin",
+        "Price": "€670,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "4 Ferncourt Crescent, Firhouse, Dublin 24, D24 A2N3",
+        "County": "Dublin",
+        "Price": "€540,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "68 Philipsburgh Terrace, Marino, Dublin 3, D03 P6P1",
+        "County": "Dublin",
+        "Price": "€575,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "7 Ballinteer Gardens, Ballinteer, Dundrum, Dublin 16, D16 XF77",
+        "County": "Dublin",
+        "Price": "€640,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "7 The Terrace, Torquay Road, Foxrock, D18 RRK5",
+        "County": "Dublin",
+        "Price": "€2,075,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "9 Maxwell Square, Rathmines, Dublin 6, D06 FK20",
+        "County": "Dublin",
+        "Price": "€955,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "Apartment 3, The Pines Beckett Woods, Brighton Road",
+        "County": "Dublin",
+        "Price": "€670,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "2 Springfield Avenue, Templeogue, D6W WK24",
+        "County": "Dublin",
+        "Price": "€1,600,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "4 Swiftbanks Avenue, Mill Road, Saggart, D24 X38F",
+        "County": "Dublin",
+        "Price": "€475,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "41 Saint Fintans Villas, Deansgrange, Blackrock, A94 TW63",
+        "County": "Dublin",
+        "Price": "€675,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "43a Wellington Park, Templeogue, Dublin 6w, D6W W138",
+        "County": "Dublin",
+        "Price": "€350,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "45 Palmerstown Park, Palmerstown, Dublin 20, D20 NX01",
+        "County": "Dublin",
+        "Price": "€490,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "47 Addison Avenue, Glasnevin, Dublin 9, D11 FD26",
+        "County": "Dublin",
+        "Price": "€385,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "47a Saint Fintan's Villas, Deansgrange, Blackrock",
+        "County": "Dublin",
+        "Price": "€779,999",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "53 Saint Maurs Park, Rush, K56 DP48",
+        "County": "Dublin",
+        "Price": "€350,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "66 Castle Court, Killiney, A96 TK23",
+        "County": "Dublin",
+        "Price": "€462,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "7 Clonuske Rise, Clonuske, Balbriggan, K32 R251",
+        "County": "Dublin",
+        "Price": "€357,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "7 Redford Drive, Adamstown, Lucan, K78 N2V1",
+        "County": "Dublin",
+        "Price": "€500,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "73 Granitefield, Rochestown Avenue, Dun Laoghaire, A96 P3V5",
+        "County": "Dublin",
+        "Price": "€700,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "Apartment 70 Fifth Floor, Block 2 Ross House, Ontpelier Avenue",
+        "County": "Dublin",
+        "Price": "€410,530",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "1 Broadfield Meadows, Rathcoole, D24 FX40",
+        "County": "Dublin",
+        "Price": "€455,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "1 Priory Way, Manor Grove, Dublin 12, D12 F802",
+        "County": "Dublin",
+        "Price": "€600,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "1 Sullivan Street, Dublin 7, D07 YC57",
+        "County": "Dublin",
+        "Price": "€360,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "1 Wyckham Grove, Ballinteer, Dublin 16, D16 A272",
+        "County": "Dublin",
+        "Price": "€565,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "10 Alexandra Walk, Adelaide Square, Whitefriar Street, Dublin 8, D08 F579",
+        "County": "Dublin",
+        "Price": "€389,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "112 Jamestown Avenue, Inchicore, Dublin 8, D08 VC5V",
+        "County": "Dublin",
+        "Price": "€197,500",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "123 Windmill Park, Crumlin, Dublin 12, D12 H7T3",
+        "County": "Dublin",
+        "Price": "€457,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "125 Ferndale Avenue, Glasnevin, Dublin 11, D11 P7W9",
+        "County": "Dublin",
+        "Price": "€442,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "13 Luttrellstown Grove, Castleknock, Dublin 15, D15 H1F2",
+        "County": "Dublin",
+        "Price": "€525,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "14 Fernhill Road, Manor Estate, Terenure, Dublin 12, D12 PK80",
+        "County": "Dublin",
+        "Price": "€810,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "14 Woodstown Vale, Knocklyon, Dublin 16, D16 HX04",
+        "County": "Dublin",
+        "Price": "€600,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "159 The Northumberlands, Love Lane East, Mount Street Upper, Dublin 2, D02 FD77",
+        "County": "Dublin",
+        "Price": "€430,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "17 The Walk, Carrickmines Green, Dublin 18, D18 HE29",
+        "County": "Dublin",
+        "Price": "€610,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "18 Grange Park Walk, Raheny, Dublin 5, D05 DP73",
+        "County": "Dublin",
+        "Price": "€501,500",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "2 Edenwood, Eden Park Drive, Goatstown, Dublin 14, D14 E1E8",
+        "County": "Dublin",
+        "Price": "€700,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "2 Henley Park, Churchtown, Dublin 14, D14 FK58",
+        "County": "Dublin",
+        "Price": "€960,500",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "20 Broadfield Avenue, Rathcoole, D24 EY15",
+        "County": "Dublin",
+        "Price": "€432,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "21 Walnut Lawn, Courtlands, Griffith Avenue, Dublin 9, D09 W7W5",
+        "County": "Dublin",
+        "Price": "€870,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "22 Garnish Square, Waterville, Blanchardstown, D15 RK02",
+        "County": "Dublin",
+        "Price": "€362,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "22 Hunters Way, Hunters Wood, Ballycullen, Dublin 24, D24 H9D0",
+        "County": "Dublin",
+        "Price": "€418,500",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "24 Greenfield Manor, Donnybrook, Dublin 4, D04 RX71",
+        "County": "Dublin",
+        "Price": "€745,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "26 Grange Park Avenue, Raheny, Dublin 5, D05 XP77",
+        "County": "Dublin",
+        "Price": "€599,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "288 Sundrive Road, Crumlin, Dublin 12, D12 K850",
+        "County": "Dublin",
+        "Price": "€449,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "29 Meadowbank, Bushy Park Road, Terenure, Dublin 6, D06 W5Y0",
+        "County": "Dublin",
+        "Price": "€687,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "2a Belgrove Road, Clontarf, Dublin 3, D03 W953",
+        "County": "Dublin",
+        "Price": "€1,000,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "3 The Cedar, Park View, Stepaside, Dublin 18, D18 PX63",
+        "County": "Dublin",
+        "Price": "€400,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "32 Kennan Avenue, Luttrellstown Gate",
+        "County": "Dublin",
+        "Price": "€565,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "51 Devenish Road, Kimmage, Dublin 12, D12 N9W7",
+        "County": "Dublin",
+        "Price": "€565,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "538 Collins Avenue, Whitehall, Dublin 9, D09 F825",
+        "County": "Dublin",
+        "Price": "€462,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "6 Glin Park, Dublin 17, D17 HE39",
+        "County": "Dublin",
+        "Price": "€317,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "8 Shanliss Avenue, Santry, Dublin 9, D09 KF51",
+        "County": "Dublin",
+        "Price": "€510,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "88 Belarmine Place, Stepaside, Dublin 18, D18 DH98",
+        "County": "Dublin",
+        "Price": "€620,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "9 Dromheath Gardens, Mulhuddart, Dublin 17, D15 YW5P",
+        "County": "Dublin",
+        "Price": "€345,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "Apartment Number 2 Ground Floor, Ross House",
+        "County": "Dublin",
+        "Price": "€330,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "Apartment 14 Elgin House, Serpentine Avenue, Ballsbridge, Dublin 4, D04 F850",
+        "County": "Dublin",
+        "Price": "€570,811",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "126 Adamstown Avenue, Adamstown Square, Lucan, K78 D803",
+        "County": "Dublin",
+        "Price": "€545,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "19 Wilson Road, Mount Merrion, A94 Y6Y3",
+        "County": "Dublin",
+        "Price": "€1,116,111",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "3 Church Fields Park, Church Fields East, Blanchardstown",
+        "County": "Dublin",
+        "Price": "€485,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "91 The Gallery, Turvey Walk, Donabate, K36 XK00",
+        "County": "Dublin",
+        "Price": "€550,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "Church Road, Lusk, K45 VP73",
+        "County": "Dublin",
+        "Price": "€400,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "10 Luttrellpark Crescent, Castleknock, Dublin 15, D15 W7KW",
+        "County": "Dublin",
+        "Price": "€595,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "103 Belgrove Park, Mount Prospect Lawns, Clontarf, Dublin 3, D03 Y803",
+        "County": "Dublin",
+        "Price": "€527,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "111 Iveragh Road, Dublin 9, D09 FF10",
+        "County": "Dublin",
+        "Price": "€540,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "28 Kilmahuddrick Lawn, Clondalkin, Dublin 22, D22 W270",
+        "County": "Dublin",
+        "Price": "€150,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "50 Stannaway Avenue, Crumlin, Dublin 12, D12 K5Y4",
+        "County": "Dublin",
+        "Price": "€562,500",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-20",
+        "Address": "9 Beech Walk, Brookwood, Scholarstown Road, Dublin 16, D16 P9W6",
+        "County": "Dublin",
+        "Price": "€645,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "103 The Gallery, Turvey Avenue, Donabate, K36 FY99",
+        "County": "Dublin",
+        "Price": "€328,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "12 Griffeen Glen Wood, Lucan, K78 HP74",
+        "County": "Dublin",
+        "Price": "€526,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "13 Mason Cross Park, Mason Cross, Newcastle",
+        "County": "Dublin",
+        "Price": "€520,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "22 Silverbrook, Whitechurch Road, Rathfarnham",
+        "County": "Dublin",
+        "Price": "€1,200,000",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "4 Abbeyvale Way, Swords Manor, Swords, K67 C9X4",
+        "County": "Dublin",
+        "Price": "€540,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "4 Mount Bellew Crescent, Lucan, K78 AE13",
+        "County": "Dublin",
+        "Price": "€395,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "44 Holywell Manor, Feltrim Road, Swords, K67 DR64",
+        "County": "Dublin",
+        "Price": "€398,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "50 The Gallan, Granitefield Manor, Rochestown Avenue, A96 N447",
+        "County": "Dublin",
+        "Price": "€388,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "8 Meadow View, Clay Farm Place",
+        "County": "Dublin",
+        "Price": "€475,479",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "Apartment 3, Meadow View Apartments, Clay Farm Place",
+        "County": "Dublin",
+        "Price": "€473,078",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "Apartment 54 The Gardens at Elmpark Green, Merrion Road, Dublin 4, D04 Y4X2",
+        "County": "Dublin",
+        "Price": "€654,999",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "1 Fernwood Way, Springfield, Tallaght, Dublin 24, D24 Y5W6",
+        "County": "Dublin",
+        "Price": "€335,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "174 Ashbrook, Clontarf, Dublin 3, D03 A7X8",
+        "County": "Dublin",
+        "Price": "€910,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "19 Knockcree, Glenamuck Road, Carrickmines, Dublin 18, D18 KY41",
+        "County": "Dublin",
+        "Price": "€1,140,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "31 Swans Nest Avenue, Kilbarrack, Dublin 5, D05 YK33",
+        "County": "Dublin",
+        "Price": "€216,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "32 Ardmore Park, Artane, Dublin 5, D05 N7P4",
+        "County": "Dublin",
+        "Price": "€541,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "36 Niall Street, Dublin 7, D07 A5N5",
+        "County": "Dublin",
+        "Price": "€330,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "37 Lower Churchtown Road, Churchtown, Dublin 14, D14 W8X3",
+        "County": "Dublin",
+        "Price": "€998,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "4 Spitalfields, Dublin 8, D08 X5R2",
+        "County": "Dublin",
+        "Price": "€501,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "44 Moatview Drive, Priorswood, Dublin 17, D17 YV84",
+        "County": "Dublin",
+        "Price": "€221,250",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "48 Nutley Avenue, Dublin 4, D04 N5Y4",
+        "County": "Dublin",
+        "Price": "€2,750,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "57 Gloucester Square, Railway Street, Dublin 1, D01 V8W8",
+        "County": "Dublin",
+        "Price": "€40,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "59 Westend Gate, Cookstown Way, Tallaght, Dublin 24, D24 VF84",
+        "County": "Dublin",
+        "Price": "€335,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "6 The Pines, Beckett Woods, Foxrock",
+        "County": "Dublin",
+        "Price": "€662,643",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "Apartment 29 Fernhill Gate, Leopardstown, Dublin 18",
+        "County": "Dublin",
+        "Price": "€410,757",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "Londolozi, Torquay Road, Foxrock, Dublin 18, D18 K6V4",
+        "County": "Dublin",
+        "Price": "€1,780,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "112 Cabra Park, Phibsborough, Dublin 7, D07 W224",
+        "County": "Dublin",
+        "Price": "€830,000",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "128 Merrion Road, Ballsbridge, Dublin 4, D04 V5W0",
+        "County": "Dublin",
+        "Price": "€2,211,119",
+        "Property_Type": "Second-Hand"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "14 Aderrig Manor, Adamstown, Lucan",
+        "County": "Dublin",
+        "Price": "€499,694",
+        "Property_Type": "New Build"
+    },
+    {
+        "Date": "2026-03-19",
+        "Address": "17 Beaufield Manor, Woodlands Avenue, Stillorgan, A94 CT92",
+        "County": "Dublin",
+        "Price": "€605,000",
+        "Property_Type": "Second-Hand"
+    }
+]

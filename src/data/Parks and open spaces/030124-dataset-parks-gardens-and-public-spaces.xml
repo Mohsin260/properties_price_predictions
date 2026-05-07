@@ -1,0 +1,154 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<WMS_Capabilities xmlns="http://www.opengis.net/wms" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.3.0" updateSequence="156726" xsi:schemaLocation="http://www.opengis.net/wms /geoserver/schemas/wms/1.3.0/capabilities_1_3_0.xsd">
+<Service>
+<Name>WMS</Name>
+<Title/>
+<Abstract/>
+<KeywordList/>
+<OnlineResource xlink:type="simple" xlink:href="/geoserver/"/>
+<ContactInformation>
+<ContactPersonPrimary>
+<ContactPerson/>
+<ContactOrganization/>
+</ContactPersonPrimary>
+<ContactPosition/>
+<ContactAddress>
+<AddressType/>
+<Address/>
+<City/>
+<StateOrProvince/>
+<PostCode/>
+<Country/>
+</ContactAddress>
+<ContactVoiceTelephone/>
+<ContactFacsimileTelephone/>
+<ContactElectronicMailAddress/>
+</ContactInformation>
+<Fees>none</Fees>
+<AccessConstraints>none</AccessConstraints>
+</Service>
+<Capability>
+<Request>
+<GetCapabilities>
+<Format>text/xml</Format>
+<DCPType>
+<HTTP>
+<Get>
+<OnlineResource xlink:type="simple" xlink:href="/geoserver/sd/030124-dataset-parks-gardens-and-public-spaces/ows?SERVICE=WMS&"/>
+</Get>
+<Post>
+<OnlineResource xlink:type="simple" xlink:href="/geoserver/sd/030124-dataset-parks-gardens-and-public-spaces/ows?SERVICE=WMS&"/>
+</Post>
+</HTTP>
+</DCPType>
+</GetCapabilities>
+<GetMap>
+<Format>image/png</Format>
+<Format>application/atom+xml</Format>
+<Format>application/geopackage+sqlite3</Format>
+<Format>application/json;type=geojson</Format>
+<Format>application/json;type=topojson</Format>
+<Format>application/json;type=utfgrid</Format>
+<Format>application/pdf</Format>
+<Format>application/rss+xml</Format>
+<Format>application/vnd.google-earth.kml+xml</Format>
+<Format>application/vnd.google-earth.kml+xml;mode=networklink</Format>
+<Format>application/vnd.google-earth.kmz</Format>
+<Format>application/vnd.mapbox-vector-tile</Format>
+<Format>application/x-sqlite3</Format>
+<Format>image/geotiff</Format>
+<Format>image/geotiff8</Format>
+<Format>image/gif</Format>
+<Format>image/jpeg</Format>
+<Format>image/png; mode=8bit</Format>
+<Format>image/svg+xml</Format>
+<Format>image/tiff</Format>
+<Format>image/tiff8</Format>
+<Format>image/vnd.jpeg-png</Format>
+<Format>image/vnd.jpeg-png8</Format>
+<Format>text/html; subtype=openlayers</Format>
+<Format>text/html; subtype=openlayers2</Format>
+<Format>text/html; subtype=openlayers3</Format>
+<DCPType>
+<HTTP>
+<Get>
+<OnlineResource xlink:type="simple" xlink:href="/geoserver/sd/030124-dataset-parks-gardens-and-public-spaces/ows?SERVICE=WMS&"/>
+</Get>
+</HTTP>
+</DCPType>
+</GetMap>
+<GetFeatureInfo>
+<Format>text/plain</Format>
+<Format>application/vnd.ogc.gml</Format>
+<Format>text/xml</Format>
+<Format>application/vnd.ogc.gml/3.1.1</Format>
+<Format>text/xml; subtype=gml/3.1.1</Format>
+<Format>text/html</Format>
+<Format>application/json</Format>
+<DCPType>
+<HTTP>
+<Get>
+<OnlineResource xlink:type="simple" xlink:href="/geoserver/sd/030124-dataset-parks-gardens-and-public-spaces/ows?SERVICE=WMS&"/>
+</Get>
+</HTTP>
+</DCPType>
+</GetFeatureInfo>
+</Request>
+<Exception>
+<Format>XML</Format>
+<Format>INIMAGE</Format>
+<Format>BLANK</Format>
+<Format>JSON</Format>
+</Exception>
+<Layer>
+<Title/>
+<Abstract/>
+<!-- Limited list of EPSG projections: -->
+<CRS>EPSG:3148</CRS>
+<CRS>EPSG:3246</CRS>
+<CRS>EPSG:32647</CRS>
+<CRS>EPSG:32648</CRS>
+<CRS>EPSG:32649</CRS>
+<CRS>EPSG:3857</CRS>
+<CRS>EPSG:404000</CRS>
+<CRS>EPSG:4326</CRS>
+<CRS>EPSG:900913</CRS>
+<CRS>CRS:84</CRS>
+<EX_GeographicBoundingBox>
+<westBoundLongitude>-6.359081115999999</westBoundLongitude>
+<eastBoundLongitude>-6.149228040999999</eastBoundLongitude>
+<southBoundLatitude>53.30183668</southBoundLatitude>
+<northBoundLatitude>53.40701589999999</northBoundLatitude>
+</EX_GeographicBoundingBox>
+<BoundingBox CRS="CRS:84" minx="-6.359081115999999" miny="53.30183668" maxx="-6.149228040999999" maxy="53.40701589999999"/>
+<Layer queryable="1" opaque="0">
+<Name>030124-dataset-parks-gardens-and-public-spaces</Name>
+<Title>Parks, Gardens and Public Spaces DCC</Title>
+<Abstract/>
+<KeywordList>
+<Keyword>features</Keyword>
+<Keyword>infile</Keyword>
+</KeywordList>
+<CRS>EPSG:4326</CRS>
+<CRS>CRS:84</CRS>
+<EX_GeographicBoundingBox>
+<westBoundLongitude>-6.359081115999999</westBoundLongitude>
+<eastBoundLongitude>-6.149228040999999</eastBoundLongitude>
+<southBoundLatitude>53.30183668</southBoundLatitude>
+<northBoundLatitude>53.40701589999999</northBoundLatitude>
+</EX_GeographicBoundingBox>
+<BoundingBox CRS="CRS:84" minx="-6.359081115999999" miny="53.30183668" maxx="-6.149228040999999" maxy="53.40701589999999"/>
+<BoundingBox CRS="EPSG:4326" minx="53.30183668" miny="-6.359081115999999" maxx="53.40701589999999" maxy="-6.149228040999999"/>
+<Style>
+<Name>point</Name>
+<Title>A boring default style</Title>
+<Abstract>A sample style that just prints out a purple square</Abstract>
+<LegendURL width="20" height="20">
+<Format>image/png</Format>
+<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="/geoserver/sd/030124-dataset-parks-gardens-and-public-spaces/ows?service=WMS&version=1.3.0&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=030124-dataset-parks-gardens-and-public-spaces"/>
+</LegendURL>
+</Style>
+</Layer>
+</Layer>
+</Capability>
+</WMS_Capabilities>

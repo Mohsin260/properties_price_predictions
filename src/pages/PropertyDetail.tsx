@@ -1,9 +1,9 @@
 import { useParams, useNavigate } from 'react-router-dom';
-import { ArrowLeft, Bed, Bath, Maximize, MapPin, TrendingUp, Bus, TreePine, Bike, Footprints, Shield, Sparkles, TrendingDown } from 'lucide-react';
+import { ArrowLeft, Bed, Bath, Maximize, MapPin, TrendingUp, Bus, TreePine, Bike, Shield, Sparkles, TrendingDown, BarChart3, GraduationCap } from 'lucide-react';
 import SiteHeader from '@/components/SiteHeader';
 import Footer from '@/components/Footer';
 import MapWrapper from '@/components/maps/shared/MapWrapper';
-import { getPropertyBySlug } from '@/data/dublinProperties';
+import { getPropertyBySlug, modelMetadata } from '@/data/dublinProperties';
 import { formatDistance, getDesirabilityLabel, getCrimeLabel } from '@/utils/geoCalculations';
 
 const berColorMap: Record<string, string> = {
@@ -114,6 +114,54 @@ const PropertyDetail = () => {
               </div>
             </div>
 
+            {/* Prediction Data Card */}
+            {property.districtCode !== undefined && (
+              <div className="p-6 bg-card border border-border rounded-lg">
+                <h2 className="text-xl font-bold mb-4 flex items-center gap-2">
+                  <BarChart3 className="w-5 h-5 text-accent" />
+                  Property Data (from Model)
+                </h2>
+                <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+                  <div className="p-3 bg-muted rounded-lg">
+                    <p className="text-xs text-muted-foreground uppercase tracking-wider">Sale Date</p>
+                    <p className="font-bold">{property.dateOfSale ? new Date(property.dateOfSale).toLocaleDateString() : 'N/A'}</p>
+                  </div>
+                  <div className="p-3 bg-muted rounded-lg">
+                    <p className="text-xs text-muted-foreground uppercase tracking-wider">District Code</p>
+                    <p className="font-bold">{property.districtCode}</p>
+                  </div>
+                  <div className="p-3 bg-muted rounded-lg">
+                    <p className="text-xs text-muted-foreground uppercase tracking-wider">Property Type</p>
+                    <p className="font-bold">{property.isNew ? 'New Build' : 'Resale'} {property.isApartment ? 'Apartment' : 'House'}</p>
+                  </div>
+                  <div className="p-3 bg-muted rounded-lg">
+                    <p className="text-xs text-muted-foreground uppercase tracking-wider">Resale Count</p>
+                    <p className="font-bold">{property.resaleCount ?? 0}</p>
+                  </div>
+                  <div className="p-3 bg-muted rounded-lg">
+                    <p className="text-xs text-muted-foreground uppercase tracking-wider">Crime Count</p>
+                    <p className="font-bold">{property.crimeCount?.toLocaleString()}</p>
+                  </div>
+                  <div className="p-3 bg-muted rounded-lg">
+                    <p className="text-xs text-muted-foreground uppercase tracking-wider">Location</p>
+                    <p className="font-bold">{property.isSouthDublin ? 'South Dublin' : 'North Dublin'}</p>
+                  </div>
+                  <div className="p-3 bg-muted rounded-lg">
+                    <p className="text-xs text-muted-foreground uppercase tracking-wider">Local Median (log)</p>
+                    <p className="font-bold">{property.localMedianLog?.toFixed(2)}</p>
+                  </div>
+                  <div className="p-3 bg-muted rounded-lg">
+                    <p className="text-xs text-muted-foreground uppercase tracking-wider">Local Sales</p>
+                    <p className="font-bold">{property.localSaleCount}</p>
+                  </div>
+                  <div className="p-3 bg-muted rounded-lg">
+                    <p className="text-xs text-muted-foreground uppercase tracking-wider">Sale Period</p>
+                    <p className="font-bold">Q{property.quarter} {property.year}</p>
+                  </div>
+                </div>
+              </div>
+            )}
+
             {/* Desirability Score */}
             <div className="p-6 bg-card border border-border rounded-lg">
               <div className="flex items-center justify-between mb-4">
@@ -136,7 +184,7 @@ const PropertyDetail = () => {
               </div>
             </div>
 
-            {/* Nearby Amenities */}
+            {/* Nearby Amenities - using real distance data */}
             <div className="p-6 bg-card border border-border rounded-lg">
               <h2 className="text-xl font-bold mb-4">Nearby Amenities</h2>
               <div className="space-y-4">
@@ -145,7 +193,7 @@ const PropertyDetail = () => {
                     <TreePine className="w-5 h-5 text-green-600" />
                     <div>
                       <p className="font-semibold">{property.nearestAmenities.park.name}</p>
-                      <p className="text-sm text-muted-foreground">Park</p>
+                      <p className="text-sm text-muted-foreground">Park ({property.distParkKm?.toFixed(2)} km)</p>
                     </div>
                   </div>
                   <div className="text-right">
@@ -160,7 +208,7 @@ const PropertyDetail = () => {
                     <div>
                       <p className="font-semibold">{property.nearestAmenities.busStation.name}</p>
                       <p className="text-sm text-muted-foreground">
-                        Routes: {property.nearestAmenities.busStation.routes.join(', ')}
+                        Transport ({property.distTransportKm?.toFixed(2)} km)
                       </p>
                     </div>
                   </div>
@@ -175,7 +223,7 @@ const PropertyDetail = () => {
                     <Bike className="w-5 h-5 text-blue-500" />
                     <div>
                       <p className="font-semibold">{property.nearestAmenities.cycleTrack.name}</p>
-                      <p className="text-sm text-muted-foreground">Cycle Track</p>
+                      <p className="text-sm text-muted-foreground">Cycle Track ({property.distCycleTrackKm?.toFixed(2)} km)</p>
                     </div>
                   </div>
                   <div className="text-right">
@@ -185,16 +233,32 @@ const PropertyDetail = () => {
 
                 <div className="flex items-center justify-between p-3 bg-muted rounded-lg">
                   <div className="flex items-center gap-3">
-                    <Footprints className="w-5 h-5 text-orange-500" />
+                    <GraduationCap className="w-5 h-5 text-orange-500" />
                     <div>
                       <p className="font-semibold">{property.nearestAmenities.walkingTrack.name}</p>
-                      <p className="text-sm text-muted-foreground">Walking Track</p>
+                      <p className="text-sm text-muted-foreground">School ({property.distSchoolKm?.toFixed(2)} km)</p>
                     </div>
                   </div>
                   <div className="text-right">
                     <p className="font-bold">{formatDistance(property.nearestAmenities.walkingTrack.distanceM)}</p>
                   </div>
                 </div>
+
+                {/* Parking distance */}
+                {property.distParkingKm !== undefined && (
+                  <div className="flex items-center justify-between p-3 bg-muted rounded-lg">
+                    <div className="flex items-center gap-3">
+                      <MapPin className="w-5 h-5 text-purple-500" />
+                      <div>
+                        <p className="font-semibold">Nearest Parking</p>
+                        <p className="text-sm text-muted-foreground">Accessible Parking</p>
+                      </div>
+                    </div>
+                    <div className="text-right">
+                      <p className="font-bold">{formatDistance(Math.round(property.distParkingKm * 1000))}</p>
+                    </div>
+                  </div>
+                )}
               </div>
             </div>
 
@@ -210,7 +274,7 @@ const PropertyDetail = () => {
                 </span>
               </div>
               <p className="text-sm text-muted-foreground">
-                Crime Score: {property.crimeScore}/100 (lower is better)
+                Crime Score: {property.crimeScore}/100 (lower is better) · Raw count: {property.crimeCount?.toLocaleString()}
               </p>
             </div>
 
@@ -256,7 +320,7 @@ const PropertyDetail = () => {
                   <span className="font-semibold">€{property.pricePerSqm}</span>
                 </div>
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">Listed:</span>
+                  <span className="text-muted-foreground">Sale Date:</span>
                   <span className="font-semibold">
                     {new Date(property.listedDate).toLocaleDateString()}
                   </span>
@@ -270,15 +334,36 @@ const PropertyDetail = () => {
                 <div className="absolute top-0 right-0 p-3 opacity-10">
                   <Sparkles className="w-24 h-24 text-accent" />
                 </div>
-                <div className="flex items-center gap-2 mb-4 relative z-10">
+                <div className="flex items-center gap-2 mb-2 relative z-10">
                   <Sparkles className="w-5 h-5 text-accent" />
                   <h3 className="text-lg font-bold">AI Valuation Model</h3>
                 </div>
+                <p className="text-xs text-muted-foreground mb-4">{modelMetadata.model} · {modelMetadata.n_predictions.toLocaleString()} predictions</p>
                 
                 <div className="mb-4 relative z-10">
                   <p className="text-sm text-muted-foreground mb-1">Predicted Value</p>
                   <p className="text-3xl font-bold text-accent">€{property.predictedPrice.toLocaleString()}</p>
                 </div>
+
+                {/* Error info */}
+                {property.errorPct !== undefined && (
+                  <div className="mb-4 relative z-10 flex gap-3">
+                    <div className="flex-1 p-2 bg-muted rounded">
+                      <p className="text-xs text-muted-foreground">Error</p>
+                      <p className={`font-bold text-sm ${property.errorPct > 0 ? 'text-red-500' : 'text-green-500'}`}>
+                        {property.errorPct > 0 ? '+' : ''}{property.errorPct}%
+                      </p>
+                    </div>
+                    <div className="flex-1 p-2 bg-muted rounded">
+                      <p className="text-xs text-muted-foreground">Abs Error</p>
+                      <p className="font-bold text-sm">{property.absErrorPct}%</p>
+                    </div>
+                    <div className="flex-1 p-2 bg-muted rounded">
+                      <p className="text-xs text-muted-foreground">Confidence</p>
+                      <p className="font-bold text-sm text-accent">{property.confidencePct}%</p>
+                    </div>
+                  </div>
+                )}
                 
                 {property.lowerBound && property.upperBound && (
                   <div className="mb-4 relative z-10">

@@ -51,13 +51,45 @@ export interface Property {
   listedDate: string;
   status: 'available' | 'pending' | 'rented';
 
-  // AI Valuation Data (Optional)
+  // AI Valuation Data (from XGBoost model)
   predictedPrice?: number;
   lowerBound?: number;
   upperBound?: number;
   confidencePct?: number;
   shapTopPositive?: string;
   shapTopNegative?: string;
+
+  // Prediction-specific fields from predictions_5000.json
+  errorPct?: number;
+  absErrorPct?: number;
+  dateOfSale?: string;
+  districtCode?: number;
+  isNew?: boolean;
+  isApartment?: boolean;
+  sizeCategory?: number;
+  resaleCount?: number;
+  distParkKm?: number;
+  distParkingKm?: number;
+  distCycleTrackKm?: number;
+  distSchoolKm?: number;
+  distTransportKm?: number;
+  crimeCount?: number;
+  isSouthDublin?: boolean;
+  localMedianLog?: number;
+  localSaleCount?: number;
+  year?: number;
+  quarter?: number;
+  month?: number;
+}
+
+// Model metadata from predictions_5000.json
+export interface ModelMetadata {
+  model: string;
+  features: string[];
+  n_predictions: number;
+  test_set_period: string;
+  mape: number;
+  median_ape: number;
 }
 
 export interface Park {
@@ -130,4 +162,5 @@ export type SortBy =
   | 'desirability-desc' 
   | 'date-desc' 
   | 'date-asc'
-  | 'value-desc'; // best value (desirability per euro)
+  | 'value-desc' // best value (desirability per euro)
+  | 'ai-deal-desc'; // best AI deal

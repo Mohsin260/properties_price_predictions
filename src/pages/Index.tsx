@@ -5,10 +5,11 @@ import PropertyCard from "@/components/PropertyCard";
 import PropertyPagination from "@/components/Pagination";
 import MapWrapper from "@/components/maps/shared/MapWrapper";
 import Footer from "@/components/Footer";
-import { dublinProperties } from "@/data/dublinProperties";
+import { dublinProperties, modelMetadata } from "@/data/dublinProperties";
 import { usePropertyStore } from "@/store/propertyStore";
 import { useSearchStore } from "@/store/searchStore";
 import type { SortBy } from "@/types/property.types";
+import { Sparkles } from "lucide-react";
 
 const ITEMS_PER_PAGE = 10;
 
@@ -149,10 +150,27 @@ const Index = () => {
       <SiteHeader />
       <SearchBar />
 
+      {/* Model Info Banner */}
+      <div className="bg-gradient-to-r from-accent/5 via-accent/10 to-accent/5 border-b border-accent/20">
+        <div className="max-w-[1800px] mx-auto px-6 py-2 flex items-center justify-between flex-wrap gap-2">
+          <div className="flex items-center gap-2">
+            <Sparkles className="w-4 h-4 text-accent" />
+            <span className="text-xs font-bold text-accent">{modelMetadata.model}</span>
+            <span className="text-xs text-muted-foreground">|</span>
+            <span className="text-xs text-muted-foreground">{modelMetadata.n_predictions.toLocaleString()} predictions</span>
+          </div>
+          <div className="flex items-center gap-4 text-xs text-muted-foreground">
+            <span>MAPE: <strong className="text-foreground">{modelMetadata.mape}%</strong></span>
+            <span>Median APE: <strong className="text-foreground">{modelMetadata.median_ape}%</strong></span>
+            <span>Period: <strong className="text-foreground">{modelMetadata.test_set_period}</strong></span>
+          </div>
+        </div>
+      </div>
+
       <main className="flex-1 flex">
         <div className="max-w-[1800px] mx-auto w-full flex">
           {/* Properties Container - Scrollable */}
-          <div className="flex-1 flex flex-col h-[calc(100vh-200px)] overflow-hidden">
+          <div className="flex-1 flex flex-col h-[calc(100vh-240px)] overflow-hidden">
             {/* Header */}
             <div className="px-6 py-4 border-b border-border bg-background">
               <h1 className="font-display text-2xl md:text-3xl font-bold text-foreground mb-3">
@@ -206,7 +224,7 @@ const Index = () => {
           </div>
 
           {/* Full Height Map - Right Side */}
-          <div className="hidden lg:block w-[600px] h-[calc(100vh-200px)]">
+          <div className="hidden lg:block w-[600px] h-[calc(100vh-240px)]">
             <MapWrapper
               engine="maplibre"
               properties={sortedProperties}

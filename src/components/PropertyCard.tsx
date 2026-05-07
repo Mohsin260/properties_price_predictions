@@ -1,4 +1,4 @@
-import { Bed, Bath, Maximize, ChevronRight, MapPin, TrendingUp, Sparkles } from "lucide-react";
+import { Bed, Bath, Maximize, ChevronRight, TrendingUp, Sparkles } from "lucide-react";
 import type { Property } from "@/types/property.types";
 import { motion } from "framer-motion";
 import { usePropertyStore } from "@/store/propertyStore";

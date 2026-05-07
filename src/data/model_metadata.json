@@ -1,0 +1,28 @@
+{
+  "model": "XGBoost Full Enhanced",
+  "features": [
+    "year",
+    "quarter",
+    "month",
+    "is_new",
+    "is_apartment",
+    "size_category",
+    "resale_count",
+    "district_code",
+    "dist_park_km",
+    "dist_parking_km",
+    "dist_cycle_track_km",
+    "dist_school_km",
+    "dist_transport_km",
+    "latitude",
+    "longitude",
+    "crime_count",
+    "is_south_dublin",
+    "local_median_log",
+    "local_sale_count"
+  ],
+  "n_predictions": 5000,
+  "test_set_period": "2020-10-15 to 2025-12-24",
+  "mape": 28.35,
+  "median_ape": 18.52
+}

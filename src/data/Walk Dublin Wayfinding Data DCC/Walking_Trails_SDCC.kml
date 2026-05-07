@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Walking_Trails_SDCC" id="Walking_Trails_SDCC">
+	<SimpleField name="FID" type="int"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="County" type="string"></SimpleField>
+	<SimpleField name="TrailName" type="string"></SimpleField>
+	<SimpleField name="Category" type="string"></SimpleField>
+	<SimpleField name="Type" type="string"></SimpleField>
+	<SimpleField name="Length" type="string"></SimpleField>
+	<SimpleField name="Grade" type="string"></SimpleField>
+	<SimpleField name="Climb" type="string"></SimpleField>
+	<SimpleField name="Format" type="string"></SimpleField>
+	<SimpleField name="SurfaceTyp" type="string"></SimpleField>
+	<SimpleField name="EstimateTi" type="string"></SimpleField>
+	<SimpleField name="DogsAllowe" type="string"></SimpleField>
+	<SimpleField name="BuggyWheel" type="string"></SimpleField>
+	<SimpleField name="NearestTow" type="string"></SimpleField>
+	<SimpleField name="ExternalLi" type="string"></SimpleField>
+	<SimpleField name="Descriptio" type="string"></SimpleField>
+	<SimpleField name="Starting_P" type="string"></SimpleField>
+	<SimpleField name="Start_publ" type="string"></SimpleField>
+	<SimpleField name="Start_park" type="string"></SimpleField>
+	<SimpleField name="End_Point" type="string"></SimpleField>
+	<SimpleField name="End_public" type="string"></SimpleField>
+	<SimpleField name="End_parkin" type="string"></SimpleField>
+	<SimpleField name="created_us" type="string"></SimpleField>
+	<SimpleField name="created_da" type="string"></SimpleField>
+	<SimpleField name="last_edite" type="string"></SimpleField>
+	<SimpleField name="last_edi_1" type="string"></SimpleField>
+	<SimpleField name="Shape__Len" type="float"></SimpleField>
+	<SimpleField name="Shape__Length" type="float"></SimpleField>
+</Schema>
+<Folder><name>Walking_Trails_SDCC</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">1</SimpleData>
+		<SimpleData name="OBJECTID">402</SimpleData>
+		<SimpleData name="County">South Dublin</SimpleData>
+		<SimpleData name="TrailName">Old Bawn Sli</SimpleData>
+		<SimpleData name="Category">SliNaSlainteWalkingRoutes</SimpleData>
+		<SimpleData name="Type">Sli Route</SimpleData>
+		<SimpleData name="Length">5 Kms</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">0</SimpleData>
+		<SimpleData name="Format">Circular</SimpleData>
+		<SimpleData name="SurfaceTyp"></SimpleData>
+		<SimpleData name="EstimateTi">1 hr</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">Yes</SimpleData>
+		<SimpleData name="NearestTow">Tallaght</SimpleData>
+		<SimpleData name="ExternalLi"></SimpleData>
+		<SimpleData name="Descriptio">From the Village Square follow the route across the Tallaght Bypass, and onto the Old Bawn Road. Turn right onto Firhouse Road West and then right again onto Whitestown Way. At the T-junction, turn right onto the Tallaght Bypass and continue back to the</SimpleData>
+		<SimpleData name="Starting_P">Village Square</SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point">Village Square</SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">6628.39741234106</SimpleData>
+		<SimpleData name="Shape__Length">0.0486917668285814</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.36157096233001,53.2860727720408 -6.36105597725151,53.2852517827436 -6.35959685690938,53.2835841006258 -6.35783732613163,53.2777851929324 -6.35697902036543,53.2770410282209 -6.35822356516536,53.2765534643709 -6.37345851230043,53.2770153669657 -6.37367308964133,53.2773232984316 -6.37551844901714,53.2844820925746 -6.36899531548136,53.2849952214523 -6.36607707389777,53.2852517827436 -6.36165679182744,53.2860471161815</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">2</SimpleData>
+		<SimpleData name="OBJECTID">804</SimpleData>
+		<SimpleData name="County">South Dublin</SimpleData>
+		<SimpleData name="TrailName">Clondalkin Slí</SimpleData>
+		<SimpleData name="Category">SliNaSlainteWalkingRoutes</SimpleData>
+		<SimpleData name="Type">Sli Route</SimpleData>
+		<SimpleData name="Length">3.80 kms</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">30 m</SimpleData>
+		<SimpleData name="Format">Circular</SimpleData>
+		<SimpleData name="SurfaceTyp"></SimpleData>
+		<SimpleData name="EstimateTi">55 mins</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">Yes</SimpleData>
+		<SimpleData name="NearestTow">Clondalkin</SimpleData>
+		<SimpleData name="ExternalLi"></SimpleData>
+		<SimpleData name="Descriptio">From the Library on Monastery Road, the 3.8 Km circuit of Clondalkin follows the road past the Old Monastery Wall to the roundabout at the top of Woodford. This is the highest point in Clondalkin and on a clear day you have a great view of Dublin Bay and</SimpleData>
+		<SimpleData name="Starting_P">Clondalkin Library</SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point">Clondalkin Library</SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">6392.70625141489</SimpleData>
+		<SimpleData name="Shape__Length">0.0481269806781106</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.3884885273236,53.3205708052985 -6.39198612745776,53.321237307256 -6.39297318106742,53.3211347701535 -6.39315129089931,53.3216807971311 -6.39295817228179,53.3220524923287 -6.39323712129607,53.3224498182046 -6.39345169863691,53.3228599567217 -6.39377356419857,53.3231803752741 -6.39546227066722,53.3232880214251 -6.39539789809447,53.3246081164714 -6.3950974894575,53.3260050648819 -6.39505457470881,53.3268124546311 -6.39556955888798,53.3278633205359 -6.39359545346736,53.3282093310958 -6.39153551675065,53.3284400045027 -6.38392877119577,53.3282157387654 -6.3838536688117,53.3277864285009 -6.3836605510935,53.3273378907311 -6.38278078570465,53.3261973012645 -6.38142895268396,53.3251720273672 -6.38018440788409,53.3243517908026 -6.37668680685061,53.3219807030471 -6.37668680774993,53.3217628126038 -6.37769531738496,53.3209681446642 -6.3788540326874,53.3193915809567 -6.37913298170167,53.3193274925698 -6.38005566093995,53.3192634032835 -6.38853144207235,53.3205964395741 -6.38848852642428,53.3205964395741</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">3</SimpleData>
+		<SimpleData name="OBJECTID">1203</SimpleData>
+		<SimpleData name="County">South Dublin</SimpleData>
+		<SimpleData name="TrailName">Corkagh Park Slí</SimpleData>
+		<SimpleData name="Category">SliNaSlainteWalkingRoutes</SimpleData>
+		<SimpleData name="Type">Sli Route</SimpleData>
+		<SimpleData name="Length">2.80 kms</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">N/a</SimpleData>
+		<SimpleData name="Format">Linear</SimpleData>
+		<SimpleData name="SurfaceTyp">Path</SimpleData>
+		<SimpleData name="EstimateTi">30 min</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">Yes</SimpleData>
+		<SimpleData name="NearestTow">Clondalkin</SimpleData>
+		<SimpleData name="ExternalLi"></SimpleData>
+		<SimpleData name="Descriptio">Corkagh Park is set in 300 acres of estate parkland, immediately adjacent to the Naas Road and stretching almost a mile to the village of Clondalkin. The parkland landscape has large expanses of grassland as well as numerous groups of mature trees and pa</SimpleData>
+		<SimpleData name="Starting_P">Corkagh Park</SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point">Corkagh</SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">4701.17216612523</SimpleData>
+		<SimpleData name="Shape__Length">0.0350233120971205</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.41168427051264,53.3150012526058 -6.41314339265341,53.3150781671238 -6.41387295237479,53.3150140715422 -6.41398024239425,53.3151038049967 -6.41423773358451,53.3154499198779 -6.4144952256741,53.3154371000422 -6.41524624501812,53.3152832719055 -6.41593288999081,53.315065347288 -6.41634058504991,53.3148730605434 -6.41687702705309,53.3145397610012 -6.41726326608682,53.3144115680395 -6.41818594532509,53.3143602904951 -6.41947340577303,53.3140910838365 -6.41968798221455,53.3140782640007 -6.42069649364822,53.3141936389254 -6.42088961226574,53.3141936389254 -6.421104187808,53.3140910838365 -6.42136167989759,53.3138859727595 -6.42142605426892,53.3136680409474 -6.42125439257609,53.3132962720054 -6.42082523969299,53.3128988615932 -6.42035316936324,53.3125655458633 -6.41947340577303,53.3119758280221 -6.4193661166529,53.3117835268883 -6.41913008328669,53.3115784050194 -6.41882967554903,53.311604044691 -6.41816448840035,53.3115399446128 -6.41797136888351,53.3113091803745 -6.41771387589461,53.311027134095 -6.41747784162902,53.3107322643825 -6.41747784252834,53.3104502145059 -6.41741346815701,53.3102066241365 -6.41694140052516,53.3098732886214 -6.41646933199405,53.3095784117144 -6.41599726256356,53.309321995214 -6.41522478539548,53.3090527570791 -6.41470980301494,53.3088732631906 -6.41440939527735,53.3085270952493 -6.41393732584686,53.308014249658 -6.41376566505335,53.3077706448994 -6.41295027223725,53.307975785654 -6.41224217033982,53.3081296407703 -6.41136240495098,53.3086040223578 -6.40938829953035,53.3093348168484 -6.40889477317518,53.3096296946547 -6.40855145068883,53.3099630328677 -6.40855145068883,53.3102194457709 -6.40925955348558,53.3108091878938 -6.40921663783752,53.3109630322182 -6.40758585490323,53.3118732675373 -6.4076287705513,53.3120912083426 -6.40820812820249,53.3124373475056 -6.40870165365834,53.3131296168384 -6.40932392605828,53.3139885278483 -6.41061138740554,53.3145782178105 -6.41172718526133,53.3150140706429</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">4</SimpleData>
+		<SimpleData name="OBJECTID">2002</SimpleData>
+		<SimpleData name="County">South Dublin</SimpleData>
+		<SimpleData name="TrailName">Cruagh - Sli na Slainte</SimpleData>
+		<SimpleData name="Category">WalkingHikingTrails</SimpleData>
+		<SimpleData name="Type">Coillte Recreation Trails</SimpleData>
+		<SimpleData name="Length">5 kms</SimpleData>
+		<SimpleData name="Grade">Moderate</SimpleData>
+		<SimpleData name="Climb">100 m</SimpleData>
+		<SimpleData name="Format">Circular</SimpleData>
+		<SimpleData name="SurfaceTyp">Mixed</SimpleData>
+		<SimpleData name="EstimateTi">1 hr</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">No</SimpleData>
+		<SimpleData name="NearestTow">Tallaght</SimpleData>
+		<SimpleData name="ExternalLi"></SimpleData>
+		<SimpleData name="Descriptio">This Slí na Slainte trail on the slopes of Cruagh Mountain has a hard core surface throughout. It offers panoramic views of the Tibradden, Two Rock, Three Rock and Glendoo Mountains as well as Dun Laoghaire Harbour and Howth with Dublin spread at your f</SimpleData>
+		<SimpleData name="Starting_P">Cruagh Car Park</SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point">Cruagh Car Park</SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">6074.42241871681</SimpleData>
+		<SimpleData name="Shape__Length">0.0488990197356383</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.31134819586248,53.2417925520847 -6.3096315807328,53.2410991262237 -6.30864452892183,53.2407395673772 -6.30435299469491,53.2415357281914 -6.3030226185989,53.2416641405877 -6.30160641300552,53.2415357281914 -6.29782986205845,53.2410220777068 -6.29521202641382,53.2407138836389 -6.29323792009387,53.2396865565894 -6.29109215298041,53.2377088817595 -6.29066299919799,53.2359366021925 -6.29049133750516,53.2356026857154 -6.29079174524281,53.2355256282052 -6.29177879885242,53.2359109157562 -6.29632782426961,53.2390701477692 -6.29890274606481,53.239763606905 -6.30066227594324,53.2398920237979 -6.30456757023711,53.2395067722198 -6.30675625479728,53.2392499348367 -6.30976032857626,53.2395324550588 -6.31186317914234,53.2400718072681 -6.30967449728018,53.2411248081634</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">5</SimpleData>
+		<SimpleData name="OBJECTID">2004</SimpleData>
+		<SimpleData name="County">Dublin South</SimpleData>
+		<SimpleData name="TrailName">Saggart/Rathcoole Slí</SimpleData>
+		<SimpleData name="Category">SliNaSlainteWalkingRoutes</SimpleData>
+		<SimpleData name="Type">Sli Route</SimpleData>
+		<SimpleData name="Length">4.00 kms</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">N/a</SimpleData>
+		<SimpleData name="Format">Linear</SimpleData>
+		<SimpleData name="SurfaceTyp">Path</SimpleData>
+		<SimpleData name="EstimateTi">1 hr</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">Yes</SimpleData>
+		<SimpleData name="NearestTow">Rathcoole</SimpleData>
+		<SimpleData name="ExternalLi"></SimpleData>
+		<SimpleData name="Descriptio">The Saggart-Rathcoole Slí na Sláinte, a 4 km route which begins at “Teacht Sagart”, Saggart Heritage &amp; Arts Centre, on Garters Lane. The route continues up Garters Lane towards the village and past the beautiful 19th century Parish Church on the le</SimpleData>
+		<SimpleData name="Starting_P">Saggart Heritage &amp; Arts Centre</SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point">Church of the Holy Family in Rathcoole village</SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">3977.82964151596</SimpleData>
+		<SimpleData name="Shape__Length">0.0312576446187288</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.44106813358746,53.283236378656 -6.44278474871714,53.2810426183222 -6.44349285151384,53.2806833949228 -6.44435115817936,53.2804139760242 -6.44510217752344,53.2808630066225 -6.44531675396496,53.2808758363508 -6.44561716080329,53.2810682777788 -6.44864269240628,53.2817995426149 -6.44937225302704,53.2818893462164 -6.45149656321576,53.2817482255003 -6.45175405440602,53.2818252011721 -6.4525050737501,53.2827873723394 -6.45422168708114,53.2843139742106 -6.45450063699474,53.2844422571046 -6.4549727055259,53.2845063994508 -6.45525165454018,53.2843524588989 -6.45538040238364,53.2840574057248 -6.45578809744268,53.2837238660636 -6.45626016597384,53.2835570948841 -6.45739742345228,53.2834031516342 -6.45879217122166,53.2833774939762 -6.46014400424235,53.2835442651557 -6.46076627754161,53.2835186083971 -6.46143146558961,53.2833390074892 -6.46151729508705,53.2831850642394 -6.46171041550321,53.2831337489234 -6.46190353322146,53.2831850642394 -6.46385618171735,53.2823127038682 -6.46462865798611,53.2820176372043 -6.46604486447887,53.2817097390133 -6.46889873528835,53.2813505219091 -6.46887727746434,53.2813761795671</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">6</SimpleData>
+		<SimpleData name="OBJECTID">2402</SimpleData>
+		<SimpleData name="County">South Dublin</SimpleData>
+		<SimpleData name="TrailName">Greenhills Circuit Sli</SimpleData>
+		<SimpleData name="Category">SliNaSlainteWalkingRoutes</SimpleData>
+		<SimpleData name="Type">Sli Route</SimpleData>
+		<SimpleData name="Length">4.20 kms</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">0 m</SimpleData>
+		<SimpleData name="Format">Circular</SimpleData>
+		<SimpleData name="SurfaceTyp">Path</SimpleData>
+		<SimpleData name="EstimateTi">1 hr</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">Yes</SimpleData>
+		<SimpleData name="NearestTow">Tallaght</SimpleData>
+		<SimpleData name="ExternalLi"></SimpleData>
+		<SimpleData name="Descriptio">Walk uphill from the Village Square and turn right onto Tallaght Rd, the route then turns left towards Tymon for one and a half kilometres. Turning left, pass Kilnamanagh and follow the Greenhills Road back to the starting point at the Village Square.</SimpleData>
+		<SimpleData name="Starting_P">Village Square</SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point">Village Square</SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">7746.74539049555</SimpleData>
+		<SimpleData name="Shape__Length">0.055132345604827</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.36224579470763,53.2877717568612 -6.35857653198133,53.2881822290267 -6.35739636065347,53.2881437479357 -6.35570120334779,53.2881565740667 -6.35316919809998,53.2885798705646 -6.35010075174824,53.288708140868 -6.34954285102174,53.2887594489894 -6.34913515596264,53.2888235832418 -6.3429124319631,53.2894649293631 -6.34332012612288,53.2910939019621 -6.34336304177094,53.2914530381273 -6.34207558132294,53.294454265552 -6.34085249434708,53.2956983022349 -6.34059500225749,53.2964549675228 -6.34091686781915,53.2970705489667 -6.34143185199832,53.2974809312001 -6.34825539147312,53.3003406772805 -6.35218214538963,53.3012639626618 -6.35357689405839,53.3001611474191 -6.35415625170958,53.2979297837326 -6.3541562526089,53.2965062657516 -6.35507893184717,53.2948390234023 -6.35653805308863,53.2923252114394 -6.35758947837166,53.2912221650709 -6.35791134483264,53.2904910612136 -6.35773968313981,53.2895547167768 -6.35752510579897,53.2888620652322 -6.35739636065347,53.288130920006</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">7</SimpleData>
+		<SimpleData name="OBJECTID">2403</SimpleData>
+		<SimpleData name="County">South Dublin</SimpleData>
+		<SimpleData name="TrailName">Massey's Estate - Nature trail</SimpleData>
+		<SimpleData name="Category">WalkingHikingTrails</SimpleData>
+		<SimpleData name="Type">Coillte Recreation Trails</SimpleData>
+		<SimpleData name="Length">1.50 kms</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">50 m</SimpleData>
+		<SimpleData name="Format">Circular</SimpleData>
+		<SimpleData name="SurfaceTyp">Mixed</SimpleData>
+		<SimpleData name="EstimateTi">45 min</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">No</SimpleData>
+		<SimpleData name="NearestTow">Tallaght</SimpleData>
+		<SimpleData name="ExternalLi"></SimpleData>
+		<SimpleData name="Descriptio">This walk goes clockwise in a loop, descending through mature forest with a great variety and range of trees. It then ascends on a path crossing the pretty Owerdoher River several times, venturing into the old walled garden and passing an ice house. The</SimpleData>
+		<SimpleData name="Starting_P">Hell Fire Car Park</SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point">Hell Fire Car Park</SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">4378.58992781543</SimpleData>
+		<SimpleData name="Shape__Length">0.0306714031112495</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.32021852486497,53.2524878114634 -6.31884523402027,53.250523567109 -6.31818004597227,53.2498687977069 -6.31740756970351,53.2493038921609 -6.31642051699322,53.2485463923022 -6.31588407409072,53.2484950365168 -6.31517597129397,53.2480585046963 -6.31457515761736,53.248058503797 -6.31401725689085,53.2484308402111 -6.31487556445569,53.249239697654 -6.31476827623493,53.2514864433447 -6.31436058027651,53.2515377964322 -6.31431766462845,53.2521026731999 -6.31472536058686,53.2522182144991 -6.31481119098362,53.2520641588339 -6.31517597129397,53.251820234816 -6.31536909081086,53.251820234816 -6.31547637903162,53.2520898344783 -6.31562658290045,53.2525006492856 -6.31524034476604,53.2531810529633 -6.31099172528786,53.2548370834647 -6.31152816729104,53.2551066642412 -6.31468244583817,53.2540154943197 -6.31712861978991,53.2526290275077 -6.31811567250026,53.2527574066291 -6.31893106441703,53.2529242983178 -6.31927438690337,53.2522952423316 -6.31908126738654,53.2519999679242 -6.31888814966834,53.2517560448057 -6.3190168957131,53.2509343972047</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">8</SimpleData>
+		<SimpleData name="OBJECTID">2404</SimpleData>
+		<SimpleData name="County">Dublin South</SimpleData>
+		<SimpleData name="TrailName">Tymon Park Red Slí</SimpleData>
+		<SimpleData name="Category">SliNaSlainteWalkingRoutes</SimpleData>
+		<SimpleData name="Type">Sli Route</SimpleData>
+		<SimpleData name="Length">3.00 Kms</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">N/a</SimpleData>
+		<SimpleData name="Format">Circular</SimpleData>
+		<SimpleData name="SurfaceTyp">Path</SimpleData>
+		<SimpleData name="EstimateTi">30 mins</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">Yes</SimpleData>
+		<SimpleData name="NearestTow">Tallaght</SimpleData>
+		<SimpleData name="ExternalLi"></SimpleData>
+		<SimpleData name="Descriptio">The beautiful Tymon Park forms a greenbelt of 130 hectares (over 300 acres) between the established residential areas of Tallaght and Templeogue and is divided in two by the M50 motorway with pedestrian bridges linking the eastern and western sections of</SimpleData>
+		<SimpleData name="Starting_P">Wellington Lane Entrance</SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point">Wellington Lane Entrance</SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">5153.08051770327</SimpleData>
+		<SimpleData name="Shape__Length">0.0353048066416483</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.3320202444387,53.2941008868465 -6.33157231640922,53.2943413628636 -6.33106269488741,53.2944664099969 -6.33024194031327,53.2947100902985 -6.32841535608378,53.2952551585988 -6.32845827173179,53.2956270840228 -6.32880159331881,53.2963068015177 -6.3292522049253,53.2966658927168 -6.33094736043228,53.2971532263404 -6.33146234551077,53.2976533797997 -6.33232065127697,53.2979226898803 -6.33189149839387,53.2982817675896 -6.33176275234911,53.299051210445 -6.33182712492186,53.2998334623445 -6.33244939822112,53.3000514661023 -6.33412309680341,53.3004874664235 -6.33420892720017,53.30076958285 -6.33403726550733,53.3012825156756 -6.3341016389794,53.3020647280048 -6.33380123124181,53.3025391770415 -6.33453079276183,53.302718696111 -6.33528181120658,53.3027828105783 -6.33532472595527,53.3030392666489 -6.33592554143053,53.3035008823599 -6.3361830326208,53.30339830209 -6.33676238937272,53.3035393499611 -6.3370842558337,53.3035521724948 -6.33774944298239,53.3032316064536 -6.33796402032323,53.3032316073529 -6.33811422419205,53.3034111237245 -6.33777090080639,53.3038855583719 -6.33774944298239,53.3040394278773 -6.33837171538232,53.3040137828099 -6.33890815828482,53.3038855583719 -6.33953042978544,53.3036419311302 -6.33929439462059,53.3034239471575 -6.33920856422384,53.3030007981484 -6.33899398778226,53.3024494166073 -6.33704134018564,53.2995256936559 -6.33425184284823,53.296935209992 -6.33204170136338,53.2941393634409</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">9</SimpleData>
+		<SimpleData name="OBJECTID">2406</SimpleData>
+		<SimpleData name="County">South Dublin</SimpleData>
+		<SimpleData name="TrailName">Tymon Park Yellow Slí</SimpleData>
+		<SimpleData name="Category">SliNaSlainteWalkingRoutes</SimpleData>
+		<SimpleData name="Type">Sli Route</SimpleData>
+		<SimpleData name="Length">2.50 kms</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">N/a</SimpleData>
+		<SimpleData name="Format">Circular</SimpleData>
+		<SimpleData name="SurfaceTyp">Path</SimpleData>
+		<SimpleData name="EstimateTi">30 mins</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">Yes</SimpleData>
+		<SimpleData name="NearestTow">Tallaght</SimpleData>
+		<SimpleData name="ExternalLi"></SimpleData>
+		<SimpleData name="Descriptio">The beautiful Tymon Park forms a greenbelt of 130 hectares (over 300 acres) between the established residential areas of Tallaght and Templeogue and is divided in two by the M50 motorway with pedestrian bridges linking the eastern and western sections of</SimpleData>
+		<SimpleData name="Starting_P">Tymon North Road Entrance</SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point">Tymon North Road Entrance</SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">3797.9646901636</SimpleData>
+		<SimpleData name="Shape__Length">0.027769843620979</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.34628773509087,53.3022327762217 -6.34512902068769,53.3019891390875 -6.34412051015335,53.3014890368896 -6.34339094953265,53.3013095115248 -6.34300471049892,53.3006811678017 -6.34197474303988,53.3003092864445 -6.34171725005098,53.30002716732 -6.33982897592642,53.2990140873303 -6.33970022898234,53.2982189958101 -6.33944273779207,53.2981548750475 -6.3390779565824,53.2983600625669 -6.33845568418241,53.29801380919 -6.33622408757157,53.2958849313446 -6.33652449351052,53.2959490557044 -6.3377046657377,53.2963209757325 -6.33935690739531,53.2964748722176 -6.33950711036482,53.2964748722176 -6.33987189157449,53.2966031191387 -6.34135247063995,53.2987960799751 -6.34255410069113,53.2994757471081 -6.34463549433258,53.3001041097169 -6.34699583878688,53.3015787991224 -6.34669543014991,53.3019506696877 -6.34710312610832,53.3021814842881 -6.34725333087647,53.3024635890235 -6.34706021135963,53.3025661719913 -6.34626627726686,53.3022455987554</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">10</SimpleData>
+		<SimpleData name="OBJECTID">2407</SimpleData>
+		<SimpleData name="County">South Dublin</SimpleData>
+		<SimpleData name="TrailName">Glenaulin (Blue) Slí</SimpleData>
+		<SimpleData name="Category">SliNaSlainteWalkingRoutes</SimpleData>
+		<SimpleData name="Type">Sli Route</SimpleData>
+		<SimpleData name="Length">1 kms</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">N/a</SimpleData>
+		<SimpleData name="Format">Circular</SimpleData>
+		<SimpleData name="SurfaceTyp">Path</SimpleData>
+		<SimpleData name="EstimateTi">20 mins</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">Yes</SimpleData>
+		<SimpleData name="NearestTow">Palmerstown</SimpleData>
+		<SimpleData name="ExternalLi"></SimpleData>
+		<SimpleData name="Descriptio">The Glenaulin Slí na Sláinte routes are part of the Slí na Sláinte network of marked and measured walking routes.</SimpleData>
+		<SimpleData name="Starting_P">Glenaulin Park</SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point">Glenaulin Park</SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">1788.33775902273</SimpleData>
+		<SimpleData name="Shape__Length">0.0124055778575161</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.36071801922117,53.3495233400301 -6.36080385051724,53.3490430085281 -6.36069656139716,53.3488700877844 -6.360900409826,53.3474354595788 -6.36103988388351,53.3469358906789 -6.36125446122435,53.3468398188027 -6.36209131006586,53.3467757699859 -6.36351824636995,53.3469422947512 -6.36452675690424,53.3471152235887 -6.36474133334582,53.3472369135528 -6.36392594142899,53.349766705569 -6.36387229686898,53.3498307489899 -6.36351824636995,53.3499268145709 -6.36300326129145,53.3497859195846 -6.36286378633463,53.3497026630475 -6.36249900602428,53.3496130015388 -6.36220932809795,53.3495745753065 -6.36173725956684,53.3495361490741 -6.36071801922117,53.3495233400301</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">11</SimpleData>
+		<SimpleData name="OBJECTID">2408</SimpleData>
+		<SimpleData name="County">South Dublin</SimpleData>
+		<SimpleData name="TrailName">Glenaulin (Red) Slí</SimpleData>
+		<SimpleData name="Category">SliNaSlainteWalkingRoutes</SimpleData>
+		<SimpleData name="Type">Sli Route</SimpleData>
+		<SimpleData name="Length">1.20 kms</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">N/a</SimpleData>
+		<SimpleData name="Format">Circular</SimpleData>
+		<SimpleData name="SurfaceTyp">Path</SimpleData>
+		<SimpleData name="EstimateTi">20 mins</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">Yes</SimpleData>
+		<SimpleData name="NearestTow">Palmerstown</SimpleData>
+		<SimpleData name="ExternalLi"></SimpleData>
+		<SimpleData name="Descriptio">The Glenaulin Slí na Sláinte routes are part of the Slí na Sláinte network of marked and measured walking routes.</SimpleData>
+		<SimpleData name="Starting_P">Glenaulin Park</SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point">Glenaulin Park</SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">1868.53245102994</SimpleData>
+		<SimpleData name="Shape__Length">0.0150432766951706</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.36885047786723,53.3475571486435 -6.36926890183832,53.3464235055404 -6.36923671510226,53.3463274327648 -6.3689148495406,53.346276192992 -6.36847496864482,53.3461545012293 -6.36574984388017,53.3459175190783 -6.36557818218733,53.3459111141067 -6.36473060443382,53.3457894205454 -6.36306763476347,53.3455332216809 -6.36290670108332,53.3456100813402 -6.36283160049794,53.3459367339931 -6.36292815890738,53.3462890029352 -6.36524558861299,53.346590031205 -6.3650524690961,53.3469807227822 -6.36755228760796,53.3474290555066 -6.36886120587991,53.3475443387003</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">12</SimpleData>
+		<SimpleData name="OBJECTID">2409</SimpleData>
+		<SimpleData name="County">South Dublin</SimpleData>
+		<SimpleData name="TrailName">St. Cuthbert's Park Slí</SimpleData>
+		<SimpleData name="Category">SliNaSlainteWalkingRoutes</SimpleData>
+		<SimpleData name="Type">Sli Route</SimpleData>
+		<SimpleData name="Length">2.00 kms</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">N/a</SimpleData>
+		<SimpleData name="Format">Circular</SimpleData>
+		<SimpleData name="SurfaceTyp">Path</SimpleData>
+		<SimpleData name="EstimateTi">30 min</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">Yes</SimpleData>
+		<SimpleData name="NearestTow">Clondalkin</SimpleData>
+		<SimpleData name="ExternalLi"></SimpleData>
+		<SimpleData name="Descriptio">The St. Cuthbert's Park Slí na Sláinte is a 2Km routes around the perimeter of park. The mapboard and the first kilometre marker are located at the main entrance to the park, near the seating area and children's mural. The route can be walked in either</SimpleData>
+		<SimpleData name="Starting_P">St. Cuthbert's Park</SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">No</SimpleData>
+		<SimpleData name="End_Point">St. Cuthbert's Park</SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">No</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">3148.14179853438</SimpleData>
+		<SimpleData name="Shape__Length">0.0247328561076733</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.41497374324359,53.3254360521321 -6.41499520106765,53.3249810815117 -6.41515613384843,53.3249298165579 -6.41558528763085,53.3249362251267 -6.41590715229319,53.3246542687795 -6.41633630607561,53.3246478602106 -6.41676545805939,53.3250579780433 -6.4170229510483,53.3251156506668 -6.41966224451693,53.3250836096209 -6.41983390620976,53.3250259378968 -6.42028451781619,53.3250131216583 -6.42097116278887,53.3254616837098 -6.42140031567197,53.3251348754742 -6.42244101294233,53.3241800652578 -6.42369628755358,53.3246542687795 -6.42406106786393,53.3247439824489 -6.42504812147359,53.3246927165956 -6.42582059774236,53.3248785525033 -6.42529488375186,53.3259422814112 -6.42490864561745,53.3263908344695 -6.4245224074831,53.3271789931161 -6.42428637231819,53.3271854007857 -6.41787052970113,53.3257051877443 -6.41599298268994,53.3256923715058 -6.41560674545491,53.3256539236897 -6.41519904949649,53.3255706194885 -6.41497374324359,53.3254360521321</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">13</SimpleData>
+		<SimpleData name="OBJECTID">2804</SimpleData>
+		<SimpleData name="County">South Dublin</SimpleData>
+		<SimpleData name="TrailName">Ballymount Park Fitwalk Circuit</SimpleData>
+		<SimpleData name="Category">FitwalkCircuit</SimpleData>
+		<SimpleData name="Type">Fitwalk</SimpleData>
+		<SimpleData name="Length">500m</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">0 m</SimpleData>
+		<SimpleData name="Format">Circular</SimpleData>
+		<SimpleData name="SurfaceTyp">Path</SimpleData>
+		<SimpleData name="EstimateTi">10-15 mins</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">Yes</SimpleData>
+		<SimpleData name="NearestTow">Tallaght</SimpleData>
+		<SimpleData name="ExternalLi">http://bit.ly/2621ydT
+</SimpleData>
+		<SimpleData name="Descriptio">Start from the exercise machines as you enter from the car park. Walk 1 lap of the route outlined in red (500m) at a comfortable strolling pace.</SimpleData>
+		<SimpleData name="Starting_P">Car Park</SimpleData>
+		<SimpleData name="Start_publ">Car Park</SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point"></SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">991.61265922817</SimpleData>
+		<SimpleData name="Shape__Length">0.0071455071863642</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.37484789561387,53.3105476650427 -6.37619972953382,53.3092848289318 -6.37619972953382,53.3092335450921 -6.37508393077871,53.3085989079133 -6.37499810038196,53.3086117286484 -6.37483716850051,53.3086758341225 -6.3746118622476,53.3088296865408 -6.37326002832759,53.3097207366228 -6.37485862452587,53.3105668952461</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">14</SimpleData>
+		<SimpleData name="OBJECTID">2806</SimpleData>
+		<SimpleData name="County">South Dublin</SimpleData>
+		<SimpleData name="TrailName">Corkagh Park Fitwalk Circuit</SimpleData>
+		<SimpleData name="Category">FitwalkCircuit</SimpleData>
+		<SimpleData name="Type">Fitwalk</SimpleData>
+		<SimpleData name="Length">500 m</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">0 m</SimpleData>
+		<SimpleData name="Format">Linear</SimpleData>
+		<SimpleData name="SurfaceTyp">Path</SimpleData>
+		<SimpleData name="EstimateTi">10 - 15 mins</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">Yes</SimpleData>
+		<SimpleData name="NearestTow">Clondalkin</SimpleData>
+		<SimpleData name="ExternalLi">http://bit.ly/1WNs2xP
+</SimpleData>
+		<SimpleData name="Descriptio">Start from the set of four exercise machines. Walk 1 lap of the route outlined in red (500m).</SimpleData>
+		<SimpleData name="Starting_P">Start at four exercise machines.</SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point"></SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">1136.90738402531</SimpleData>
+		<SimpleData name="Shape__Length">0.00863317113496454</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.40975952977846,53.3150345967693 -6.41081095506149,53.3144833699117 -6.41286016196688,53.3141372469365 -6.41292453633821,53.3141372469365 -6.41312838386779,53.31503459587 -6.41176582103577,53.3149576804527 -6.41061783644398,53.3145346465568 -6.41033888653033,53.3145090086838 -6.41004920680541,53.314444912203 -6.40966296957032,53.3142590322286 -6.40978098760246,53.3145923344687 -6.40977025779114,53.3150281864017</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">15</SimpleData>
+		<SimpleData name="OBJECTID">2807</SimpleData>
+		<SimpleData name="County">South Dublin</SimpleData>
+		<SimpleData name="TrailName">Greenhills Park Fitwalk Circuit</SimpleData>
+		<SimpleData name="Category">FitwalkCircuit</SimpleData>
+		<SimpleData name="Type">Fitwalk</SimpleData>
+		<SimpleData name="Length">500 m</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">0 m</SimpleData>
+		<SimpleData name="Format">Linear</SimpleData>
+		<SimpleData name="SurfaceTyp">Path</SimpleData>
+		<SimpleData name="EstimateTi">10 - 15 mins</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">Yes</SimpleData>
+		<SimpleData name="NearestTow">Templeogue</SimpleData>
+		<SimpleData name="ExternalLi">http://bit.ly/1tvOxvt
+</SimpleData>
+		<SimpleData name="Descriptio">Start from the junction after the exercise machines. Walk 1 lap of the route outlined in red.</SimpleData>
+		<SimpleData name="Starting_P">Junction after exercise machines.</SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point"></SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">1143.49585735983</SimpleData>
+		<SimpleData name="Shape__Length">0.00869577170627368</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.33116275795487,53.309486757308 -6.33403272213235,53.3089258438526 -6.33426875639793,53.3088008389876 -6.33508951277076,53.3085540335419 -6.33567423397869,53.3084194122262 -6.3360068284523,53.3083873594891 -6.33606583566973,53.3084995445184 -6.3361141157738,53.3090636685535 -6.33635015093864,53.3095797076375 -6.33622676845056,53.3095732972699 -6.33582980140415,53.3094194484489 -6.33515924979952,53.3096374018447 -6.33431703560268,53.3087848130687</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">16</SimpleData>
+		<SimpleData name="OBJECTID">2808</SimpleData>
+		<SimpleData name="County">South Dublin</SimpleData>
+		<SimpleData name="TrailName">Griffeen Valley Park Fitwalk Circuit</SimpleData>
+		<SimpleData name="Category">FitwalkCircuit</SimpleData>
+		<SimpleData name="Type">Fitwalk</SimpleData>
+		<SimpleData name="Length">500 m</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">0 m</SimpleData>
+		<SimpleData name="Format">Circular</SimpleData>
+		<SimpleData name="SurfaceTyp">Path</SimpleData>
+		<SimpleData name="EstimateTi">10 - 15 mins</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">Yes</SimpleData>
+		<SimpleData name="NearestTow">Lucan</SimpleData>
+		<SimpleData name="ExternalLi">http://bit.ly/1Xp2h7d
+</SimpleData>
+		<SimpleData name="Descriptio">Start from the mapboard at the junction near the exercise machines.</SimpleData>
+		<SimpleData name="Starting_P">Start from the mapboard at the junction near the e</SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point"></SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">795.72974258445</SimpleData>
+		<SimpleData name="Shape__Length">0.00517962846260258</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.43911630617254,53.3462537764906 -6.43940062054213,53.3462858004494 -6.43933624796944,53.3465259832876 -6.43919677391193,53.3467981873865 -6.43927187449736,53.3471120211029 -6.43942744282219,53.3477236698116 -6.43906266251184,53.3478581679202 -6.43875152586219,53.3479478321268 -6.4384833048606,53.3479574395842 -6.43831700852309,53.3479318205971 -6.43807024444618,53.3478037283595 -6.43802196524143,53.3476756352225 -6.43810779653751,53.3474642801525 -6.43829018624308,53.3472529250825 -6.43853694942061,53.3470383666274 -6.43890173063033,53.3466829014948 -6.43911094261586,53.3462537764906</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">17</SimpleData>
+		<SimpleData name="OBJECTID">3204</SimpleData>
+		<SimpleData name="County">South Dublin</SimpleData>
+		<SimpleData name="TrailName">Beechfield Park Fitwalk Circuit</SimpleData>
+		<SimpleData name="Category">FitwalkCircuit</SimpleData>
+		<SimpleData name="Type">Fitwalk</SimpleData>
+		<SimpleData name="Length">500 m</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">0 m</SimpleData>
+		<SimpleData name="Format">Circular</SimpleData>
+		<SimpleData name="SurfaceTyp">Path</SimpleData>
+		<SimpleData name="EstimateTi">10-15 mins</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">Yes</SimpleData>
+		<SimpleData name="NearestTow">Templeogue</SimpleData>
+		<SimpleData name="ExternalLi">http://bit.ly/1sG8peJ
+</SimpleData>
+		<SimpleData name="Descriptio">Start from the entrance on Beechfield Road. Turn RIGHT onto the path the route outlined in red (500m).</SimpleData>
+		<SimpleData name="Starting_P">Entrance Beechfield Road</SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point"></SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">925.149967264581</SimpleData>
+		<SimpleData name="Shape__Length">0.00684584124731196</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.32810235693819,53.3160953660084 -6.32857979082462,53.3158966742922 -6.32858515528062,53.3156082482221 -6.32778585673185,53.3149416581311 -6.3274103475095,53.3147589842398 -6.32717967769992,53.3146916834745 -6.32689536422964,53.3146820688225 -6.32618189607757,53.3148102608849 -6.32601023528406,53.3153518676946 -6.32611752350488,53.3154800588577 -6.3260263277528,53.3159832007642 -6.32639647251915,53.315976791296 -6.32810772319283,53.3160953660084</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">18</SimpleData>
+		<SimpleData name="OBJECTID">3205</SimpleData>
+		<SimpleData name="County">South Dublin</SimpleData>
+		<SimpleData name="TrailName">Waterstown Park Fitwalk Circuit</SimpleData>
+		<SimpleData name="Category">FitwalkCircuit</SimpleData>
+		<SimpleData name="Type">Fitwalk</SimpleData>
+		<SimpleData name="Length">500 m</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">0 m</SimpleData>
+		<SimpleData name="Format">Circular</SimpleData>
+		<SimpleData name="SurfaceTyp">Path</SimpleData>
+		<SimpleData name="EstimateTi">10 - 15 mins</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">Yes</SimpleData>
+		<SimpleData name="NearestTow">Lucan</SimpleData>
+		<SimpleData name="ExternalLi">http://bit.ly/1Ujf080
+</SimpleData>
+		<SimpleData name="Descriptio"></SimpleData>
+		<SimpleData name="Starting_P">From the swing gate that leads from the car park.</SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point"></SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">883.845494515793</SimpleData>
+		<SimpleData name="Shape__Length">0.00648368425582644</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.37168557173169,53.3588086863718 -6.37173385273508,53.359365742635 -6.37183041114451,53.3597114977874 -6.37179285995245,53.3598043392989 -6.37146026637816,53.3599387996359 -6.37121350320058,53.3599708137021 -6.37094528219899,53.3599452019096 -6.37062341753665,53.3598651667441 -6.37024254295892,53.3597146993739 -6.36991531473996,53.3596122540024 -6.36971146631106,53.3595322179376 -6.3696202714583,53.3594745920788 -6.36956126154291,53.3593465340154 -6.36942178748546,53.3591448421608 -6.36936814472404,53.3589111335421 -6.36942715194147,53.3587254478212 -6.36955053442955,53.3586710217503 -6.37030155197499,53.3587318500948 -6.37141198717342,53.3586229997517 -6.371637292527,53.3587382532678 -6.37169630064369,53.3588182911313</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">19</SimpleData>
+		<SimpleData name="OBJECTID">3206</SimpleData>
+		<SimpleData name="County">South Dublin</SimpleData>
+		<SimpleData name="TrailName">Tymon Park (North) Fitwalk Circuit</SimpleData>
+		<SimpleData name="Category">FitwalkCircuit</SimpleData>
+		<SimpleData name="Type">Fitwalk</SimpleData>
+		<SimpleData name="Length">800 m</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">0 m</SimpleData>
+		<SimpleData name="Format">Linear</SimpleData>
+		<SimpleData name="SurfaceTyp">Path</SimpleData>
+		<SimpleData name="EstimateTi">10 - 15 mins</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">Yes</SimpleData>
+		<SimpleData name="NearestTow">Templeogue</SimpleData>
+		<SimpleData name="ExternalLi">http://bit.ly/1Ujg0ZT
+</SimpleData>
+		<SimpleData name="Descriptio">From car park turn left on Tymon Road, past the stone bridge and turn left.</SimpleData>
+		<SimpleData name="Starting_P">Car Park</SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point"></SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">1413.69917503379</SimpleData>
+		<SimpleData name="Shape__Length">0.0106454451018016</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.34234701110563,53.2997065751983 -6.3431355807424,53.2999534319054 -6.34365592847826,53.3001650207991 -6.34377931006708,53.300270815246 -6.34388123383184,53.3003092864445 -6.34407435424799,53.3003124925276 -6.34411190454074,53.3003894331259 -6.34425674395351,53.3004824041397 -6.34442840474702,53.3005240805219 -6.34440158336633,53.3006138445533 -6.34427820177757,53.3008446663483 -6.34443376920302,53.3010915158608 -6.34484682961744,53.3013800390576 -6.34526525448786,53.3016749726219 -6.3455978480622,53.3017743522046 -6.3460216364893,53.3018224380551 -6.34650980018711,53.301851290105 -6.34663854443323,53.301851290105 -6.34668146008124,53.3017839695546 -6.3467029179053,53.3015691817724 -6.34667073206856,53.3014601839404 -6.34622012046214,53.3011556321268 -6.3455978480622,53.3007645196669 -6.34523843310717,53.3005016397389 -6.34495948319352,53.3003381393937 -6.34458397307185,53.3001201392331 -6.34378467452308,53.2998700782416 -6.34318922350383,53.2997193986314 -6.34255085863515,53.2995046009566 -6.34235237556163,53.2997129873646</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">20</SimpleData>
+		<SimpleData name="OBJECTID">3207</SimpleData>
+		<SimpleData name="County">South Dublin</SimpleData>
+		<SimpleData name="TrailName">Tymon Park (Wellington)</SimpleData>
+		<SimpleData name="Category">FitwalkCircuit</SimpleData>
+		<SimpleData name="Type">Fitwalk</SimpleData>
+		<SimpleData name="Length">500 m</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">0 m</SimpleData>
+		<SimpleData name="Format">Linear</SimpleData>
+		<SimpleData name="SurfaceTyp">Path</SimpleData>
+		<SimpleData name="EstimateTi">10 - 15 mins</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">Yes</SimpleData>
+		<SimpleData name="NearestTow"></SimpleData>
+		<SimpleData name="ExternalLi">http://bit.ly/1UbX2aG
+</SimpleData>
+		<SimpleData name="Descriptio"></SimpleData>
+		<SimpleData name="Starting_P">Start from Car Park</SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point"></SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">998.650866845952</SimpleData>
+		<SimpleData name="Shape__Length">0.00699263611351664</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.32983718693657,53.2947980098203 -6.33107100372382,53.2944517267658 -6.33157525989026,53.294329886615 -6.33199368386136,53.2941022367289 -6.33198295584867,53.2940733792831 -6.33193467484534,53.2940477288197 -6.33154843761025,53.2940669671169 -6.33103345253176,53.2930954295105 -6.3305238337079,53.2929383143518 -6.33031462172238,53.2929286952032 -6.33008931457016,53.2929832040117 -6.33044336776715,53.2932749890496 -6.3305023758839,53.2935026443316 -6.33040045121982,53.293730297815 -6.33008395101348,53.2940701723007 -6.32994984141203,53.2943747762749 -6.32984791584857,53.2947915967549</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">21</SimpleData>
+		<SimpleData name="OBJECTID">3604</SimpleData>
+		<SimpleData name="County">South Dublin</SimpleData>
+		<SimpleData name="TrailName">Glendown Green Fitwalk Circuit</SimpleData>
+		<SimpleData name="Category">FitwalkCircuit</SimpleData>
+		<SimpleData name="Type">Fitwalk</SimpleData>
+		<SimpleData name="Length">500 m</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">0 m</SimpleData>
+		<SimpleData name="Format">Circular</SimpleData>
+		<SimpleData name="SurfaceTyp">Path</SimpleData>
+		<SimpleData name="EstimateTi">10-15 mins</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">Yes</SimpleData>
+		<SimpleData name="NearestTow">Terenure</SimpleData>
+		<SimpleData name="ExternalLi">http://bit.ly/1UU0b8Y
+</SimpleData>
+		<SimpleData name="Descriptio"></SimpleData>
+		<SimpleData name="Starting_P"></SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point"></SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">487.557228322017</SimpleData>
+		<SimpleData name="Shape__Length">0.0039231457851946</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.31557644209909,53.303877290005 -6.31537259456951,53.3039894876248 -6.3150990082126,53.3040568045779 -6.31483078811033,53.3040984773629 -6.3146054827568,53.304101683446 -6.3143748120479,53.3040760383785 -6.31414414223832,53.3040119266092 -6.31398320945749,53.3039670477411 -6.31383300558866,53.303877290005 -6.31379008994065,53.3037843270851 -6.31384373450072,53.3036913641652 -6.31401003173755,53.3036080176959 -6.31431580393115,53.3034829975423 -6.31440163432791,53.3034829975423 -6.31487370285907,53.3035503162941 -6.31535650030219,53.3037138031495 -6.31557107674377,53.3038388224038 -6.31557644209909,53.3038901125387</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">22</SimpleData>
+		<SimpleData name="OBJECTID">3605</SimpleData>
+		<SimpleData name="County">South Dublin</SimpleData>
+		<SimpleData name="TrailName">Hermitage Park Fitwalk Circuit</SimpleData>
+		<SimpleData name="Category">FitwalkCircuit</SimpleData>
+		<SimpleData name="Type">Fitwalk</SimpleData>
+		<SimpleData name="Length">500 m</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">0 m</SimpleData>
+		<SimpleData name="Format">Linear</SimpleData>
+		<SimpleData name="SurfaceTyp">Path</SimpleData>
+		<SimpleData name="EstimateTi">10 - 15 mins</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">Yes</SimpleData>
+		<SimpleData name="NearestTow">Lucan</SimpleData>
+		<SimpleData name="ExternalLi">http://bit.ly/1PtqVf3
+</SimpleData>
+		<SimpleData name="Descriptio"></SimpleData>
+		<SimpleData name="Starting_P">Start from the green bin that leads onto the path.</SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point"></SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">777.768230627608</SimpleData>
+		<SimpleData name="Shape__Length">0.00486949825034752</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.41653747182681,53.3568237135436 -6.41665012450358,53.3565291603925 -6.41671986153233,53.3561033367996 -6.41674131935633,53.35581838571 -6.41672522508901,53.3554533877637 -6.41664476004757,53.3553061075908 -6.41640872488273,53.3551364136147 -6.41610295268907,53.3550819830471 -6.41553432574847,53.3551140016099 -6.41565234198197,53.3552100546004 -6.41576499555805,53.3554693956961 -6.41572207991004,53.3559496552525 -6.41586691932281,53.3562314047556 -6.41616732616114,53.3565067492871 -6.41653747182681,53.3568301167166</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Walking_Trails_SDCC">
+		<SimpleData name="FID">23</SimpleData>
+		<SimpleData name="OBJECTID">3606</SimpleData>
+		<SimpleData name="County">South Dublin</SimpleData>
+		<SimpleData name="TrailName">Rathcoole Park Fitwalk Circuit</SimpleData>
+		<SimpleData name="Category">FitwalkCircuit</SimpleData>
+		<SimpleData name="Type">Fitwalk</SimpleData>
+		<SimpleData name="Length">800 m</SimpleData>
+		<SimpleData name="Grade">Easy</SimpleData>
+		<SimpleData name="Climb">0 m</SimpleData>
+		<SimpleData name="Format">Linear</SimpleData>
+		<SimpleData name="SurfaceTyp">Path</SimpleData>
+		<SimpleData name="EstimateTi">10 - 15 mins</SimpleData>
+		<SimpleData name="DogsAllowe">Yes</SimpleData>
+		<SimpleData name="BuggyWheel">Yes</SimpleData>
+		<SimpleData name="NearestTow">Rathcoole</SimpleData>
+		<SimpleData name="ExternalLi">http://bit.ly/1OoFK7P
+</SimpleData>
+		<SimpleData name="Descriptio"></SimpleData>
+		<SimpleData name="Starting_P">Start from the entrance gate near Avoca Café.</SimpleData>
+		<SimpleData name="Start_publ"></SimpleData>
+		<SimpleData name="Start_park">Yes</SimpleData>
+		<SimpleData name="End_Point"></SimpleData>
+		<SimpleData name="End_public"></SimpleData>
+		<SimpleData name="End_parkin">Yes</SimpleData>
+		<SimpleData name="created_us">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="created_da">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="last_edite">SouthDublinCoCoMaps</SimpleData>
+		<SimpleData name="last_edi_1">2021/04/14 00:00:00+00</SimpleData>
+		<SimpleData name="Shape__Len">1546.83270386901</SimpleData>
+		<SimpleData name="Shape__Length">0.0113369097170196</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-6.45543486712535,53.2836033443189 -6.45540804394602,53.2833082857488 -6.45526320543252,53.2831767922752 -6.45504326363567,53.2830100183977 -6.45499498353161,53.2828817310071 -6.45503253562299,53.2827341999234 -6.45501107779893,53.282621947445 -6.45481259382609,53.2822787733468 -6.45518810304844,53.2821376553286 -6.45574063752036,53.2818778663705 -6.45591230011252,53.2817944776331 -6.45629853734755,53.2816212843948 -6.45733923461796,53.2813454569273 -6.45836920297631,53.2811049080651 -6.45875544111067,53.2810311384763 -6.45888955161149,53.2812428226982 -6.45914704370108,53.2814288465641 -6.45870716190598,53.2815475166047 -6.45839066080032,53.2817816488041 -6.45821363555081,53.2823268825796 -6.45818681327074,53.2823685769483 -6.45802051603397,53.2823397114086 -6.45780593959239,53.2823140537506 -6.45759136315087,53.2823942346063 -6.45745725265004,53.2824006485711 -6.45727486204521,53.2825225237955 -6.45717830273645,53.2827534427173 -6.45717293738113,53.2828656951957 -6.45723194729646,53.2832184857446 -6.45713538618907,53.2833531862007 -6.45687252964348,53.2833852578235 -6.45656139389314,53.2834301582752 -6.45613760636542,53.2835231652619 -6.45585329109645,53.2836033443189 -6.45544023068203,53.2836001373365</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

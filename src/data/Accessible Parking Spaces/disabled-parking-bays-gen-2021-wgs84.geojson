@@ -1,0 +1,7026 @@
+{
+  "type": "FeatureCollection",
+  "name": "disabled-parking-bays-gen-2021",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ABBEY STREET LOWER",
+        "Location": "Permanent TSB, 1 Abbey Street Lower",
+        "Side of Road": "North",
+        "Easting": 715904.1,
+        "Northing": 734558.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25918617071111, 53.3485308776314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ADELAIDE ROAD",
+        "Location": "Dept. of Environment, Climate and Communications, 29-31 Adelaide Road.",
+        "Side of Road": "South",
+        "Easting": 716200,
+        "Northing": 732755
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2554055765801, 53.3322682631571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "AILESBURY CLOSE",
+        "Location": "Church of the Sacred Heart",
+        "Side of Road": "West",
+        "Easting": 717919,
+        "Northing": 731343
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23013549975273, 53.3192047029261]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "AILESBURY CLOSE",
+        "Location": "Church of the Sacred Heart",
+        "Side of Road": "West",
+        "Easting": 717914,
+        "Northing": 731346.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23020927957818, 53.319235458731]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ALBERT COLLEGE DRIVE",
+        "Location": "Albert College Court",
+        "Side of Road": "South",
+        "Easting": 715463,
+        "Northing": 738851
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26424075178877, 53.3871885443282]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ALBERT COLLEGE DRIVE",
+        "Location": "Albert College Court",
+        "Side of Road": "South",
+        "Easting": 715439.8,
+        "Northing": 738851.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26458926963705, 53.3871954095911]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ALL SAINTS DRIVE",
+        "Location": "Scoil �ine",
+        "Side of Road": "South",
+        "Easting": 721241,
+        "Northing": 738054
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.17773270429137, 53.3787355829314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ALL SAINTS DRIVE",
+        "Location": "Scoil �ine",
+        "Side of Road": "South",
+        "Easting": 721223.5,
+        "Northing": 738033.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.17800344781399, 53.3785554587166]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ALL SAINTS DRIVE",
+        "Location": "Na�scoil �de",
+        "Side of Road": "South",
+        "Easting": 721202,
+        "Northing": 738013
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.17833427571313, 53.3783762510211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ALL SAINTS DRIVE",
+        "Location": "Na�scoil �de",
+        "Side of Road": "South",
+        "Easting": 721190,
+        "Northing": 738003
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.17851836981625, 53.3782891789813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "AMIENS STREET",
+        "Location": "69 Amiens Street",
+        "Side of Road": "West",
+        "Easting": 716672,
+        "Northing": 735203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2474210199235, 53.3541541817781]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ANGLESEA ROAD",
+        "Location": "Pembroke Library",
+        "Side of Road": "East",
+        "Easting": 717860,
+        "Northing": 732352
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2306455712668, 53.328281350194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ANNE STREET SOUTH",
+        "Location": "Sheridans, 11 Anne Street South",
+        "Side of Road": "North",
+        "Easting": 715924.5,
+        "Northing": 733729.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25918324949452, 53.3410823818781]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ARBOUR HILL",
+        "Location": "Arbour Hill Prison",
+        "Side of Road": "North",
+        "Easting": 713945.8,
+        "Northing": 734630.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28855819944133, 53.3496056463102]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ARD RIGH ROAD",
+        "Location": "Irish United Nations Veteran's Association Memorial",
+        "Side of Road": "West",
+        "Easting": 714105,
+        "Northing": 734808.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28610407062731, 53.3511702963287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ARMAGH ROAD",
+        "Location": "Scoil �na Naofa",
+        "Side of Road": "South",
+        "Easting": 712804,
+        "Northing": 731357
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.30686477742633, 53.3204443921023]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ASHTOWN GROVE",
+        "Location": "Post Office, 23 Ashtown Grove",
+        "Side of Road": "North",
+        "Easting": 711567.5,
+        "Northing": 736894.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.32346446165303, 53.3704527793091]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ASHTOWN GROVE",
+        "Location": "Spar, 33 Ashtown Grove",
+        "Side of Road": "North",
+        "Easting": 711518,
+        "Northing": 736918.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.32419949031488, 53.3706788146597]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ASTON QUAY",
+        "Location": "Opposite Supervalu, 14-18 Aston Quay",
+        "Side of Road": "North",
+        "Easting": 715816.9,
+        "Northing": 734346.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2605726671624, 53.3466474169937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BACHELORS WALK",
+        "Location": "Sugar Sisters, 3/4 Bachelors Walk",
+        "Side of Road": "North",
+        "Easting": 715671.7,
+        "Northing": 734356.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26274864028414, 53.3467690018813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BAGGOT STREET LOWER",
+        "Location": "International Organisation for Migration, 116 Baggot Street Lower",
+        "Side of Road": "South",
+        "Easting": 716562.3,
+        "Northing": 733288.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24977276700688, 53.3369782310837]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BAGGOT STREET UPPER",
+        "Location": "Rocket's Diner, 33 Baggot Street Upper",
+        "Side of Road": "South",
+        "Easting": 716978,
+        "Northing": 732881
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2436843924515, 53.3332287765581]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BAGGOT STREET UPPER",
+        "Location": "Rocket's Diner, 33 Baggot Street Upper",
+        "Side of Road": "South",
+        "Easting": 716973,
+        "Northing": 732884
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24375831691201, 53.3332568293736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BAGGOT STREET UPPER",
+        "Location": "Former Royal City of Dublin Hospital",
+        "Side of Road": "North",
+        "Easting": 716947,
+        "Northing": 732920.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24413486603465, 53.3335940352788]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BAGGOT STREET UPPER",
+        "Location": "Former Royal City of Dublin Hospital",
+        "Side of Road": "North",
+        "Easting": 716942,
+        "Northing": 732924
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24420875452499, 53.3336229860933]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BALLYFERMOT ROAD",
+        "Location": "Ferrys Solicitors, 345 Ballyfermot Road",
+        "Side of Road": "South",
+        "Easting": 709394.6,
+        "Northing": 733724.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.35719787654776, 53.3424246369179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BALLYMUN ROAD",
+        "Location": "Ballymun Civic Centre",
+        "Side of Road": "East",
+        "Easting": 715455.3,
+        "Northing": 739774.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26401871241795, 53.3954893718635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BALLYMUN ROAD",
+        "Location": "Ballymun Civic Centre",
+        "Side of Road": "East",
+        "Easting": 715455,
+        "Northing": 739769
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26402537823127, 53.3954364393578]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BALLYMUN ROAD",
+        "Location": "Ballymun Library",
+        "Side of Road": "West",
+        "Easting": 715427,
+        "Northing": 739208
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26465121777326, 53.3904032463627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BALLYMUN ROAD",
+        "Location": "Ballymun Library",
+        "Side of Road": "West",
+        "Easting": 715430,
+        "Northing": 739216
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26460321432677, 53.3904744528536]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BALLYMUN ROAD",
+        "Location": "Chambers Pharmacy, 127 Ballymun Road",
+        "Side of Road": "West",
+        "Easting": 715388.7,
+        "Northing": 738652.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26542975307568, 53.3854190041696]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BARROW STREET",
+        "Location": "Tots & Co Creche, 8 Barrow Street",
+        "Side of Road": "East",
+        "Easting": 717450,
+        "Northing": 733703
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23629674335041, 53.340508048457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BASIN VIEW",
+        "Location": "Canal Way Educate Together National School",
+        "Side of Road": "East",
+        "Easting": 713897.6,
+        "Northing": 733551.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28966986547193, 53.3399225534935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BATH STREET",
+        "Location": "Canton House Takeaway, 2 Bath Street",
+        "Side of Road": "East",
+        "Easting": 718315.3,
+        "Northing": 733645.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.22333122462605, 53.3397970483617]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BEECHWOOD AVENUE LOWER",
+        "Location": "Opposite Ulster Bank",
+        "Side of Road": "West",
+        "Easting": 716347.3,
+        "Northing": 731888.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25351329044101, 53.3244496473971]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BEECHWOOD AVENUE LOWER",
+        "Location": "Opposite Ulster Bank",
+        "Side of Road": "West",
+        "Easting": 716345.3,
+        "Northing": 731884.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25354465464221, 53.3244168504505]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BELVEDERE ROAD",
+        "Location": "15 Belvedere Road",
+        "Side of Road": "East",
+        "Easting": 715861.1,
+        "Northing": 735832.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25936539917504, 53.3599834387505]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BENSON STREET",
+        "Location": "Spaces, Block C, Butlers Court",
+        "Side of Road": "West",
+        "Easting": 717640.4,
+        "Northing": 734232.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2332423017685, 53.3452247787309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BENSON STREET",
+        "Location": "Spaces, Block C, Butlers Court",
+        "Side of Road": "West",
+        "Easting": 717641,
+        "Northing": 734238.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23323132681855, 53.3452722534179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BISHOP STREET",
+        "Location": "Opposite The National Archives",
+        "Side of Road": "South",
+        "Easting": 715459.5,
+        "Northing": 733415.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26627699129724, 53.3383634115538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BISHOP STREET",
+        "Location": "Junction with Aungier Street",
+        "Side of Road": "South",
+        "Easting": 715293.2,
+        "Northing": 733411.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26877444211728, 53.3383610306916]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BLACKPITTS",
+        "Location": "Diatec Digital, 1 Blackpitts",
+        "Side of Road": "East",
+        "Easting": 714883.4,
+        "Northing": 733235.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27498858022771, 53.3368718352389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BLUEBELL ROAD",
+        "Location": "Bluebell Community Centre",
+        "Side of Road": "North",
+        "Easting": 710862.5,
+        "Northing": 732660.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.33553655276247, 53.3325602481586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BLUEBELL ROAD",
+        "Location": "Bluebell Community Centre",
+        "Side of Road": "North",
+        "Easting": 710868.1,
+        "Northing": 732662.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.33545167504809, 53.3325806351535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BLUEBELL ROAD",
+        "Location": "Bluebell Community Centre",
+        "Side of Road": "North",
+        "Easting": 710874,
+        "Northing": 732665
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.33536226022179, 53.3326018575814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BOW LANE EAST",
+        "Location": "Beaux Lane House",
+        "Side of Road": "North",
+        "Easting": 715583.8,
+        "Northing": 733588.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2643483814856, 53.3398894141257]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BOW STREET",
+        "Location": "Jameson Distillery",
+        "Side of Road": "West",
+        "Easting": 714739.8,
+        "Northing": 734492.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27668849631928, 53.3481917448183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BUCKINGHAM STREET LOWER",
+        "Location": "Fire Station Artists Studios",
+        "Side of Road": "East",
+        "Easting": 716549.7,
+        "Northing": 735135.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24928212532586, 53.353573007885]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BUCKINGHAM STREET UPPER",
+        "Location": "Opposite JCs Hair and Make Up, 20B Buckingham Street Upper",
+        "Side of Road": "East",
+        "Easting": 716509,
+        "Northing": 735245.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24985246760893, 53.3545754607903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BULFIN ROAD",
+        "Location": "St. Michael's Church",
+        "Side of Road": "West",
+        "Easting": 712174,
+        "Northing": 733504.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.31555628577146, 53.3398711099957]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BULFIN ROAD",
+        "Location": "St. Michael's Church",
+        "Side of Road": "West",
+        "Easting": 712171.8,
+        "Northing": 733509.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.3155874649269, 53.3399182880616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BURGH QUAY",
+        "Location": "Adjacent Rosie Hackett Bridge",
+        "Side of Road": "North",
+        "Easting": 716003.6,
+        "Northing": 734425.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.257741107226, 53.3473170619078]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BURLINGTON ROAD",
+        "Location": "Opposite Mespil Hotel",
+        "Side of Road": "West",
+        "Easting": 716743,
+        "Northing": 732873
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24721383365035, 53.3332087823137]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BURLINGTON ROAD",
+        "Location": "Opposite 30 Burlington Road",
+        "Side of Road": "West",
+        "Easting": 716727,
+        "Northing": 732543
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24757546269576, 53.3302480052235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BURLINGTON ROAD",
+        "Location": "Adjacent to Mespil Hotel",
+        "Side of Road": "East",
+        "Easting": 716767.5,
+        "Northing": 732843
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2468572306102, 53.3329338976233]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "BURLINGTON ROAD",
+        "Location": "Junction with Waterloo Road",
+        "Side of Road": "South",
+        "Easting": 716933,
+        "Northing": 732667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24443862801789, 53.3313164134194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CABRA ROAD",
+        "Location": "AIB Bank, 93 Cabra Road",
+        "Side of Road": "North",
+        "Easting": 714245.8,
+        "Northing": 735929.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28358563986845, 53.3612088207583]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CABRA ROAD",
+        "Location": "75 Cabra Road",
+        "Side of Road": "North",
+        "Easting": 714333.8,
+        "Northing": 735915.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2822691407576, 53.3610667406993]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CABRA ROAD",
+        "Location": "30 Cabra Road",
+        "Side of Road": "South",
+        "Easting": 714499.1,
+        "Northing": 735901.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27979221229516, 53.3608998340397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CABRA ROAD",
+        "Location": "Mr Green Fresh Food, 111 Cabra Road",
+        "Side of Road": "North",
+        "Easting": 714138.8,
+        "Northing": 735933.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28519099761331, 53.3612669545968]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CAPEL STREET",
+        "Location": "Sweetastes, 132 Capel Street",
+        "Side of Road": "West",
+        "Easting": 715269.8,
+        "Northing": 734512.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26872499770389, 53.3482553198853]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CAPEL STREET",
+        "Location": "Gateway House, 133 Capel street",
+        "Side of Road": "West",
+        "Easting": 715271.2,
+        "Northing": 734506.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26870587413129, 53.3482083042723]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CAPEL STREET",
+        "Location": "Junction with Little Britain Street",
+        "Side of Road": "East",
+        "Easting": 715242,
+        "Northing": 734649.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26909224616015, 53.3494974106213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CARDIFF LANE",
+        "Location": "Clayton Hotel",
+        "Side of Road": "West",
+        "Easting": 717143.9,
+        "Northing": 734216
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24070123534821, 53.3451840001755]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CARDIFF LANE",
+        "Location": "Clayton Hotel",
+        "Side of Road": "West",
+        "Easting": 717144.1,
+        "Northing": 734222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24069601397767, 53.3452378520366]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CARLINGFORD ROAD",
+        "Location": "Junction with Drumcondra Road Lower",
+        "Side of Road": "South",
+        "Easting": 716063.5,
+        "Northing": 736525.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25607185065279, 53.3661667973951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CARNDONAGH LAWN",
+        "Location": "Howth Junction Dart Station",
+        "Side of Road": "East",
+        "Easting": 722648.6,
+        "Northing": 739520.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.15601909534165, 53.3915805792543]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CASINO PARK",
+        "Location": "Junction with Malahide Road",
+        "Side of Road": "North",
+        "Easting": 718259.1,
+        "Northing": 737259.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.22282417998555, 53.3722771734805]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CASINO PARK",
+        "Location": "Junction with Malahide Road",
+        "Side of Road": "North",
+        "Easting": 718262.2,
+        "Northing": 737258.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.22277825415577, 53.3722612097406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CASTLE STREET",
+        "Location": "Dublin Castle Entrance Gate",
+        "Side of Road": "South",
+        "Easting": 715346.9,
+        "Northing": 734009.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26775049965683, 53.3437273494805]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CASTLE STREET",
+        "Location": "Dublin Castle Entrance Gate",
+        "Side of Road": "South",
+        "Easting": 715350.8,
+        "Northing": 734012.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26769101294327, 53.3437498548392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CASTLE STREET",
+        "Location": "Opposite Bottega Toffoli Restaurant, 34 Castle Street",
+        "Side of Road": "South",
+        "Easting": 715248,
+        "Northing": 733962.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26925218477274, 53.3433249048664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CATHAL BRUGHA STREET",
+        "Location": "Holiday Inn Express",
+        "Side of Road": "North",
+        "Easting": 715798.5,
+        "Northing": 734951.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26062761158503, 53.3520860242306]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CATHAL BRUGHA STREET",
+        "Location": "Findlater Place",
+        "Side of Road": "North",
+        "Easting": 715817.9,
+        "Northing": 734959
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26033357720546, 53.352150047111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CATHEDRAL STREET",
+        "Location": "Burger King",
+        "Side of Road": "North",
+        "Easting": 715842,
+        "Northing": 734771
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26004055058964, 53.3504560101338]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CATHEDRAL STREET",
+        "Location": "Central Revenue Information Office",
+        "Side of Road": "North",
+        "Easting": 715847,
+        "Northing": 734773
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25996475621504, 53.3504728810228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CHARLEVILLE ROAD",
+        "Location": "Adjacent 20 Charleville Road",
+        "Side of Road": "East",
+        "Easting": 715259.3,
+        "Northing": 731608.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26993858371722, 53.3221777255054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CHURCH ROAD",
+        "Location": "East Wall Health Centre",
+        "Side of Road": "South",
+        "Easting": 717412,
+        "Northing": 734985
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23639178094652, 53.3520322579333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CLADDAGH GREEN",
+        "Location": "Superior Salon, 13 Claddagh Green",
+        "Side of Road": "East",
+        "Easting": 708799.8,
+        "Northing": 733543.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.36618825622313, 53.3409221640013]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CLANBRASSIL STREET LOWER",
+        "Location": "Mace Supermarket",
+        "Side of Road": "West",
+        "Easting": 714893,
+        "Northing": 732928
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27495599228668, 53.3341075204839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CLANCARTHY ROAD",
+        "Location": "Le Ch�ile Community & Youth Centre",
+        "Side of Road": "West",
+        "Easting": 718595.1,
+        "Northing": 737511.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.21768317425568, 53.37446102102]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CLARE ROAD",
+        "Location": "Junction with Home Farm Road",
+        "Side of Road": "East",
+        "Easting": 716072.2,
+        "Northing": 737433.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25560777174648, 53.374324793314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CLARENDON STREET",
+        "Location": "Coco Boutique, 40 Clarendon Street",
+        "Side of Road": "West",
+        "Easting": 715748.8,
+        "Northing": 733778.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26180235826798, 53.3415636842813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CLARENDON STREET",
+        "Location": "Rear of Westbury Hotel",
+        "Side of Road": "East",
+        "Easting": 715730.8,
+        "Northing": 733733.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26208893105903, 53.3411642926493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CLAREVILLE ROAD",
+        "Location": "Harold's Cross National School",
+        "Side of Road": "South",
+        "Easting": 714145.5,
+        "Northing": 731083
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28683789611876, 53.317695688857]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CLOGHER ROAD",
+        "Location": "Marist Primary School",
+        "Side of Road": "South",
+        "Easting": 713667.3,
+        "Northing": 732031.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29367162940742, 53.3263170646003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CLONMEL STREET",
+        "Location": "Dept. of Foreign Affairs and Trade",
+        "Side of Road": "North",
+        "Easting": 715713.9,
+        "Northing": 733163.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26255079914192, 53.3360468917353]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CLONMEL STREET",
+        "Location": "Dept. of Foreign Affairs and Trade",
+        "Side of Road": "North",
+        "Easting": 715718.4,
+        "Northing": 733163.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26248333853779, 53.3360441115879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CLONMEL STREET",
+        "Location": "Dept. of Foreign Affairs and Trade",
+        "Side of Road": "North",
+        "Easting": 715722.8,
+        "Northing": 733163.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26241737869059, 53.3360413532612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CLONMEL STREET",
+        "Location": "Dept. of Foreign Affairs and Trade",
+        "Side of Road": "North",
+        "Easting": 715727.3,
+        "Northing": 733163.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26234991810558, 53.3360385730385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CLONTARF ROAD",
+        "Location": "Car Park Adjacent to Fairview Bottle Bank",
+        "Side of Road": "South",
+        "Easting": 718234,
+        "Northing": 736251
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.22357829105823, 53.3632211700093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CLONTARF ROAD",
+        "Location": "Car Park Opposite St. Anthony's Church Hall",
+        "Side of Road": "South",
+        "Easting": 718689.4,
+        "Northing": 736126.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.21678625817573, 53.3620044358087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CLONTARF ROAD",
+        "Location": "Car Park Opposite Vernon Avenue",
+        "Side of Road": "South",
+        "Easting": 720023,
+        "Northing": 735834
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.19687189923833, 53.3590725362254]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CLONTARF ROAD",
+        "Location": "Connolly's, 198 Clontarf Road",
+        "Side of Road": "North",
+        "Easting": 720096.7,
+        "Northing": 735831.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.1957661268887, 53.3590360473951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CLONTARF ROAD",
+        "Location": "The Sandbar Restaurant, 193 Clontarf Road",
+        "Side of Road": "North",
+        "Easting": 720058,
+        "Northing": 735845
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.19634219994693, 53.3591634006294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CLONTURK PARK",
+        "Location": "Junction with Drumcondra Road Upper",
+        "Side of Road": "South",
+        "Easting": 716186.5,
+        "Northing": 736911.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25408291267121, 53.3696053211517]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CLYDE ROAD",
+        "Location": "24 Clyde Road",
+        "Side of Road": "South",
+        "Easting": 717274,
+        "Northing": 732368.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23943209869922, 53.3285605598491]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CLYDE ROAD",
+        "Location": "National Disability Authority, 25 Clyde Road",
+        "Side of Road": "South",
+        "Easting": 717269.2,
+        "Northing": 732366.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23950504584786, 53.3285391660495]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CLYDE ROAD",
+        "Location": "26 Clyde Road",
+        "Side of Road": "South",
+        "Easting": 717255.4,
+        "Northing": 732359
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23971473613513, 53.3284784446104]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "COLERAINE STREET",
+        "Location": "Carmichael Centre, 49 Coleraine Street",
+        "Side of Road": "East",
+        "Easting": 714953.6,
+        "Northing": 734875.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2733396952278, 53.3515911606862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "COLERAINE STREET",
+        "Location": "Carmichael Centre, 49 Coleraine Street",
+        "Side of Road": "East",
+        "Easting": 714953.1,
+        "Northing": 734881.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27334520468454, 53.3516406749043]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "COLLINS AVENUE",
+        "Location": "The Gourmet Kitchen,404 Collins Avenue",
+        "Side of Road": "North",
+        "Easting": 717000.8,
+        "Northing": 738269
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2413503272347, 53.381622406676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "COLLINS AVENUE",
+        "Location": "Rimini Take Away, 392 Collins Avenue",
+        "Side of Road": "North",
+        "Easting": 717041.5,
+        "Northing": 738253.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24074447043452, 53.3814777577543]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "COLLINS AVENUE EAST",
+        "Location": "Opposite 36 Collins Avenue East",
+        "Side of Road": "South",
+        "Easting": 719203.4,
+        "Northing": 737303.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.20862459091502, 53.3724558577614]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "COLLINS AVENUE EAST",
+        "Location": "Pure Pharmacy, 59 Collins Avenue East",
+        "Side of Road": "South",
+        "Easting": 719166,
+        "Northing": 737328.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.20917679787759, 53.3726915456337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "COLLINS AVENUE EXTENSION",
+        "Location": "Dublin City University",
+        "Side of Road": "South",
+        "Easting": 715957.6,
+        "Northing": 738835.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25681475808349, 53.3869437054425]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "COLLINS AVENUE EXTENSION",
+        "Location": "Dublin City University",
+        "Side of Road": "South",
+        "Easting": 715943.9,
+        "Northing": 738843.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25701763229231, 53.38701947142]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "COLLINS AVENUE EXTENSION",
+        "Location": "Dublin City University",
+        "Side of Road": "South",
+        "Easting": 715938.4,
+        "Northing": 738847
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25709913406469, 53.3870485245253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CORNMARKET",
+        "Location": "MRCB Paints & Papers, 12 Cornmarket",
+        "Side of Road": "North",
+        "Easting": 714814,
+        "Northing": 733948.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27577161829505, 53.3432943680182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "COWPER ROAD",
+        "Location": "Opposite 43 Cowper Road",
+        "Side of Road": "North",
+        "Easting": 716217,
+        "Northing": 730970.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25580462460901, 53.3162311484124]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "COWPER ROAD",
+        "Location": "The Mageough",
+        "Side of Road": "North",
+        "Easting": 716307.9,
+        "Northing": 730977.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25443840645005, 53.3162767749464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "COWPER ROAD",
+        "Location": "The Mageough",
+        "Side of Road": "North",
+        "Easting": 716312.1,
+        "Northing": 730977.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25437525780746, 53.316279446002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CUFFE LANE",
+        "Location": "Junction with Cuffe Street",
+        "Side of Road": "West",
+        "Easting": 715629.9,
+        "Northing": 733356
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26374129068281, 53.3377917413421]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "CUFFE LANE",
+        "Location": "Junction with Cuffe Street",
+        "Side of Road": "West",
+        "Easting": 715629.7,
+        "Northing": 733361
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26374246762188, 53.3378366990766]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "D'OLIER STREET",
+        "Location": "Kohinoor Beauty, 8 Dolier Street",
+        "Side of Road": "West",
+        "Easting": 715973.7,
+        "Northing": 734323.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25822737567266, 53.3464055762787]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "D'OLIER STREET",
+        "Location": "Platinum, 9 Dolier Street",
+        "Side of Road": "West",
+        "Easting": 715978,
+        "Northing": 734318.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25816447603796, 53.3463642114788]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "DONNYBROOK ROAD",
+        "Location": "Eddie Rockets, The Mall, Donnybrook Road",
+        "Side of Road": "West",
+        "Easting": 717426,
+        "Northing": 731667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23741121474272, 53.322224613013]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "DRUMCONDRA ROAD LOWER",
+        "Location": "AIB Bank, 140 Drumcondra Road Lower",
+        "Side of Road": "West",
+        "Easting": 716091.5,
+        "Northing": 736658.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25560264194675, 53.3673526594172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "DRUMCONDRA ROAD UPPER",
+        "Location": "Domino's, 106 Drumcondra Road Upper",
+        "Side of Road": "East",
+        "Easting": 716271,
+        "Northing": 737200
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25270760325781, 53.3721809531344]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "DRUMFINN PARK",
+        "Location": "Ballyfermot / Chapelizod Partnership, 4 Drumfinn Park",
+        "Side of Road": "South",
+        "Easting": 709253.2,
+        "Northing": 733922
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.35925212862382, 53.3442307287392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "DUNNE STREET",
+        "Location": "Saint Agatha's Church",
+        "Side of Road": "East",
+        "Easting": 716723,
+        "Northing": 735532.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24653391892902, 53.3571000377319]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "DUNNE STREET",
+        "Location": "Saint Agatha's Church",
+        "Side of Road": "East",
+        "Easting": 716719.8,
+        "Northing": 735527.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24658358882833, 53.3570612199097]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "EARL STREET SOUTH",
+        "Location": "Health Centre, 33-35 Earl Street South",
+        "Side of Road": "South",
+        "Easting": 714532.3,
+        "Northing": 733742.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28007442620407, 53.3415058267348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "EARL STREET SOUTH",
+        "Location": "Health Centre, 33-35 Earl Street South",
+        "Side of Road": "South",
+        "Easting": 714537.8,
+        "Northing": 733743.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27999172915772, 53.341508229759]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "EAST ROAD",
+        "Location": "Centra, Island Key",
+        "Side of Road": "East",
+        "Easting": 717774.3,
+        "Northing": 735164.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23088573558095, 53.3535668144231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "EATON ROAD",
+        "Location": "4 Eaton Road",
+        "Side of Road": "South",
+        "Easting": 714330.5,
+        "Northing": 730439.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28429444264873, 53.3118779675913]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ECCLES PLACE",
+        "Location": "Junction with Dorset Street Lower",
+        "Side of Road": "North",
+        "Easting": 715596.6,
+        "Northing": 735623.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26341344765435, 53.3581639081453]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ECCLES PLACE",
+        "Location": "Junction with Dorset Street Lower",
+        "Side of Road": "North",
+        "Easting": 715592.3,
+        "Northing": 735625.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26347702702902, 53.3581891012806]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ECCLES STREET",
+        "Location": "Mater Hospital",
+        "Side of Road": "North",
+        "Easting": 715245.4,
+        "Northing": 735703.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2686574999292, 53.358963652832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ECCLES STREET",
+        "Location": "Mater Hospital",
+        "Side of Road": "North",
+        "Easting": 715247.9,
+        "Northing": 735702.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26862039802385, 53.3589523287988]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ECCLES STREET",
+        "Location": "Mater Hospital",
+        "Side of Road": "North",
+        "Easting": 715250.5,
+        "Northing": 735701.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26858179458179, 53.3589409829666]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ECCLES STREET",
+        "Location": "Mater Hospital Staff Car Park",
+        "Side of Road": "North",
+        "Easting": 715375.1,
+        "Northing": 735645.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26673101827171, 53.3584170725483]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ECCLES STREET",
+        "Location": "Mater Hospital Staff Car Park",
+        "Side of Road": "North",
+        "Easting": 715379.5,
+        "Northing": 735644
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2666656433903, 53.3583990455521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ECCLES STREET",
+        "Location": "Mater Hospital Staff Car Park",
+        "Side of Road": "North",
+        "Easting": 715384.5,
+        "Northing": 735641.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26659136873598, 53.3583781928084]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ECCLES STREET",
+        "Location": "Mater Private",
+        "Side of Road": "North",
+        "Easting": 715487.6,
+        "Northing": 735594.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26506065768902, 53.3579281135326]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ECCLES STREET",
+        "Location": "The Dublin Neurological Institute, 57 Eccles Street",
+        "Side of Road": "South",
+        "Easting": 715388.3,
+        "Northing": 735628.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2665391598598, 53.3582578927858]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ECCLES STREET",
+        "Location": "Centre for Lung Health, 56 Eccles Street",
+        "Side of Road": "South",
+        "Easting": 715383,
+        "Northing": 735630.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26661786595449, 53.3582806075554]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ECCLES STREET",
+        "Location": "Liver Centre, 55 Eccles Street",
+        "Side of Road": "South",
+        "Easting": 715377.5,
+        "Northing": 735633.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26669957519913, 53.358303365896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ECCLES STREET",
+        "Location": "Heart House, 54 Eccles Street",
+        "Side of Road": "South",
+        "Easting": 715371.7,
+        "Northing": 735636.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26678564330491, 53.3583297827287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ECCLES STREET",
+        "Location": "The Mater Foundation, 53 Eccles Street",
+        "Side of Road": "South",
+        "Easting": 715365.7,
+        "Northing": 735638.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26687475104257, 53.3583553448385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "EDEN QUAY",
+        "Location": "Laughter Lounge, 8 Eden Quay",
+        "Side of Road": "North",
+        "Easting": 715965.5,
+        "Northing": 734482.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2582922042031, 53.3478365318896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "EDENMORE AVENUE",
+        "Location": "Cronin's Pharmacy",
+        "Side of Road": "East",
+        "Easting": 720834.9,
+        "Northing": 739047.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.18345315622346, 53.3877525371885]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "EDENMORE PARK",
+        "Location": "Health Centre",
+        "Side of Road": "North",
+        "Easting": 720928.7,
+        "Northing": 739109.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.18202015392786, 53.3882861880861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "EDENMORE PARK",
+        "Location": "Saint Malachy's Boys School",
+        "Side of Road": "South",
+        "Easting": 721023.7,
+        "Northing": 739152.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.1805762116419, 53.3886524752947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ELMWOOD AVENUE LOWER",
+        "Location": "Junction with Ranelagh",
+        "Side of Road": "East",
+        "Easting": 716275.4,
+        "Northing": 731941.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25457259632812, 53.3249415247665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ELY PLACE UPPER",
+        "Location": "Royal Hibernian Acadamy",
+        "Side of Road": "West",
+        "Easting": 716246.8,
+        "Northing": 733290.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25450682596707, 53.3370691626225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ERRIGAL ROAD",
+        "Location": "Crumlin Medical Clinic, 1 Errigal Road",
+        "Side of Road": "West",
+        "Easting": 711821.7,
+        "Northing": 731879.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.32141740414693, 53.3253472371219]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ESSEX STREET EAST",
+        "Location": "Dollard & Co",
+        "Side of Road": "North",
+        "Easting": 715391,
+        "Northing": 734158
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26703459274426, 53.3450480915855]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ESSEX STREET EAST",
+        "Location": "Dollard & Co",
+        "Side of Road": "North",
+        "Easting": 715398,
+        "Northing": 734160
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26692878931954, 53.3450645309454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "EXCHANGE STREET UPPER",
+        "Location": "Hard Rock Hotel",
+        "Side of Road": "West",
+        "Easting": 715332.2,
+        "Northing": 734060.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26795268837548, 53.34418598197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "EXCHEQUER STREET",
+        "Location": "Central Hotel",
+        "Side of Road": "North",
+        "Easting": 715595.7,
+        "Northing": 733940.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26404140150762, 53.3430469667413]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FAIRFIELD ROAD",
+        "Location": "Bank of Ireland",
+        "Side of Road": "North",
+        "Easting": 715254.4,
+        "Northing": 736955.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26806632219104, 53.3702054514083]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FAIRVIEW STRAND",
+        "Location": "Junction with Merville Avenue",
+        "Side of Road": "North",
+        "Easting": 717501.7,
+        "Northing": 736265.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23456973240603, 53.3635137187999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FAUSSAGH AVENUE",
+        "Location": "Pelly's Pharmacy, 26 Faussagh Avenue",
+        "Side of Road": "North",
+        "Easting": 713598.7,
+        "Northing": 736554.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29307834081447, 53.3669643101589]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FAUSSAGH AVENUE",
+        "Location": "Spar, 72 Faussagh Avenue",
+        "Side of Road": "North",
+        "Easting": 713196,
+        "Northing": 736589
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29911402717655, 53.3673596763913]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FAUSSAGH AVENUE",
+        "Location": "Londis, 38 Faussagh Avenue",
+        "Side of Road": "North",
+        "Easting": 713545,
+        "Northing": 736564
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29388146436172, 53.3670602824054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FERGUSON ROAD",
+        "Location": "Opposite 1 Ferguson Road",
+        "Side of Road": "South",
+        "Easting": 715812,
+        "Northing": 736983
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25968132263283, 53.370332438376]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FERGUSON ROAD",
+        "Location": "Opposite 3 Ferguson Road",
+        "Side of Road": "South",
+        "Easting": 715807,
+        "Northing": 736987
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25975495530847, 53.3703694644565]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FINGLAS ROAD",
+        "Location": "Glasnevin Cemetery Museum",
+        "Side of Road": "South",
+        "Easting": 714628.2,
+        "Northing": 736870
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27750250437615, 53.3695753401282]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FINGLAS ROAD OLD",
+        "Location": "Saint Brigid's National School",
+        "Side of Road": "South",
+        "Easting": 714734.7,
+        "Northing": 737729.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27559107977857, 53.3772720713909]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FINGLAS ROAD OLD",
+        "Location": "Saint Mary's Secondary School",
+        "Side of Road": "South",
+        "Easting": 714831,
+        "Northing": 737700
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2741551356087, 53.3769870668746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FISHAMBLE STREET",
+        "Location": "31 Fishamble Street",
+        "Side of Road": "East",
+        "Easting": 715201,
+        "Northing": 734132.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26989589930369, 53.3448604214238]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FISHAMBLE STREET",
+        "Location": "30 Fishamble Street",
+        "Side of Road": "East",
+        "Easting": 715201.6,
+        "Northing": 734127.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26988860249504, 53.3448180715271]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FISHAMBLE STREET",
+        "Location": "29 Fishamble Street",
+        "Side of Road": "East",
+        "Easting": 715203.5,
+        "Northing": 734119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26986328326452, 53.344738609057]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FISHAMBLE STREET",
+        "Location": "28 Fishamble Street",
+        "Side of Road": "East",
+        "Easting": 715206,
+        "Northing": 734110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26982903054003, 53.3446572194083]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FISHAMBLE STREET",
+        "Location": "Reptile Haven, 27 Fishamble Street",
+        "Side of Road": "East",
+        "Easting": 715207,
+        "Northing": 734106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.269815474986, 53.3446210704147]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FISHAMBLE STREET",
+        "Location": "Christ Church",
+        "Side of Road": "West",
+        "Easting": 715184,
+        "Northing": 734003
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27019817532961, 53.3437008449984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FISHAMBLE STREET",
+        "Location": "Christ Church",
+        "Side of Road": "West",
+        "Easting": 715182.7,
+        "Northing": 734011
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27021477938592, 53.343772990569]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FITZMAURICE ROAD",
+        "Location": "Post Office, 1 Fitzmaurice Road",
+        "Side of Road": "North",
+        "Easting": 714638.9,
+        "Northing": 738319
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2768163337129, 53.3825891195616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FITZMAURICE ROAD",
+        "Location": "Marsellas Take Away, 10 Fitzmaurice Road",
+        "Side of Road": "South",
+        "Easting": 714617.1,
+        "Northing": 738309.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27714744668274, 53.3825049178805]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FITZWILLIAM LANE",
+        "Location": "The Merrion Hotel",
+        "Side of Road": "South",
+        "Easting": 716398.7,
+        "Northing": 733474.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2521596631835, 53.3386859179396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FITZWILLIAM LANE",
+        "Location": "The Merrion Hotel Spa",
+        "Side of Road": "South",
+        "Easting": 716419.9,
+        "Northing": 733465.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25184479388402, 53.338600411194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FITZWILLIAM PLACE",
+        "Location": "9 Fitzwilliam Place",
+        "Side of Road": "East",
+        "Easting": 716422.8,
+        "Northing": 732932.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25199705908456, 53.3338128628492]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FITZWILLIAM SQUARE SOUTH",
+        "Location": "35 Fitzwilliam Square South",
+        "Side of Road": "South",
+        "Easting": 716338.1,
+        "Northing": 733090.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25321011772565, 53.335250757708]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FITZWILLIAM STREET",
+        "Location": "NCBI Home, 12/13 Fitzwilliam Street",
+        "Side of Road": "West",
+        "Easting": 718073.4,
+        "Northing": 733850.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.22688541224024, 53.3416916016161]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FITZWILLIAM STREET LOWER",
+        "Location": "ESB Head Office",
+        "Side of Road": "East",
+        "Easting": 716638,
+        "Northing": 733317.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24862589923551, 53.3372247522946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FITZWILLIAM STREET UPPER",
+        "Location": "20 Fitzwilliam Street Upper",
+        "Side of Road": "West",
+        "Easting": 716523,
+        "Northing": 733132
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.250420007854, 53.335583777396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FLEET STREET",
+        "Location": "Temple Bar Hotel",
+        "Side of Road": "North",
+        "Easting": 715852.6,
+        "Northing": 734252.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26007119203451, 53.3457943233242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FOLEY STREET",
+        "Location": "Opposite Citas College Dublin",
+        "Side of Road": "South",
+        "Easting": 716466.5,
+        "Northing": 734987
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25058581217993, 53.3522591913866]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FOLEY STREET",
+        "Location": "Opposite Citas College Dublin",
+        "Side of Road": "South",
+        "Easting": 716471.7,
+        "Northing": 734990.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25050656688281, 53.3522867914517]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FOLEY STREET",
+        "Location": "Liberty Park",
+        "Side of Road": "South",
+        "Easting": 716379.2,
+        "Northing": 734931.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25191682007908, 53.3517807574031]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FOLEY STREET",
+        "Location": "Liberty Park",
+        "Side of Road": "South",
+        "Easting": 716374,
+        "Northing": 734928.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25199606353997, 53.3517531563841]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FOSTER PLACE",
+        "Location": "Opposite Bank of Ireland",
+        "Side of Road": "West",
+        "Easting": 715785.3,
+        "Northing": 734132.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26112511262944, 53.3447356087391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FOXFIELD CRESCENT",
+        "Location": "Kilbarrack Health Centre",
+        "Side of Road": "North",
+        "Easting": 722717,
+        "Northing": 738771.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.155282037945, 53.3848424178308]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FOXFIELD CRESCENT",
+        "Location": "Kilbarrack Health Centre",
+        "Side of Road": "North",
+        "Easting": 722726.2,
+        "Northing": 738773
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.15514335335961, 53.3848510601082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FREDERICK STREET SOUTH",
+        "Location": "Trinity Townhouse, 29 Frederick Street South",
+        "Side of Road": "East",
+        "Easting": 716093.6,
+        "Northing": 733831.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25660773939034, 53.3419633597623]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "FUMBALLY LANE",
+        "Location": "Fumbally Court",
+        "Side of Road": "South",
+        "Easting": 714943.2,
+        "Northing": 733247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27408693867725, 53.3369621576482]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GARDINER STREET UPPER",
+        "Location": "Saint Francis Xavier Church",
+        "Side of Road": "East",
+        "Easting": 715813.7,
+        "Northing": 735601.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26016139949366, 53.3579259875501]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GARDINER STREET UPPER",
+        "Location": "Saint Francis Xavier Church",
+        "Side of Road": "East",
+        "Easting": 715816.7,
+        "Northing": 735597.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26011796431663, 53.357885806591]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GATEWAY AVENUE",
+        "Location": "Junction with Ballymun Road",
+        "Side of Road": "South",
+        "Easting": 715435.5,
+        "Northing": 739512.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26441230629086, 53.3931339363647]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GATEWAY AVENUE",
+        "Location": "Junction with Ballymun Road",
+        "Side of Road": "South",
+        "Easting": 715427.8,
+        "Northing": 739511.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2645283109447, 53.3931284325444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GILFORD ROAD",
+        "Location": "Brabazon House, 2 Gilford Road",
+        "Side of Road": "North",
+        "Easting": 719222.5,
+        "Northing": 732359.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.21019920005296, 53.3280464246049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GILFORD ROAD",
+        "Location": "Brabazon House, 2 Gilford Road",
+        "Side of Road": "North",
+        "Easting": 719245.9,
+        "Northing": 732356.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.20984941720061, 53.3280097170469]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GLASNEVIN HILL",
+        "Location": "52 Glasnevin Hill",
+        "Side of Road": "West",
+        "Easting": 715161.4,
+        "Northing": 737510
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26926110702845, 53.3752084647806]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GLENGARRIFF PARADE",
+        "Location": "Ormsby's Newsagent",
+        "Side of Road": "West",
+        "Easting": 715411.5,
+        "Northing": 735876.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26610035485424, 53.3604805632278]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GOLDEN LANE",
+        "Location": "Radisson Blu Hotel",
+        "Side of Road": "North",
+        "Easting": 715328.5,
+        "Northing": 733681.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2681462158683, 53.3407822981721]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GRANBY ROW",
+        "Location": "Colaiste Mhuire",
+        "Side of Road": "East",
+        "Easting": 715457.4,
+        "Northing": 735130.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26568323087723, 53.3537702837293]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GRANBY ROW",
+        "Location": "Colaiste Mhuire",
+        "Side of Road": "East",
+        "Easting": 715462.1,
+        "Northing": 735126.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26561419833908, 53.3537315303084]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GRAND CANAL PLACE",
+        "Location": "Guinness Storehouse",
+        "Side of Road": "East",
+        "Easting": 714036,
+        "Northing": 733770
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2875139245934, 53.3418564216252]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GRAND CANAL PLACE",
+        "Location": "Guinness Storehouse",
+        "Side of Road": "East",
+        "Easting": 714036,
+        "Northing": 733763
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28751644454885, 53.3417935412125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GRAND CANAL PLACE",
+        "Location": "Guinness Storehouse",
+        "Side of Road": "East",
+        "Easting": 714036,
+        "Northing": 733756
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28751896449482, 53.341730660799]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GRAND CANAL QUAY",
+        "Location": "Clanwilliam Square",
+        "Side of Road": "West",
+        "Easting": 717235.5,
+        "Northing": 733582.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23956077056127, 53.3394722868584]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GRAND CANAL STREET LOWER",
+        "Location": "Sir Patrick Dun's Hospital",
+        "Side of Road": "South",
+        "Easting": 717159.1,
+        "Northing": 733550.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24071929055642, 53.3392008571834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GRAND CANAL STREET LOWER",
+        "Location": "Sir Patrick Dun's Hospital",
+        "Side of Road": "South",
+        "Easting": 717153.9,
+        "Northing": 733553.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24079618797573, 53.339229854411]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GRANGEGORMAN LOWER",
+        "Location": "TU Dublin Grangegorman",
+        "Side of Road": "West",
+        "Easting": 714611.5,
+        "Northing": 735329
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2783115721558, 53.3557364037844]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GRANTHAM STREET",
+        "Location": "Gratham House",
+        "Side of Road": "South",
+        "Easting": 715484.5,
+        "Northing": 732942.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26607420160827, 53.3341081847228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GRATTAN CRESCENT",
+        "Location": "Inchicore Medical Centre, 15 Grattan Crescent",
+        "Side of Road": "East",
+        "Easting": 711864.48,
+        "Northing": 733572.18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.32017812522237, 53.3405427890242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GRATTAN CRESCENT",
+        "Location": "Inchicore Medical Centre, 15 Grattan Crescent",
+        "Side of Road": "East",
+        "Easting": 711862.87,
+        "Northing": 733566.11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.32020443388627, 53.3404886020367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GRATTAN CRESCENT",
+        "Location": "Opposite Inchicore Medical Centre, 15 Grattan Crescent",
+        "Side of Road": "West",
+        "Easting": 711855.8,
+        "Northing": 733578.09
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.32030632099439, 53.3405977132888]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GREEK STREET",
+        "Location": "Saint Michan's House",
+        "Side of Road": "East",
+        "Easting": 714987.2,
+        "Northing": 734402
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2730073237313, 53.3473277921919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GREEK STREET",
+        "Location": "Saint Michan's House",
+        "Side of Road": "East",
+        "Easting": 714986,
+        "Northing": 734408
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27302315888339, 53.3473819499715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GREEK STREET",
+        "Location": "Saint Michan's House",
+        "Side of Road": "East",
+        "Easting": 714985,
+        "Northing": 734412.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27303639118404, 53.3474261831688]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GREEN STREET",
+        "Location": "Junction with King Street North",
+        "Side of Road": "East",
+        "Easting": 715144.9,
+        "Northing": 734759.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27050989644353, 53.3505075575586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GREEN STREET",
+        "Location": "Junction with King Street North",
+        "Side of Road": "East",
+        "Easting": 715145,
+        "Northing": 734753.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27051075911427, 53.3504491474493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GREENDALE AVENUE",
+        "Location": "North Bay Educate Together National School",
+        "Side of Road": "South",
+        "Easting": 722939,
+        "Northing": 738846.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.15191774403307, 53.3854608929836]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GREENDALE ROAD",
+        "Location": "Kilbarrack Foxfield Pre School",
+        "Side of Road": "North",
+        "Easting": 722917.8,
+        "Northing": 738764.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.15226815210884, 53.3847292846676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GREENLEA ROAD",
+        "Location": "Greenlea Pharmacy, 116 Greenlea Road",
+        "Side of Road": "North",
+        "Easting": 713275.7,
+        "Northing": 729908.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.30030522841163, 53.307333627932]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "GREENMOUNT LANE",
+        "Location": "Opposite 1 Greenmount Lane",
+        "Side of Road": "East",
+        "Easting": 714676.2,
+        "Northing": 732409.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2783971921024, 53.3294942005685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HADDINGTON ROAD",
+        "Location": "Saint Mary's Church",
+        "Side of Road": "South",
+        "Easting": 717079.5,
+        "Northing": 733072.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.242090541858, 53.3349256330218]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HADDINGTON ROAD",
+        "Location": "Junction with Percy Place",
+        "Side of Road": "South",
+        "Easting": 716963.4,
+        "Northing": 733010.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24385572911028, 53.3343943660959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HALSTON STREET",
+        "Location": "Saint Michan's Church",
+        "Side of Road": "West",
+        "Easting": 715081,
+        "Northing": 734634.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27151474569584, 53.3493959105914]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HALSTON STREET",
+        "Location": "Saint Michan's Church",
+        "Side of Road": "West",
+        "Easting": 715080.1,
+        "Northing": 734637.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27152713000053, 53.3494239530937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HARCOURT TERRACE",
+        "Location": "Junction with Adelaide Road",
+        "Side of Road": "West",
+        "Easting": 716028.5,
+        "Northing": 732787.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25796722687085, 53.3325978132202]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HARDWICKE PLACE",
+        "Location": "Opposite Saint George's Church",
+        "Side of Road": "South",
+        "Easting": 715627.6,
+        "Northing": 735482.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26299941760676, 53.3568923580842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HARDWICKE STREET",
+        "Location": "Junction with Frederick Court",
+        "Side of Road": "East",
+        "Easting": 715552.3,
+        "Northing": 735336.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26418311739716, 53.3556027144522]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HARDWICKE STREET",
+        "Location": "Block 2, Dermot O'Dwyer House",
+        "Side of Road": "West",
+        "Easting": 715569.3,
+        "Northing": 735402.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26390384713628, 53.3561900681836]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HAROLD'S CROSS ROAD",
+        "Location": "77 Harold's Cross Road",
+        "Side of Road": "East",
+        "Easting": 714725.7,
+        "Northing": 732092.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27776889023094, 53.326642190203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HATCH STREET LOWER",
+        "Location": "Junction with Leeson Street",
+        "Side of Road": "North",
+        "Easting": 716181.1,
+        "Northing": 732982.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25560572219634, 53.3343177891624]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HATCH STREET UPPER",
+        "Location": "Opposite National Concert Hall",
+        "Side of Road": "South",
+        "Easting": 715963.5,
+        "Northing": 732921.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25889363965752, 53.3338148492498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HAYMARKET",
+        "Location": "Junction with Queen Street",
+        "Side of Road": "North",
+        "Easting": 714530.9,
+        "Northing": 734439.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27984342908308, 53.3477662962068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HENDRICK LANE",
+        "Location": "Junction with Benburb Street",
+        "Side of Road": "East",
+        "Easting": 714410,
+        "Northing": 734405.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28167077712511, 53.3474834375161]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HENRIETTA STREET",
+        "Location": "Junction with Henrietta Place",
+        "Side of Road": "South",
+        "Easting": 715200.7,
+        "Northing": 734962.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26959847102294, 53.3523153307713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HERBERT PARK",
+        "Location": "Herbert Park Tennis Courts",
+        "Side of Road": "North",
+        "Easting": 717537.3,
+        "Northing": 732249.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23552549537623, 53.3274332449123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HERBERT PARK",
+        "Location": "Herbert Park Tennis Courts",
+        "Side of Road": "North",
+        "Easting": 717542.8,
+        "Northing": 732254.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23544104421442, 53.3274787341756]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HERBERT PARK",
+        "Location": "Herbert Park Tennis Courts",
+        "Side of Road": "South",
+        "Easting": 717549.8,
+        "Northing": 732253.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23533664475772, 53.3274619098699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HERBERT STREET",
+        "Location": "6 Herbert Street",
+        "Side of Road": "East",
+        "Easting": 716906,
+        "Northing": 733233.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24463477590521, 53.3364119872391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HERBERT STREET",
+        "Location": "Junction with Baggot Street Lower",
+        "Side of Road": "West",
+        "Easting": 716802,
+        "Northing": 733101.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24624431758375, 53.3352465277348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HEYTESBURY STREET",
+        "Location": "Opposite Saint Kevin's Church",
+        "Side of Road": "West",
+        "Easting": 715331.8,
+        "Northing": 732797.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26841847522976, 53.3328398566429]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HIGHFIELD ROAD",
+        "Location": "Christ Church Rathgar",
+        "Side of Road": "North",
+        "Easting": 715079.9,
+        "Northing": 730503.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27303116394343, 53.3122843580856]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HILL STREET",
+        "Location": "21 Hill Street",
+        "Side of Road": "East",
+        "Easting": 715792,
+        "Northing": 735342.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26058202310886, 53.3556033032913]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HILL STREET",
+        "Location": "21 Hill Street",
+        "Side of Road": "East",
+        "Easting": 715795.4,
+        "Northing": 735338.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26053240119623, 53.3555675263185]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HILL STREET",
+        "Location": "21 Hill Street",
+        "Side of Road": "East",
+        "Easting": 715802,
+        "Northing": 735331.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26043616047778, 53.3554960160908]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HILL STREET",
+        "Location": "21 Hill Street",
+        "Side of Road": "East",
+        "Easting": 715805.7,
+        "Northing": 735327
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26038210770362, 53.3554583768362]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HOGAN PLACE",
+        "Location": "31 Hogan Place",
+        "Side of Road": "South",
+        "Easting": 716947.8,
+        "Northing": 733694.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24383730462096, 53.3405437863059]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HOGAN PLACE",
+        "Location": "30 Hogan Place",
+        "Side of Road": "South",
+        "Easting": 716944.1,
+        "Northing": 733697.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24389191471082, 53.3405670605353]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HOLLES STREET",
+        "Location": "Opposite The National Maternity Hospital",
+        "Side of Road": "West",
+        "Easting": 716790.2,
+        "Northing": 733665.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24621343839991, 53.3403171852669]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HOLLES STREET",
+        "Location": "Opposite The National Maternity Hospital",
+        "Side of Road": "West",
+        "Easting": 716793.1,
+        "Northing": 733670.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24616792197276, 53.3403650521104]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HOLLYBANK ROAD",
+        "Location": "Opposite Spectrum Health",
+        "Side of Road": "South",
+        "Easting": 716060.3,
+        "Northing": 736601.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25609194867947, 53.3668519837171]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HOWTH ROAD",
+        "Location": "Tully's Total Health Pharmacy, 439 Howth Road",
+        "Side of Road": "South",
+        "Easting": 721611.4,
+        "Northing": 738227.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.17210181409206, 53.380210722922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HOWTH ROAD",
+        "Location": "Raheny Shopping Centre",
+        "Side of Road": "North",
+        "Easting": 721232.2,
+        "Northing": 738208.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.17780555817355, 53.3801271674122]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "HUME STREET",
+        "Location": "Junction with Saint Stephen's Green",
+        "Side of Road": "North",
+        "Easting": 716183.3,
+        "Northing": 733386.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25542450886484, 53.3379481432851]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "INCHICORE ROAD",
+        "Location": "Opposite Kilmainham Gaol",
+        "Side of Road": "North",
+        "Easting": 712613.6,
+        "Northing": 733768
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.3088646456518, 53.3421429983662]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "IONA ROAD",
+        "Location": "Saint Columba's Church",
+        "Side of Road": "North",
+        "Easting": 715521.6,
+        "Northing": 736484.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26422492844408, 53.3659216486722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "IONA ROAD",
+        "Location": "Saint Columba's Church",
+        "Side of Road": "North",
+        "Easting": 715535.3,
+        "Northing": 736480.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26402064306694, 53.3658827247441]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "IRISHTOWN ROAD",
+        "Location": "Irishtown & Ringsend Primary Care Centre",
+        "Side of Road": "West",
+        "Easting": 718185.2,
+        "Northing": 733754.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.22524324075687, 53.3408034206592]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "IRISHTOWN ROAD",
+        "Location": "Irishtown & Ringsend Primary Care Centre",
+        "Side of Road": "West",
+        "Easting": 718181.2,
+        "Northing": 733757.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2253018958421, 53.3408375494432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "IRISHTOWN ROAD",
+        "Location": "Jumction with Fairview Avenue",
+        "Side of Road": "West",
+        "Easting": 718150.5,
+        "Northing": 733786.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.22575211310554, 53.3410986111142]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "JAMES'S STREET",
+        "Location": "Saint James Medical Centre, 178 Saint James's Street",
+        "Side of Road": "North",
+        "Easting": 713548.8,
+        "Northing": 733801.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29481545965503, 53.3422423297925]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "KEEPER ROAD",
+        "Location": "Fr. Lar Redmond Community Centre",
+        "Side of Road": "North",
+        "Easting": 713051.3,
+        "Northing": 732652.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.30269264540035, 53.3320327555928]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "KENILWORTH ROAD",
+        "Location": "8 Kenilworth Road",
+        "Side of Road": "North",
+        "Easting": 715025.2,
+        "Northing": 731361.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27354050990833, 53.3200044531659]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "KENILWORTH SQUARE SOUTH",
+        "Location": "47 Kenilworth Square South",
+        "Side of Road": "South",
+        "Easting": 714856.7,
+        "Northing": 731027.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27618930943865, 53.31703982896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "KILLARNEY STREET",
+        "Location": "Killarney Court",
+        "Side of Road": "North",
+        "Easting": 716536,
+        "Northing": 735231.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24945228396273, 53.3544428578702]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "KILLARNEY STREET",
+        "Location": "Killarney Court",
+        "Side of Road": "North",
+        "Easting": 716540,
+        "Northing": 735233.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.249391639556, 53.3544563491223]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "KILLARNEY STREET",
+        "Location": "Killarney Court",
+        "Side of Road": "North",
+        "Easting": 716544.1,
+        "Northing": 735234.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24932953054626, 53.3544689200432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "KINCORA ROAD",
+        "Location": "Junction with Clontarf Road",
+        "Side of Road": "North",
+        "Easting": 720928.2,
+        "Northing": 736056.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.1831951932226, 53.3608685489626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "KING'S INNS STREET",
+        "Location": "Opposite The Salvation Army",
+        "Side of Road": "West",
+        "Easting": 715378,
+        "Northing": 734832.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26698385767687, 53.3511125262375]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "KINVARA PARK",
+        "Location": "Meaghers Pharmacy, 41 Kinvara Park",
+        "Side of Road": "North",
+        "Easting": 711909.6,
+        "Northing": 736737.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.31838178032433, 53.3689674560902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "LA TOUCHE ROAD",
+        "Location": "La Touche Caf�, 14 La Touche Road",
+        "Side of Road": "West",
+        "Easting": 710947.5,
+        "Northing": 732392.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.33435474575043, 53.3301358583778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "LARKFIELD GROVE",
+        "Location": "31 Larkfield Grove",
+        "Side of Road": "East",
+        "Easting": 714108.6,
+        "Northing": 731069.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28739640551073, 53.3175796735037]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "LEA ROAD",
+        "Location": "Junction with Strand Road",
+        "Side of Road": "South",
+        "Easting": 719222.9,
+        "Northing": 732718.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.21005821945615, 53.3312701765065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "LEA ROAD",
+        "Location": "Junction with Strand Road",
+        "Side of Road": "South",
+        "Easting": 719217.7,
+        "Northing": 732715
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.21013763901976, 53.3312381118277]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "LEICESTER AVENUE",
+        "Location": "Church of the Three Patrons",
+        "Side of Road": "South",
+        "Easting": 715217.6,
+        "Northing": 731058.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27076416021574, 53.3172417278819]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "LEICESTER AVENUE",
+        "Location": "Church of the Three Patrons",
+        "Side of Road": "South",
+        "Easting": 715212.6,
+        "Northing": 731060.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27083847490707, 53.3172598827455]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "LEINSTER ROAD",
+        "Location": "11 Leinster Road",
+        "Side of Road": "North",
+        "Easting": 715379.2,
+        "Northing": 731802
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26806947444792, 53.3238871085952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "LEINSTER SQUARE",
+        "Location": "Junction with Rathmines Road Lower",
+        "Side of Road": "North",
+        "Easting": 715536,
+        "Northing": 731783.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26572356125345, 53.3236903383055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "LIFFEY STREET WEST",
+        "Location": "Junction with Benburb Street",
+        "Side of Road": "East",
+        "Easting": 714175.9,
+        "Northing": 734420.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28517941939851, 53.3476732325398]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "LISLE ROAD",
+        "Location": "Crumlin Village Pharmacy",
+        "Side of Road": "West",
+        "Easting": 712138.1,
+        "Northing": 731354
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.31685594477757, 53.3205588313255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "LOMBARD STREET EAST",
+        "Location": "Joyce House, 8-11 Lombard Street East",
+        "Side of Road": "East",
+        "Easting": 716610.4,
+        "Northing": 734172.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24872542339126, 53.3449101718079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "LOMBARD STREET EAST",
+        "Location": "Joyce House, 8-11 Lombard Street East",
+        "Side of Road": "East",
+        "Easting": 716608.4,
+        "Northing": 734166.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24875754297201, 53.3448594109253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "LONG MILE ROAD",
+        "Location": "Long Mile Road Pharmacy, 1 Long Mile Road",
+        "Side of Road": "North",
+        "Easting": 711287.4,
+        "Northing": 731725.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.32948838860961, 53.3240718844801]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "LOUGH CONN ROAD",
+        "Location": "Saint Louise De Marillac National School",
+        "Side of Road": "North",
+        "Easting": 709148.6,
+        "Northing": 734262
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.36070510958941, 53.3473066148222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MACKEN STREET",
+        "Location": "Conway Court",
+        "Side of Road": "West",
+        "Easting": 717104.1,
+        "Northing": 733839
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24143803595879, 53.3418063324818]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MACKEN STREET",
+        "Location": "Conway Court",
+        "Side of Road": "West",
+        "Easting": 717104.7,
+        "Northing": 733845.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24142647957512, 53.3418681803454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MAIN STREET",
+        "Location": "Raheny Health Centre",
+        "Side of Road": "East",
+        "Easting": 721399.2,
+        "Northing": 738116.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.17533240828317, 53.3792570759976]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MAIN STREET",
+        "Location": "Adam's Pharmacy, 11 Main Street, Raheny",
+        "Side of Road": "East",
+        "Easting": 721453.5,
+        "Northing": 738194.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.17448666661097, 53.3799470190882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MAIN STREET",
+        "Location": "Coolock Post Office, 19 Main Street, Coolock",
+        "Side of Road": "East",
+        "Easting": 719679.5,
+        "Northing": 739116.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.20078689680231, 53.3886388603829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MALAHIDE ROAD",
+        "Location": "Hidden Hearing, Malahide Road, Artane",
+        "Side of Road": "West",
+        "Easting": 719252.2,
+        "Northing": 738383.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.20748396032441, 53.3821513201882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MANOR STREET",
+        "Location": "Manor Health, 4 Manor Street",
+        "Side of Road": "East",
+        "Easting": 714309.4,
+        "Northing": 734855.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28301845306758, 53.3515483733926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MANOR STREET",
+        "Location": "76 Manor Street",
+        "Side of Road": "West",
+        "Easting": 714256.1,
+        "Northing": 734920.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28379508352585, 53.3521464678991]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MARK STREET",
+        "Location": "Saint Mark's Church",
+        "Side of Road": "East",
+        "Easting": 716430.8,
+        "Northing": 734149.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25142965328696, 53.3447458051773]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MARK'S LANE",
+        "Location": "Pearse Street Primary Care Centre",
+        "Side of Road": "North",
+        "Easting": 716523,
+        "Northing": 734170.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25003807570745, 53.3449114563382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MARK'S LANE",
+        "Location": "Pearse Street Primary Care Centre",
+        "Side of Road": "North",
+        "Easting": 716529,
+        "Northing": 734169.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24994827033059, 53.3449038473765]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MARLBOROUGH STREET",
+        "Location": "Opposite The Spire Car Park",
+        "Side of Road": "West",
+        "Easting": 715901.6,
+        "Northing": 734953.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25907884743082, 53.3520859069251]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MARLBOROUGH STREET",
+        "Location": "Opposite The Spire Car Park",
+        "Side of Road": "West",
+        "Easting": 715899.5,
+        "Northing": 734961
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25910777558893, 53.35215014457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MARLBOROUGH STREET",
+        "Location": "An Bord Plean�la",
+        "Side of Road": "West",
+        "Easting": 715875.6,
+        "Northing": 735038
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25943840426613, 53.3528470523683]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MARROWBONE LANE",
+        "Location": "Saint Catherine's Community Sports Centre",
+        "Side of Road": "East",
+        "Easting": 714092.7,
+        "Northing": 733442.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28678092851666, 53.3388996033436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MARTIN'S ROW",
+        "Location": "Saint Laurence's Church",
+        "Side of Road": "North",
+        "Easting": 710188,
+        "Northing": 734581
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.34499053317489, 53.3499568443738]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MARYFIELD AVENUE",
+        "Location": "Track Sports, 1 Maryfield Avenue",
+        "Side of Road": "West",
+        "Easting": 718963.9,
+        "Northing": 738836.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.21164468835076, 53.3862835612318]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MAYOR STREET LOWER",
+        "Location": "Spar, Mayor Street Lower",
+        "Side of Road": "North",
+        "Easting": 716883.5,
+        "Northing": 734676.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24444000731993, 53.3493781092111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MAYOR STREET LOWER",
+        "Location": "Opposite National College of Ireland",
+        "Side of Road": "North",
+        "Easting": 717031.3,
+        "Northing": 734664
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24222585418305, 53.3492331580523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MCAULEY AVENUE",
+        "Location": "Scoil Neas�in",
+        "Side of Road": "South",
+        "Easting": 720015,
+        "Northing": 738437
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.19600412809737, 53.382455626913]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MEATH STREET",
+        "Location": "Junction with The Coombe",
+        "Side of Road": "West",
+        "Easting": 714668.9,
+        "Northing": 733577.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27808388691492, 53.3399931790042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MEATH STREET",
+        "Location": "Vincent's Shop, 35 Meath Street",
+        "Side of Road": "West",
+        "Easting": 714651.7,
+        "Northing": 733651.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27831536911196, 53.3406589426244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MEATH STREET",
+        "Location": "Cut Price Jewellers, 25 Meath Street",
+        "Side of Road": "West",
+        "Easting": 714627.9,
+        "Northing": 733720.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27864758522304, 53.3412848138994]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MERRION ROAD",
+        "Location": "Spar, 6 Merrion Road",
+        "Side of Road": "North",
+        "Easting": 717847.9,
+        "Northing": 732444.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23079270321069, 53.3291158378698]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MERRION SQUARE EAST",
+        "Location": "Opposite 45 Merrion Square East",
+        "Side of Road": "West",
+        "Easting": 716726.5,
+        "Northing": 733492.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24723313096984, 53.3387799188654]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MERRION SQUARE SOUTH",
+        "Location": "69 Merrion Square South",
+        "Side of Road": "South",
+        "Easting": 716552.9,
+        "Northing": 733504.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24983427297818, 53.3389232680982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MERRION SQUARE SOUTH",
+        "Location": "70 Merrion Square South",
+        "Side of Road": "South",
+        "Easting": 716549.6,
+        "Northing": 733506.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24988313849306, 53.3389401636102]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MERRION SQUARE SOUTH",
+        "Location": "70 Merrion Square South",
+        "Side of Road": "South",
+        "Easting": 716546.4,
+        "Northing": 733508.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2499305032072, 53.338957037086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MERRION SQUARE SOUTH",
+        "Location": "71 Merrion Square South",
+        "Side of Road": "South",
+        "Easting": 716543.1,
+        "Northing": 733509.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24997936879933, 53.3389739325591]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MERRION SQUARE WEST",
+        "Location": "National Gallery of Ireland",
+        "Side of Road": "West",
+        "Easting": 716433.7,
+        "Northing": 733665.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25156421430316, 53.3403930276627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MERRION SQUARE WEST",
+        "Location": "National Gallery of Ireland",
+        "Side of Road": "West",
+        "Easting": 716435.4,
+        "Northing": 733668.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25153748628285, 53.3404222967879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MERRION SQUARE WEST",
+        "Location": "National Gallery of Ireland",
+        "Side of Road": "West",
+        "Easting": 716437.2,
+        "Northing": 733671.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2515092573322, 53.3404515439096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MERRION SQUARE WEST",
+        "Location": "National Gallery of Ireland",
+        "Side of Road": "West",
+        "Easting": 716438.9,
+        "Northing": 733675.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25148252923702, 53.3404808130216]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MERVILLE AVENUE",
+        "Location": "Saint Joseph's Secondary School",
+        "Side of Road": "East",
+        "Easting": 717532.5,
+        "Northing": 736309.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23409090245238, 53.3639012125338]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MERVILLE AVENUE",
+        "Location": "Saint Joseph's Secondary School",
+        "Side of Road": "East",
+        "Easting": 717530.5,
+        "Northing": 736303.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23412316559297, 53.3638477612178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MILLBOURNE AVENUE",
+        "Location": "Millmount Library",
+        "Side of Road": "South",
+        "Easting": 715856,
+        "Northing": 736958.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25902951387313, 53.370100925699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MILLBOURNE AVENUE",
+        "Location": "Millmount Library",
+        "Side of Road": "South",
+        "Easting": 715851,
+        "Northing": 736960.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25910380499434, 53.3701217832454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MILLTOWN ROAD",
+        "Location": "Church of Saints Columbanus and Gall",
+        "Side of Road": "West",
+        "Easting": 716747.9,
+        "Northing": 730451.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2480317140402, 53.311455957951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MILLTOWN ROAD",
+        "Location": "Milltown Parish Pastoral Centre",
+        "Side of Road": "West",
+        "Easting": 716759.5,
+        "Northing": 730512
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2478354691519, 53.3119968598253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MOLESWORTH STREET",
+        "Location": "Junction with Frederick Street South",
+        "Side of Road": "North",
+        "Easting": 716050.7,
+        "Northing": 733747.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25728242054289, 53.3412182145187]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MOLESWORTH STREET",
+        "Location": "29 Molesworth Street",
+        "Side of Road": "South",
+        "Easting": 716131.1,
+        "Northing": 733717.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2560866752038, 53.3409310978651]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MOLESWORTH STREET",
+        "Location": "30 Molesworth Street",
+        "Side of Road": "South",
+        "Easting": 716123.9,
+        "Northing": 733719.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25619397122619, 53.3409515412906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MONTAGUE STREET",
+        "Location": "Opposite Gerry's Coffee Shop, 6 Montaque Street",
+        "Side of Road": "South",
+        "Easting": 715571.2,
+        "Northing": 733206.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26467672155302, 53.3364634253626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MOREHAMPTON ROAD",
+        "Location": "Pure Pharmacy, 79 Morehampton Road",
+        "Side of Road": "West",
+        "Easting": 717219.1,
+        "Northing": 731917.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24042247982965, 53.3245242053832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MORNING STAR AVENUE",
+        "Location": "The Richmond Education and Event Centre",
+        "Side of Road": "West",
+        "Easting": 714786.6,
+        "Northing": 734812.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27586985922642, 53.3510579037753]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MORNING STAR AVENUE",
+        "Location": "The Richmond Education and Event Centre",
+        "Side of Road": "West",
+        "Easting": 714786.3,
+        "Northing": 734817.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27587240524588, 53.3511064762317]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MORNING STAR AVENUE",
+        "Location": "The Richmond Education and Event Centre",
+        "Side of Road": "West",
+        "Easting": 714786.2,
+        "Northing": 734823.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27587194869245, 53.3511550053003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MOUNT EDEN ROAD",
+        "Location": "1 Mount Eden Road",
+        "Side of Road": "North",
+        "Easting": 717265.2,
+        "Northing": 731790.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23977786725154, 53.3233713990255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MOUNT STREET CRESCENT",
+        "Location": "Saint Stephen's Church",
+        "Side of Road": "South",
+        "Easting": 716962.4,
+        "Northing": 733294.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.243765950082, 53.3369447805976]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MOUNT STREET LOWER",
+        "Location": "Dublin Passport Office, 42-47 Mount Street Lower",
+        "Side of Road": "South",
+        "Easting": 717069.4,
+        "Northing": 733424.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24211188057981, 53.3380942712366]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MOUNT STREET UPPER",
+        "Location": "37 Upper Mount Street",
+        "Side of Road": "South",
+        "Easting": 716883.3,
+        "Northing": 733318
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24494431275441, 53.3371751411739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MOUNT STREET UPPER",
+        "Location": "48 Upper Mount Street",
+        "Side of Road": "South",
+        "Easting": 716813.2,
+        "Northing": 733357.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2459818299715, 53.3375445331568]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MOUNTJOY SQUARE EAST",
+        "Location": "29 Mountjoy Square",
+        "Side of Road": "East",
+        "Easting": 716079.7,
+        "Northing": 735481.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25621161278206, 53.3567843657845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "MOYNE ROAD",
+        "Location": "Junction with Dunville Avenue",
+        "Side of Road": "West",
+        "Easting": 716200.9,
+        "Northing": 731504
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25585055487232, 53.3210305977769]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NELSON STREET",
+        "Location": "Opposite Centre for Nurse Education",
+        "Side of Road": "West",
+        "Easting": 715333.8,
+        "Northing": 735609.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26736456476492, 53.3580955118715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NERNEY'S COURT",
+        "Location": "Junction with Temple Street",
+        "Side of Road": "North",
+        "Easting": 715725.1,
+        "Northing": 735435.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26155266090786, 53.3564488480678]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NERNEY'S COURT",
+        "Location": "Junction with Temple Street",
+        "Side of Road": "North",
+        "Easting": 715729.2,
+        "Northing": 735439.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26148971141163, 53.3564820856934]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NEW BRIDE STREET",
+        "Location": "Junction with Long Lane",
+        "Side of Road": "West",
+        "Easting": 715283.6,
+        "Northing": 733188.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26899940252076, 53.3363662371354]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NEW BRIDE STREET",
+        "Location": "Junction with Long Lane",
+        "Side of Road": "West",
+        "Easting": 715282.9,
+        "Northing": 733194.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26900787052735, 53.3364166934546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NEWMARKET",
+        "Location": "Creedon Group Ltd, 12 Newmarket",
+        "Side of Road": "South",
+        "Easting": 714768.9,
+        "Northing": 733348.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27666616075323, 53.337909040004]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NEWMARKET",
+        "Location": "Creedon Group Ltd, 12 Newmarket",
+        "Side of Road": "South",
+        "Easting": 714765.8,
+        "Northing": 733348.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2767126863025, 53.3379097120763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NOEL PURCELL WALK",
+        "Location": "Beaux Lane House",
+        "Side of Road": "South",
+        "Easting": 715606.9,
+        "Northing": 733635.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26398452639891, 53.3403065615765]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NORTH GREAT GEORGE'S STREET",
+        "Location": "HSE, 44 North Great George's Street",
+        "Side of Road": "East",
+        "Easting": 715758,
+        "Northing": 735260
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26112279216877, 53.3548669704439]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NORTH GREAT GEORGE'S STREET",
+        "Location": "HSE, 44 North Great George's Street",
+        "Side of Road": "East",
+        "Easting": 715767.9,
+        "Northing": 735247.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26097868806063, 53.3547534178436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NORTH GREAT GEORGE'S STREET",
+        "Location": "27 North Great George's Street",
+        "Side of Road": "West",
+        "Easting": 715851.8,
+        "Northing": 735134.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25976051526679, 53.3537164064886]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NORTH GREAT GEORGE'S STREET",
+        "Location": "27 North Great George's Street",
+        "Side of Road": "West",
+        "Easting": 715848.1,
+        "Northing": 735138.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25981456531692, 53.3537540460131]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NORTH WALL AVENUE",
+        "Location": "South of junction with Mayor Street Upper",
+        "Side of Road": "East",
+        "Easting": 717859.5,
+        "Northing": 734542.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.22983829124848, 53.3479570548554]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NORTH WALL AVENUE",
+        "Location": "South of junction with Mayor Street Upper",
+        "Side of Road": "East",
+        "Easting": 717859,
+        "Northing": 734535.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.22984829065483, 53.3478969825815]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NORTH WALL QUAY",
+        "Location": "Waterfront",
+        "Side of Road": "North",
+        "Easting": 717718.1,
+        "Northing": 734440.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23199878504462, 53.3470731970728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NORTH WALL QUAY",
+        "Location": "Waterfront",
+        "Side of Road": "North",
+        "Easting": 717786.2,
+        "Northing": 734433.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23097917023701, 53.3469942675184]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NORTHBROOK AVENUE",
+        "Location": "13 Northbrook Avenue",
+        "Side of Road": "North",
+        "Easting": 716202.5,
+        "Northing": 732254.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25555156763396, 53.3277709337422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NORTHBROOK ROAD",
+        "Location": "Junction with Ranelagh Road",
+        "Side of Road": "North",
+        "Easting": 716020.3,
+        "Northing": 732313.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25826372910869, 53.3283426637781]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NORTHUMBERLAND SQUARE",
+        "Location": "Junction with Abbey Street Lower",
+        "Side of Road": "East",
+        "Easting": 716111.5,
+        "Northing": 734633.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25604496177508, 53.349165405169]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NUTLEY LANE",
+        "Location": "Merrion Shopping Centre",
+        "Side of Road": "North",
+        "Easting": 719036.7,
+        "Northing": 731288.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.21338896561406, 53.3184687679891]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NUTLEY LANE",
+        "Location": "Merrion Shopping Centre",
+        "Side of Road": "North",
+        "Easting": 719042.8,
+        "Northing": 731291
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.21329667198096, 53.3184862607208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NUTLEY LANE",
+        "Location": "Merrion Shopping Centre",
+        "Side of Road": "North",
+        "Easting": 719055.5,
+        "Northing": 731295.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.21310439637205, 53.3185256248964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "NUTLEY LANE",
+        "Location": "Merrion Shopping Centre",
+        "Side of Road": "North",
+        "Easting": 719061.5,
+        "Northing": 731298
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.21301352753154, 53.3185449363996]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ORMOND QUAY UPPER",
+        "Location": "Raymond Quinn Solicitor, 23 Ormond Quay Upper",
+        "Side of Road": "North",
+        "Easting": 715165.6,
+        "Northing": 734234.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27039011219207, 53.3457861710461]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ORMOND QUAY UPPER",
+        "Location": "Word Perfect Translations, 22 Ormond Quay Upper",
+        "Side of Road": "North",
+        "Easting": 715170.1,
+        "Northing": 734235.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27032216285859, 53.3457950728862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ORMOND QUAY UPPER",
+        "Location": "Inn on the Liffey, 21 Ormond Quay Upper",
+        "Side of Road": "North",
+        "Easting": 715176,
+        "Northing": 734237.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27023308904613, 53.3458063648536]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ORMOND ROAD",
+        "Location": "31 Ormond Road",
+        "Side of Road": "South",
+        "Easting": 716370,
+        "Northing": 736956
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25131040753459, 53.3699673939794]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ORMOND ROAD",
+        "Location": "31 Ormond Road",
+        "Side of Road": "South",
+        "Easting": 716365.2,
+        "Northing": 736956.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2513822058309, 53.3699756365019]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PALMERSTON PARK",
+        "Location": "12 Palmerston Park",
+        "Side of Road": "North",
+        "Easting": 716050.6,
+        "Northing": 730654.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25841603036005, 53.3134353414949]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PARK DRIVE",
+        "Location": "43 Park Drive",
+        "Side of Road": "West",
+        "Easting": 716502.2,
+        "Northing": 731139.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25146421612264, 53.3176919893907]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PARKGATE STREET",
+        "Location": "The Criminal Courts of Justice",
+        "Side of Road": "North",
+        "Easting": 713455.9,
+        "Northing": 734469.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29597061463534, 53.3482619644564]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PARKGATE STREET",
+        "Location": "The Criminal Courts of Justice",
+        "Side of Road": "North",
+        "Easting": 713462.6,
+        "Northing": 734468.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29587014154491, 53.3482578330433]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PARKGATE STREET",
+        "Location": "Opposite Tipperary House, 7 Parkgate Street",
+        "Side of Road": "South",
+        "Easting": 713826.8,
+        "Northing": 734436
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29041460079431, 53.3478840803104]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PARNELL SQUARE NORTH",
+        "Location": "The Hugh Lane Gallery",
+        "Side of Road": "North",
+        "Easting": 715515.5,
+        "Northing": 735149.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26480407316379, 53.3539264780724]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PARNELL SQUARE NORTH",
+        "Location": "The Hugh Lane Gallery",
+        "Side of Road": "North",
+        "Easting": 715518.8,
+        "Northing": 735151.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26475372484975, 53.3539455196883]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PARNELL SQUARE NORTH",
+        "Location": "The Hugh Lane Gallery",
+        "Side of Road": "North",
+        "Easting": 715530,
+        "Northing": 735160.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26458221276758, 53.3540257157852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PARNELL SQUARE NORTH",
+        "Location": "Garden of Remembrance",
+        "Side of Road": "South",
+        "Easting": 715570.4,
+        "Northing": 735172.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26397127390224, 53.3541246857231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PARNELL SQUARE NORTH",
+        "Location": "Garden of Remembrance",
+        "Side of Road": "South",
+        "Easting": 715564.3,
+        "Northing": 735168.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26406435515719, 53.3540891887611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PARNELL SQUARE WEST",
+        "Location": "Rotunda Hospital",
+        "Side of Road": "East",
+        "Easting": 715564.5,
+        "Northing": 735014.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2641175002109, 53.3527075922919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PARNELL SQUARE WEST",
+        "Location": "Rotunda Hospital",
+        "Side of Road": "East",
+        "Easting": 715567.6,
+        "Northing": 735011.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26407223658551, 53.3526754754194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PARNELL SQUARE WEST",
+        "Location": "Rotunda Hospital",
+        "Side of Road": "East",
+        "Easting": 715570.8,
+        "Northing": 735008.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26402539868164, 53.3526451332448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PARNELL SQUARE WEST",
+        "Location": "Rotunda Hospital",
+        "Side of Road": "East",
+        "Easting": 715607.6,
+        "Northing": 734967.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26348777181571, 53.3522714942798]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PARNELL SQUARE WEST",
+        "Location": "Rotunda Hospital",
+        "Side of Road": "East",
+        "Easting": 715610.5,
+        "Northing": 734964.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26344543871983, 53.3522412174317]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PARNELL SQUARE WEST",
+        "Location": "Rotunda Hospital",
+        "Side of Road": "East",
+        "Easting": 715613.3,
+        "Northing": 734961.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26340449744018, 53.3522136572558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PARNELL STREET",
+        "Location": "Egali Hostel, 146 Parnell Street",
+        "Side of Road": "North",
+        "Easting": 715859.2,
+        "Northing": 735104.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2596603211444, 53.3534470996092]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PARNELL STREET",
+        "Location": "Brazuca's Market, 145 Parnell Street",
+        "Side of Road": "North",
+        "Easting": 715865.8,
+        "Northing": 735109.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25955936490663, 53.3534914663896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PARNELL STREET",
+        "Location": "Nimra Asian Foods, 90 Parnell Street",
+        "Side of Road": "South",
+        "Easting": 715833,
+        "Northing": 735068.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26006684956449, 53.3531294566297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PEARSE STREET",
+        "Location": "Apache Pizza, 108 Pearse Street",
+        "Side of Road": "North",
+        "Easting": 716989,
+        "Northing": 733974.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24311541945577, 53.3430525344407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PEARSE STREET",
+        "Location": "Opposite Trinity Technology and Enterprise Campus",
+        "Side of Road": "North",
+        "Easting": 717170.6,
+        "Northing": 733940.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24040222358719, 53.3427069519835]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PEMBROKE ROAD",
+        "Location": "46 Pembroke Road",
+        "Side of Road": "North",
+        "Easting": 717213,
+        "Northing": 732818
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24018120784621, 53.3326108943384]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PEMBROKE ROAD",
+        "Location": "48 Pembroke Road",
+        "Side of Road": "North",
+        "Easting": 717218.5,
+        "Northing": 732817.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2400988592664, 53.3326051854012]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PHILIPSBURGH AVENUE",
+        "Location": "The Edge, 203 Philipsburgh Avenue",
+        "Side of Road": "West",
+        "Easting": 717214.3,
+        "Northing": 737081.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23858323553941, 53.3709064322289]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "POPPINTREE PARADE",
+        "Location": "Poppintree Pharmacy",
+        "Side of Road": "South",
+        "Easting": 714615.3,
+        "Northing": 740224.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27647941002599, 53.3997109464861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "PORTLAND STREET NORTH",
+        "Location": "Pure Pharmacy",
+        "Side of Road": "East",
+        "Easting": 716066.4,
+        "Northing": 735767.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25630619557736, 53.3593617384139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "RAHENY ROAD",
+        "Location": "87 Raheny Road",
+        "Side of Road": "West",
+        "Easting": 721354.5,
+        "Northing": 738680.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.17578715527661, 53.3843369586941]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "RANELAGH",
+        "Location": "Burke's Pharmacy, 21-23 Ranelagh",
+        "Side of Road": "West",
+        "Easting": 716220.4,
+        "Northing": 732018.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25536934756963, 53.3256506611759]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "RANELAGH",
+        "Location": "Ranelagh Luas Stop",
+        "Side of Road": "West",
+        "Easting": 716186.1,
+        "Northing": 732069.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25586547227776, 53.3261118179235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "RANELAGH AVENUE",
+        "Location": "Opposite AIB Bank",
+        "Side of Road": "South",
+        "Easting": 716264.6,
+        "Northing": 732010.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25470937114983, 53.3255628096627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "RATHDOWN AVENUE",
+        "Location": "Bushy Park entrance opposite Rathdown Crescent",
+        "Side of Road": "South",
+        "Easting": 714150.6,
+        "Northing": 729650.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28727672877714, 53.3048247030752]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "RATHDOWN AVENUE",
+        "Location": "Bushy Park entrance at Tennis Courts",
+        "Side of Road": "South",
+        "Easting": 713983.2,
+        "Northing": 729458.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28985604165203, 53.3031377939991]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "RATHDOWN AVENUE",
+        "Location": "Bushy Park entrance opposite Rathdown Drive",
+        "Side of Road": "South",
+        "Easting": 713733,
+        "Northing": 729513.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29358845440418, 53.3036838079827]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "RATHFARNHAM ROAD",
+        "Location": "Bank of Ireland, 1 Rathfarnham Road",
+        "Side of Road": "West",
+        "Easting": 714371.6,
+        "Northing": 730176
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28377304558585, 53.3094993968794]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "RATHGAR ROAD",
+        "Location": "Benezet Antiques, 101A Rathgar Road",
+        "Side of Road": "West",
+        "Easting": 715015.5,
+        "Northing": 730514
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27399316368814, 53.3123962545452]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "RATHMINES ROAD UPPER",
+        "Location": "Rathmines Post Office, 4-6 Rathmines Road Upper",
+        "Side of Road": "East",
+        "Easting": 715538.5,
+        "Northing": 731544.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26577330731579, 53.3215384022172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "RATHMINES ROAD UPPER",
+        "Location": "Uppercross House Hotel, 36 Rathmines Road Upper",
+        "Side of Road": "East",
+        "Easting": 715573,
+        "Northing": 731445.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26529161694421, 53.3206460658125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "RATHMINES ROAD UPPER",
+        "Location": "Uppercross House Hotel, 36 Rathmines Road Upper",
+        "Side of Road": "East",
+        "Easting": 715574.9,
+        "Northing": 731441.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26526482559243, 53.3206034318993]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "RAYMOND STREET",
+        "Location": "Opposite 1 Raymond Street",
+        "Side of Road": "East",
+        "Easting": 714766.4,
+        "Northing": 732715.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27693274288664, 53.3322279129347]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "RICHMOND AVENUE SOUTH",
+        "Location": "Brookfield Court",
+        "Side of Road": "West",
+        "Easting": 716434.1,
+        "Northing": 730579.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25269128872554, 53.312676598178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "RICHMOND ROW",
+        "Location": "Atlas Language School, Portobello House",
+        "Side of Road": "East",
+        "Easting": 715567,
+        "Northing": 732542
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26498213234603, 53.330493460602]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "RICHMOND ROW",
+        "Location": "Atlas Language School, Portobello House",
+        "Side of Road": "East",
+        "Easting": 715567.6,
+        "Northing": 732537
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26497495191887, 53.330448415518]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "RICHMOND STREET NORTH",
+        "Location": "8 Richmond Street North",
+        "Side of Road": "East",
+        "Easting": 716476.3,
+        "Northing": 735709.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25017291709116, 53.358744353726]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ROPE WALK PLACE",
+        "Location": "Junction with Fitzwilliam Street",
+        "Side of Road": "North",
+        "Easting": 718054.7,
+        "Northing": 733931.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.22713571015272, 53.3424278568762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "ROYAL CANAL BANK",
+        "Location": "Phibsboro Library",
+        "Side of Road": "South",
+        "Easting": 715078.3,
+        "Northing": 735954.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27107535754484, 53.3612538192584]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "RUTLAND STREET LOWER",
+        "Location": "Rutland Street School",
+        "Side of Road": "West",
+        "Easting": 716354.3,
+        "Northing": 735271.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25216563361292, 53.354841260594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SAINT AGNES PARK",
+        "Location": "City Girl, 58 Saint Agnes Park",
+        "Side of Road": "North",
+        "Easting": 712414.6,
+        "Northing": 731239.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.31274820856407, 53.3194752566218]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SAINT ANTHONY'S ROAD",
+        "Location": "Enable Ireland, 41 Saint Anthony's Road",
+        "Side of Road": "East",
+        "Easting": 713615.5,
+        "Northing": 733287.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29399859710648, 53.3376116790099]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SAINT ANTHONY'S ROAD",
+        "Location": "Enable Ireland, 41 Saint Anthony's Road",
+        "Side of Road": "East",
+        "Easting": 713612.3,
+        "Northing": 733278.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29404970724216, 53.3375351123867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SAINT BRIGID'S ROAD",
+        "Location": "Evelyn Bradley Pharmacy, 48 Saint Brigid's Road",
+        "Side of Road": "West",
+        "Easting": 719408.2,
+        "Northing": 738357.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.20515035103062, 53.3818780639147]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SAINT BRIGID'S ROAD",
+        "Location": "AIB Bank, 62 Saint Brigid's Road",
+        "Side of Road": "West",
+        "Easting": 719403.1,
+        "Northing": 738421
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.20520293811709, 53.3824505005249]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SAINT CANICE'S ROAD",
+        "Location": "Sacred Heart Boys School",
+        "Side of Road": "North",
+        "Easting": 714795,
+        "Northing": 738461.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27441947454466, 53.3838316922891]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SAINT CANICE'S ROAD",
+        "Location": "Sacred Heart Boys School",
+        "Side of Road": "North",
+        "Easting": 714813.3,
+        "Northing": 738467.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27414209414066, 53.3838879017053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SAINT CANICE'S ROAD",
+        "Location": "Sacred Heart Boys School",
+        "Side of Road": "North",
+        "Easting": 714817.5,
+        "Northing": 738469.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27407844666398, 53.3839004634399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SAINT DAVID'S TERRACE",
+        "Location": "Met Eireann",
+        "Side of Road": "West",
+        "Easting": 715160.3,
+        "Northing": 737584.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26925049189664, 53.3758779214323]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SAINT JAMES'S TERRACE",
+        "Location": "Our Lady of Dolours Church",
+        "Side of Road": "East",
+        "Easting": 713809.2,
+        "Northing": 732787.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29127106735182, 53.3330786001933]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SAINT JAMES'S TERRACE",
+        "Location": "Our Lady of Dolours Church",
+        "Side of Road": "East",
+        "Easting": 713806.6,
+        "Northing": 732783
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29131166462811, 53.3330396340903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SAINT JOHN'S ROAD",
+        "Location": "Saint John's Church",
+        "Side of Road": "South",
+        "Easting": 719126.7,
+        "Northing": 731950.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.21179031075678, 53.324393211567]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SAINT PETER'S ROAD",
+        "Location": "Opposite 5 Saint Peter's Road",
+        "Side of Road": "East",
+        "Easting": 714689.9,
+        "Northing": 735926.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2769179633095, 53.3610848644826]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SAINT STEPHEN'S GREEN NORTH",
+        "Location": "15 Saint Stephen's Green",
+        "Side of Road": "North",
+        "Easting": 715979.7,
+        "Northing": 733548.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2584211504535, 53.3394408133435]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SAINT STEPHEN'S GREEN NORTH",
+        "Location": "Cliff Townhouse, 22 Saint Stephen's Green",
+        "Side of Road": "North",
+        "Easting": 716058,
+        "Northing": 733515.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25725791699358, 53.3391308135609]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SAINT STEPHEN'S GREEN NORTH",
+        "Location": "23 Saint Stephen's Green",
+        "Side of Road": "North",
+        "Easting": 716063.6,
+        "Northing": 733513.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25717474850602, 53.3391080270969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SAINT STEPHEN'S GREEN WEST",
+        "Location": "Royal College of Surgeons",
+        "Side of Road": "West",
+        "Easting": 715749.5,
+        "Northing": 733443.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26191428486788, 53.3385533957681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SAINT STEPHEN'S GREEN WEST",
+        "Location": "Royal College of Surgeons",
+        "Side of Road": "West",
+        "Easting": 715751.1,
+        "Northing": 733448.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26188851789522, 53.3385961633533]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SAINT STEPHEN'S GREEN WEST",
+        "Location": "Stephen's Green Shopping Centre",
+        "Side of Road": "West",
+        "Easting": 715794.7,
+        "Northing": 733546.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26119848218353, 53.3394633488367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SAINT STEPHEN'S GREEN WEST",
+        "Location": "Stephen's Green Shopping Centre",
+        "Side of Road": "West",
+        "Easting": 715796.6,
+        "Northing": 733550.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26116821132498, 53.3395060506246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SAINT STEPHEN'S GREEN WEST",
+        "Location": "Stephen's Green Shopping Centre",
+        "Side of Road": "West",
+        "Easting": 715803.4,
+        "Northing": 733567.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26105993842292, 53.3396572705592]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SANDYMOUNT GREEN",
+        "Location": "17 Sandymount Green",
+        "Side of Road": "West",
+        "Easting": 718835.5,
+        "Northing": 732735
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.21586520613848, 53.3315036773966]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SANDYMOUNT GREEN",
+        "Location": "Jaz Hair Co., 20B Sandymount Green",
+        "Side of Road": "West",
+        "Easting": 718835.7,
+        "Northing": 732775.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.21584694600328, 53.331869223852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SANDYMOUNT GREEN",
+        "Location": "Sandymount Pharmacy, 1A Sandymount Green",
+        "Side of Road": "East",
+        "Easting": 718871,
+        "Northing": 732820.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.21530029570738, 53.3322673130735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SANDYMOUNT GREEN",
+        "Location": "Sandymount Pharmacy, 1A Sandymount Green",
+        "Side of Road": "East",
+        "Easting": 718875.2,
+        "Northing": 732818.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.21523820911183, 53.3322439136886]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SANDYMOUNT ROAD",
+        "Location": "Saint Mary's Church",
+        "Side of Road": "East",
+        "Easting": 718540.6,
+        "Northing": 733208.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.220113123408, 53.3358257382625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SANDYMOUNT ROAD",
+        "Location": "Saint Mary's Church",
+        "Side of Road": "East",
+        "Easting": 718542.9,
+        "Northing": 733204.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.22008029055333, 53.3357848015602]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SANDYMOUNT ROAD",
+        "Location": "Tesco, 80 Sandymount Road",
+        "Side of Road": "East",
+        "Easting": 718800.1,
+        "Northing": 732913.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.21632942141703, 53.333116809776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SEAFIELD ROAD WEST",
+        "Location": "Saint John the Baptist School",
+        "Side of Road": "South",
+        "Easting": 719811,
+        "Northing": 736380.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.19984811105323, 53.3640304112989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SEAFORT AVENUE",
+        "Location": "Seafort Terrace",
+        "Side of Road": "North",
+        "Easting": 718932,
+        "Northing": 732947.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.21433743830392, 53.3333908094849]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SEAMUS ENNIS ROAD",
+        "Location": "Supervalu Car Park Entrance",
+        "Side of Road": "North",
+        "Easting": 713113.1,
+        "Northing": 739129.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29944987637426, 53.3901994169151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SEAMUS ENNIS ROAD",
+        "Location": "Finglas Credit Union",
+        "Side of Road": "North",
+        "Easting": 713261,
+        "Northing": 739117.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29723164508556, 53.390061735961]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SEAN MACDERMOTT STREET LOWER",
+        "Location": "Sean MacDermott Street Swimming Pool",
+        "Side of Road": "North",
+        "Easting": 716355.4,
+        "Northing": 735164.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25218848704394, 53.3538789683317]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SERPENTINE AVENUE",
+        "Location": "Opposite 15 Serpentine Avenue",
+        "Side of Road": "West",
+        "Easting": 718167.9,
+        "Northing": 732399.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.22600795460549, 53.3286403081503]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SHANGAN GARDENS",
+        "Location": "88 Shangan Gardens",
+        "Side of Road": "West",
+        "Easting": 716018.6,
+        "Northing": 739512.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25564980390692, 53.3930053116291]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SHANTALLA ROAD",
+        "Location": "Haven Pharmacy, 2 Shantalla Road",
+        "Side of Road": "West",
+        "Easting": 717491.4,
+        "Northing": 738734.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23380685901222, 53.3856940779746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SHELBOURNE ROAD",
+        "Location": "IBM House",
+        "Side of Road": "East",
+        "Easting": 717778.7,
+        "Northing": 732764.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23171228576266, 53.3320020939317]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SHELBOURNE ROAD",
+        "Location": "Starbucks Coffee, The Oval",
+        "Side of Road": "East",
+        "Easting": 717775.9,
+        "Northing": 732680.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2317854768096, 53.3312490710904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SHELBOURNE ROAD",
+        "Location": "Ballsbridge College of Further Education",
+        "Side of Road": "East",
+        "Easting": 717776.2,
+        "Northing": 732528.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23183741330576, 53.3298845371599]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SHELBOURNE ROAD",
+        "Location": "Ballsbridge College of Further Education",
+        "Side of Road": "East",
+        "Easting": 717776.2,
+        "Northing": 732523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2318394195809, 53.3298360307485]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SILLOGE ROAD",
+        "Location": "Ballymun Post Office",
+        "Side of Road": "South",
+        "Easting": 715417.6,
+        "Northing": 739750.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26459420165318, 53.3952784314045]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SIR JOHN ROGERSON'S QUAY",
+        "Location": "56 Sir John Rogerson's Quay",
+        "Side of Road": "South",
+        "Easting": 717411.5,
+        "Northing": 734293.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23665580998609, 53.3458181629076]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SMITHFIELD",
+        "Location": "Maldron Hotel, Smithfield",
+        "Side of Road": "West",
+        "Easting": 714641.6,
+        "Northing": 734638.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27810954734599, 53.3495308138055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SMITHFIELD",
+        "Location": "Phoenix House",
+        "Side of Road": "East",
+        "Easting": 714632.9,
+        "Northing": 734359.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2783412660624, 53.3470237849811]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SOUTH CIRCULAR ROAD",
+        "Location": "684 South Circular Road",
+        "Side of Road": "North",
+        "Easting": 712840.9,
+        "Northing": 733450.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.30556593916817, 53.3392433839138]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SOUTH CIRCULAR ROAD",
+        "Location": "Rialto Parish Church",
+        "Side of Road": "North",
+        "Easting": 713458.9,
+        "Northing": 733076.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29642448200287, 53.3357489613423]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SOUTH CIRCULAR ROAD",
+        "Location": "Haven Pharmacy, 449 South Circular Road",
+        "Side of Road": "South",
+        "Easting": 713340.8,
+        "Northing": 733107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29818590483695, 53.3360500354783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SPERRIN ROAD",
+        "Location": "Saint John Bosco Youth Centre",
+        "Side of Road": "West",
+        "Easting": 712056.1,
+        "Northing": 732974
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.31751355965016, 53.3351287707793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "STANNAWAY DRIVE",
+        "Location": "Cashel Business Centre",
+        "Side of Road": "East",
+        "Easting": 713220.2,
+        "Northing": 731048.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.30073103643917, 53.317581642822]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "STANNAWAY DRIVE",
+        "Location": "Cashel Business Centre",
+        "Side of Road": "East",
+        "Easting": 713223.7,
+        "Northing": 731043.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.3006802093837, 53.3175386746293]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "STEPHEN STREET LOWER",
+        "Location": "Opposite The Grafton Hotel",
+        "Side of Road": "North",
+        "Easting": 715623.6,
+        "Northing": 733724.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26370124721084, 53.3411059767998]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "STEPHEN STREET LOWER",
+        "Location": "Opposite The Grafton Hotel",
+        "Side of Road": "North",
+        "Easting": 715627.8,
+        "Northing": 733722.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26363912081973, 53.3410826023244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "STEPHEN STREET LOWER",
+        "Location": "Mercer's Medical Centre",
+        "Side of Road": "South",
+        "Easting": 715635.4,
+        "Northing": 733701.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26353275249798, 53.340891404902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "STRAND STREET GREAT",
+        "Location": "Opposite Penny Lane Caf�, 2 Great Strand Street",
+        "Side of Road": "North",
+        "Easting": 715358.4,
+        "Northing": 734328.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2674619810979, 53.3465831753451]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "STRAND STREET GREAT",
+        "Location": "55 Strand Street Great",
+        "Side of Road": "North",
+        "Easting": 715515.7,
+        "Northing": 734371.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2650848884021, 53.346938717027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "STRAND STREET GREAT",
+        "Location": "54 Strand Street Great",
+        "Side of Road": "North",
+        "Easting": 715526.7,
+        "Northing": 734374.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26491866945657, 53.3469632642132]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "STRAND STREET GREAT",
+        "Location": "53 Strand Street Great",
+        "Side of Road": "North",
+        "Easting": 715532.6,
+        "Northing": 734376.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26482951889845, 53.3469763486734]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "STRAND STREET LITTLE",
+        "Location": "31 Strand Street Little",
+        "Side of Road": "North",
+        "Easting": 715265,
+        "Northing": 734303.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.268872983156, 53.3463825492556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SUNDRIVE ROAD",
+        "Location": "Sundrive Credit Union, 116 Sundrive Road",
+        "Side of Road": "West",
+        "Easting": 713563.2,
+        "Northing": 731703.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29535104810649, 53.3233929805005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SUSSEX ROAD",
+        "Location": "3 Sussex Road",
+        "Side of Road": "West",
+        "Easting": 716478.4,
+        "Northing": 732602.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25128400155569, 53.3308354254128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SWAN'S NEST ROAD",
+        "Location": "Kilbarrack Shopping Centre",
+        "Side of Road": "South",
+        "Easting": 721919.9,
+        "Northing": 739216.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.16708595544107, 53.3890204226577]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SWAN'S NEST ROAD",
+        "Location": "Kilbarrack Shopping Centre",
+        "Side of Road": "South",
+        "Easting": 721914,
+        "Northing": 739217.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.16717402591173, 53.3890352573365]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SYBIL HILL ROAD",
+        "Location": "Saint Anne's Park Gates",
+        "Side of Road": "East",
+        "Easting": 720173.4,
+        "Northing": 737288.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.19406107181944, 53.3721033356246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "SYBIL HILL ROAD",
+        "Location": "Saint Anne's Park Gates",
+        "Side of Road": "East",
+        "Easting": 720173.2,
+        "Northing": 737282.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.19406639404398, 53.3720485883206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "TALBOT STREET",
+        "Location": "11 Talbot Street",
+        "Side of Road": "North",
+        "Easting": 716130.4,
+        "Northing": 734789.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25570427349328, 53.3505562793002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "TALBOT STREET",
+        "Location": "12 Talbot Street",
+        "Side of Road": "North",
+        "Easting": 716136.4,
+        "Northing": 734790.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25561357481213, 53.3505702331106]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "TALBOT STREET",
+        "Location": "13 Talbot Street",
+        "Side of Road": "North",
+        "Easting": 716142,
+        "Northing": 734792.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25552888108322, 53.3505842746495]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "TALBOT STREET",
+        "Location": "Indepndent House, 27 Talbot Street",
+        "Side of Road": "North",
+        "Easting": 716315.5,
+        "Northing": 734843.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25290558453937, 53.351001588801]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "TALBOT STREET",
+        "Location": "Indepndent House, 27 Talbot Street",
+        "Side of Road": "North",
+        "Easting": 716319.3,
+        "Northing": 734844.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25284813232594, 53.3510106344619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "TEMPLE ROAD",
+        "Location": "Saint Philip's Church",
+        "Side of Road": "South",
+        "Easting": 716112,
+        "Northing": 730403.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25758686493531, 53.3111681004104]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "TEMPLE STREET",
+        "Location": "Temple Street Children's Hospital",
+        "Side of Road": "North",
+        "Easting": 715679.3,
+        "Northing": 735470.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26222753873484, 53.3567732620805]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "TEMPLE STREET",
+        "Location": "Temple Street Children's Hospital",
+        "Side of Road": "North",
+        "Easting": 715682.5,
+        "Northing": 735466.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26218077083268, 53.3567411226213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "TEMPLE STREET",
+        "Location": "Temple Street Children's Hospital",
+        "Side of Road": "North",
+        "Easting": 715685.8,
+        "Northing": 735463.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26213250152778, 53.356708961276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "TERENURE PARK",
+        "Location": "40 Terenure Park",
+        "Side of Road": "East",
+        "Easting": 714206.2,
+        "Northing": 730276.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28621771584541, 53.3104351614644]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "TERENURE ROAD EAST",
+        "Location": "O'Connell's Pharmacy, 3 Terenure Road East",
+        "Side of Road": "South",
+        "Easting": 714956,
+        "Northing": 730448
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27490952935691, 53.3118162950975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "THE RISE",
+        "Location": "The Rise Pharmacy, 1 The Rise",
+        "Side of Road": "East",
+        "Easting": 715617.3,
+        "Northing": 737934.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26225762147111, 53.3789230301002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "THORNCASTLE STREET",
+        "Location": "Corcoran Solicitors, 12 Thorncastle Street",
+        "Side of Road": "East",
+        "Easting": 718020,
+        "Northing": 733900.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.22766823650627, 53.342153540742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "TOWNSEND STREET",
+        "Location": "Georges Court, 54-62 Townsend Street",
+        "Side of Road": "North",
+        "Easting": 716459.9,
+        "Northing": 734260
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25095229014126, 53.3457301985305]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "TOWNSEND STREET",
+        "Location": "88 Townsend Street",
+        "Side of Road": "North",
+        "Easting": 716721,
+        "Northing": 734209.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24705166669413, 53.3452172536438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "VERSCHOYLE PLACE",
+        "Location": "Junction with Stephen's Place",
+        "Side of Road": "North",
+        "Easting": 716840.7,
+        "Northing": 733478.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24552434578881, 53.3386289668446]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "WATERLOO ROAD",
+        "Location": "37 Waterloo Road",
+        "Side of Road": "West",
+        "Easting": 716934.2,
+        "Northing": 732601.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24444474743694, 53.3307286780181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "WATERLOO ROAD",
+        "Location": "35 Waterloo Road",
+        "Side of Road": "West",
+        "Easting": 716935.4,
+        "Northing": 732606.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24442497015812, 53.3307715301131]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "WATERMILL ROAD",
+        "Location": "Saint Anne's Park",
+        "Side of Road": "South",
+        "Easting": 721724,
+        "Northing": 737865.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.17054963909987, 53.3769350109751]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "WATERMILL ROAD",
+        "Location": "Saint Anne's Park",
+        "Side of Road": "South",
+        "Easting": 721717.6,
+        "Northing": 737870.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.17064411841312, 53.3769751084789]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "WATERMILL ROAD",
+        "Location": "6 Watermill Road",
+        "Side of Road": "South",
+        "Easting": 721407.7,
+        "Northing": 738058
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.17522703862963, 53.3787332512247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "WESTERN WAY",
+        "Location": "Romanian Orthodox Church",
+        "Side of Road": "South",
+        "Easting": 715186.7,
+        "Northing": 735261.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26969985550523, 53.3550042403122]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "WESTERN WAY",
+        "Location": "Romanian Orthodox Church",
+        "Side of Road": "South",
+        "Easting": 715180.1,
+        "Northing": 735263.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26979822138683, 53.3550236428764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "WILLIAMS PARK",
+        "Location": "1 Williams Park",
+        "Side of Road": "West",
+        "Easting": 715430.1,
+        "Northing": 731905.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26726813377886, 53.3248057426497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "WILLIAMS PARK",
+        "Location": "Swan Leisure",
+        "Side of Road": "North",
+        "Easting": 715545.3,
+        "Northing": 731944.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26552536700037, 53.3251345465958]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "WILLIAMS PARK",
+        "Location": "Swan Leisure",
+        "Side of Road": "North",
+        "Easting": 715550.5,
+        "Northing": 731944.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26544760300443, 53.325127124122]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "WINTON ROAD",
+        "Location": "Opposite 12 Winton Road",
+        "Side of Road": "East",
+        "Easting": 716600.5,
+        "Northing": 732206.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24959732866497, 53.3272549747056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Name": "WOLFE TONE STREET",
+        "Location": "Wolfe Tone Park",
+        "Side of Road": "East",
+        "Easting": 715370,
+        "Northing": 734520.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26721771820026, 53.3483098379283]
+      }
+    }
+  ]
+}

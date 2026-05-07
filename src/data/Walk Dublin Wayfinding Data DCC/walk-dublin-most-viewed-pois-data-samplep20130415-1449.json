@@ -1,0 +1,450 @@
+[
+    {
+        "Event_Label": "Dublin Castle",
+        "Total_Events": "38"
+    },
+    {
+        "Event_Label": "The Leprechaun Museum",
+        "Total_Events": "31"
+    },
+    {
+        "Event_Label": "Patrick's Fest: Funfair",
+        "Total_Events": "29"
+    },
+    {
+        "Event_Label": "Temple Bar",
+        "Total_Events": "29"
+    },
+    {
+        "Event_Label": "Trinity College",
+        "Total_Events": "29"
+    },
+    {
+        "Event_Label": "The Little Museum of Dublin",
+        "Total_Events": "28"
+    },
+    {
+        "Event_Label": "Croke Park",
+        "Total_Events": "27"
+    },
+    {
+        "Event_Label": "The Ark",
+        "Total_Events": "27"
+    },
+    {
+        "Event_Label": "Dublin Docklands",
+        "Total_Events": "26"
+    },
+    {
+        "Event_Label": "St. Stephen's Green",
+        "Total_Events": "26"
+    },
+    {
+        "Event_Label": "Dublin Zoo",
+        "Total_Events": "25"
+    },
+    {
+        "Event_Label": "National Wax Museum Plus",
+        "Total_Events": "25"
+    },
+    {
+        "Event_Label": "Cow's Lane",
+        "Total_Events": "24"
+    },
+    {
+        "Event_Label": "Grafton Street",
+        "Total_Events": "23"
+    },
+    {
+        "Event_Label": "Kilmainham Gaol",
+        "Total_Events": "23"
+    },
+    {
+        "Event_Label": "Mansion House",
+        "Total_Events": "22"
+    },
+    {
+        "Event_Label": "National Museum - Natural History",
+        "Total_Events": "22"
+    },
+    {
+        "Event_Label": "Guinness Storehouse",
+        "Total_Events": "21"
+    },
+    {
+        "Event_Label": "No. 29 Georgian House Museum",
+        "Total_Events": "21"
+    },
+    {
+        "Event_Label": "O'Connell Street",
+        "Total_Events": "21"
+    },
+    {
+        "Event_Label": "Henry Street",
+        "Total_Events": "20"
+    },
+    {
+        "Event_Label": "National Gallery of Ireland",
+        "Total_Events": "20"
+    },
+    {
+        "Event_Label": "National Museum - Archaeology",
+        "Total_Events": "20"
+    },
+    {
+        "Event_Label": "Old Jameson Distillery",
+        "Total_Events": "20"
+    },
+    {
+        "Event_Label": "River Liffey",
+        "Total_Events": "20"
+    },
+    {
+        "Event_Label": "Science Gallery",
+        "Total_Events": "20"
+    },
+    {
+        "Event_Label": "Smithfield",
+        "Total_Events": "20"
+    },
+    {
+        "Event_Label": "Dublinia",
+        "Total_Events": "19"
+    },
+    {
+        "Event_Label": "IFSC",
+        "Total_Events": "19"
+    },
+    {
+        "Event_Label": "Liffey Ha'penny Bridge",
+        "Total_Events": "19"
+    },
+    {
+        "Event_Label": "National Print Museum",
+        "Total_Events": "19"
+    },
+    {
+        "Event_Label": "Newmarket",
+        "Total_Events": "19"
+    },
+    {
+        "Event_Label": "The Four Courts",
+        "Total_Events": "19"
+    },
+    {
+        "Event_Label": "War Memorial Gardens",
+        "Total_Events": "19"
+    },
+    {
+        "Event_Label": "Busaras",
+        "Total_Events": "18"
+    },
+    {
+        "Event_Label": "Mountjoy Square",
+        "Total_Events": "18"
+    },
+    {
+        "Event_Label": "St. Patrick's Cathedral",
+        "Total_Events": "18"
+    },
+    {
+        "Event_Label": "Temple Bar Gallery",
+        "Total_Events": "18"
+    },
+    {
+        "Event_Label": "Custom House",
+        "Total_Events": "17"
+    },
+    {
+        "Event_Label": "King's Inns",
+        "Total_Events": "17"
+    },
+    {
+        "Event_Label": "Patrick’s Fest: Festival Céilí",
+        "Total_Events": "17"
+    },
+    {
+        "Event_Label": "Patrick’s Fest: Parade",
+        "Total_Events": "17"
+    },
+    {
+        "Event_Label": "Patrick’s Fest: The Secret of Kells",
+        "Total_Events": "17"
+    },
+    {
+        "Event_Label": "Phoenix Park",
+        "Total_Events": "17"
+    },
+    {
+        "Event_Label": "Writers Museum",
+        "Total_Events": "17"
+    },
+    {
+        "Event_Label": "Leinster House",
+        "Total_Events": "16"
+    },
+    {
+        "Event_Label": "Patrick’s Fest: Performance, South King St",
+        "Total_Events": "16"
+    },
+    {
+        "Event_Label": "Royal Irish Academy",
+        "Total_Events": "16"
+    },
+    {
+        "Event_Label": "St. Mary's Pro-Cathedral",
+        "Total_Events": "16"
+    },
+    {
+        "Event_Label": "Light House Cinema",
+        "Total_Events": "15"
+    },
+    {
+        "Event_Label": "Powerscourt Town House Centre",
+        "Total_Events": "15"
+    },
+    {
+        "Event_Label": "Abbey Theatre",
+        "Total_Events": "14"
+    },
+    {
+        "Event_Label": "Heuston Station",
+        "Total_Events": "14"
+    },
+    {
+        "Event_Label": "Irish Film Institute",
+        "Total_Events": "14"
+    },
+    {
+        "Event_Label": "National Library of Ireland",
+        "Total_Events": "14"
+    },
+    {
+        "Event_Label": "Patrick’s Fest: Irish University Boat Races",
+        "Total_Events": "14"
+    },
+    {
+        "Event_Label": "Samuel Beckett Theatre",
+        "Total_Events": "14"
+    },
+    {
+        "Event_Label": "Smock Alley Theatre",
+        "Total_Events": "14"
+    },
+    {
+        "Event_Label": "St. Michan's Church & Crypts",
+        "Total_Events": "14"
+    },
+    {
+        "Event_Label": "Temple Street Children's Hospital",
+        "Total_Events": "14"
+    },
+    {
+        "Event_Label": "Aviva Stadium",
+        "Total_Events": "13"
+    },
+    {
+        "Event_Label": "Christ Church Cathedral",
+        "Total_Events": "13"
+    },
+    {
+        "Event_Label": "Connolly Station",
+        "Total_Events": "13"
+    },
+    {
+        "Event_Label": "Eye and Ear Hospital",
+        "Total_Events": "13"
+    },
+    {
+        "Event_Label": "Iveagh Gardens",
+        "Total_Events": "13"
+    },
+    {
+        "Event_Label": "Marsh's Library",
+        "Total_Events": "13"
+    },
+    {
+        "Event_Label": "National Archives of Ireland",
+        "Total_Events": "13"
+    },
+    {
+        "Event_Label": "Pepper Canister Church",
+        "Total_Events": "13"
+    },
+    {
+        "Event_Label": "City Hall",
+        "Total_Events": "12"
+    },
+    {
+        "Event_Label": "Garden of Remembrance",
+        "Total_Events": "12"
+    },
+    {
+        "Event_Label": "Mater Misericordiae Hospital",
+        "Total_Events": "12"
+    },
+    {
+        "Event_Label": "Patrick’s Fest: The Wonder of Snakes",
+        "Total_Events": "12"
+    },
+    {
+        "Event_Label": "Tara Street Station",
+        "Total_Events": "12"
+    },
+    {
+        "Event_Label": "The James Joyce Centre",
+        "Total_Events": "12"
+    },
+    {
+        "Event_Label": "Chester Beatty Library",
+        "Total_Events": "11"
+    },
+    {
+        "Event_Label": "National Museum - Collins Barracks",
+        "Total_Events": "11"
+    },
+    {
+        "Event_Label": "Olympia Theatre",
+        "Total_Events": "11"
+    },
+    {
+        "Event_Label": "Pearse Street Library",
+        "Total_Events": "11"
+    },
+    {
+        "Event_Label": "St. Audoen's Church",
+        "Total_Events": "11"
+    },
+    {
+        "Event_Label": "Douglas Hyde Gallery",
+        "Total_Events": "10"
+    },
+    {
+        "Event_Label": "Francis Street",
+        "Total_Events": "10"
+    },
+    {
+        "Event_Label": "Meeting House Square",
+        "Total_Events": "10"
+    },
+    {
+        "Event_Label": "Patrick’s Fest: Performance, Dame Court",
+        "Total_Events": "10"
+    },
+    {
+        "Event_Label": "Patrick’s Fest: Performance, Powerscourt Centre",
+        "Total_Events": "10"
+    },
+    {
+        "Event_Label": "Temple Bar Cultural Trust",
+        "Total_Events": "10"
+    },
+    {
+        "Event_Label": "The Gate Theatre",
+        "Total_Events": "10"
+    },
+    {
+        "Event_Label": "Criminal Courts of Justice",
+        "Total_Events": "9"
+    },
+    {
+        "Event_Label": "Gallery of Photography",
+        "Total_Events": "9"
+    },
+    {
+        "Event_Label": "General Post Office",
+        "Total_Events": "9"
+    },
+    {
+        "Event_Label": "Irish Museum of Modern Art",
+        "Total_Events": "9"
+    },
+    {
+        "Event_Label": "Merrion Square",
+        "Total_Events": "9"
+    },
+    {
+        "Event_Label": "Motor Taxation Office",
+        "Total_Events": "9"
+    },
+    {
+        "Event_Label": "National Concert Hall",
+        "Total_Events": "9"
+    },
+    {
+        "Event_Label": "Patrick’s Fest: Irish Craft Beer Village",
+        "Total_Events": "9"
+    },
+    {
+        "Event_Label": "Royal Dublin Society",
+        "Total_Events": "9"
+    },
+    {
+        "Event_Label": "Gaiety Theatre",
+        "Total_Events": "8"
+    },
+    {
+        "Event_Label": "Passport Office",
+        "Total_Events": "8"
+    },
+    {
+        "Event_Label": "Patrick's Festival: Funfair",
+        "Total_Events": "8"
+    },
+    {
+        "Event_Label": "Pearse Street Station",
+        "Total_Events": "8"
+    },
+    {
+        "Event_Label": "St. James's Hospital",
+        "Total_Events": "8"
+    },
+    {
+        "Event_Label": "The Hugh Lane Gallery",
+        "Total_Events": "8"
+    },
+    {
+        "Event_Label": "City Council Offices",
+        "Total_Events": "7"
+    },
+    {
+        "Event_Label": "Graphic Studio Gallery",
+        "Total_Events": "7"
+    },
+    {
+        "Event_Label": "Patrick’s Fest: Performance, Barnardo Square",
+        "Total_Events": "7"
+    },
+    {
+        "Event_Label": "Convention Centre",
+        "Total_Events": "6"
+    },
+    {
+        "Event_Label": "Patrick’s Festival: Performance, Coppinger Row",
+        "Total_Events": "6"
+    },
+    {
+        "Event_Label": "Royal Hibernian Academy",
+        "Total_Events": "6"
+    },
+    {
+        "Event_Label": "Tourist Information",
+        "Total_Events": "6"
+    },
+    {
+        "Event_Label": "Rotunda Hospital",
+        "Total_Events": "5"
+    },
+    {
+        "Event_Label": "National Maternity Hospital",
+        "Total_Events": "4"
+    },
+    {
+        "Event_Label": "Project Arts Centre",
+        "Total_Events": "4"
+    },
+    {
+        "Event_Label": "Bord Gáis Energy Theatre",
+        "Total_Events": "1"
+    }
+]
