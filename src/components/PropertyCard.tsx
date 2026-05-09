@@ -63,10 +63,14 @@ const PropertyCard = ({ property, index }: { property: Property; index: number }
           </span>
         </div>
         
-        {property.predictedPrice && property.price < property.predictedPrice * 0.95 && (
-          <div className="flex items-center gap-1 text-xs text-green-600 font-bold bg-green-50 w-fit px-2 py-0.5 rounded border border-green-200">
+        {property.predictedPrice && (
+          <div className={`flex items-center gap-1 text-xs font-bold w-fit px-2 py-0.5 rounded border ${
+            property.price < property.predictedPrice 
+              ? 'text-green-600 bg-green-50 border-green-200' 
+              : 'text-blue-600 bg-blue-50 border-blue-200'
+          }`}>
             <Sparkles className="w-3 h-3" />
-            Great Deal! (AI Predicted Price: €{property.predictedPrice.toLocaleString()})
+            (AI Predicted Price: €{property.predictedPrice.toLocaleString()})
           </div>
         )}
       </div>
