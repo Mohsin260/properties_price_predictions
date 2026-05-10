@@ -14,14 +14,13 @@ import { Sparkles } from "lucide-react";
 const ITEMS_PER_PAGE = 10;
 
 const sortOptions = [
-  { label: "Choose option", value: "" },
+  { label: "AI Best Deal", value: "ai-deal-desc" },
   { label: "Date: Oldest to Newest", value: "date-asc" },
   { label: "Date: Newest to Oldest", value: "date-desc" },
   { label: "Price: Lowest to Highest", value: "price-asc" },
   { label: "Price: Highest to Lowest", value: "price-desc" },
   { label: "Desirability: Highest to Lowest", value: "desirability-desc" },
   { label: "Best Value (GIS)", value: "value-desc" },
-  { label: "AI Best Deal", value: "ai-deal-desc" },
 ];
 
 const Index = () => {

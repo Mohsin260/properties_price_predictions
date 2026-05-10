@@ -46,7 +46,7 @@ export const usePropertyStore = create<PropertyStore>((set) => ({
   selectedPropertyId: null,
   hoveredPropertyId: null,
   filters: defaultFilters,
-  sortBy: 'price-asc',
+  sortBy: 'ai-deal-desc',
   mapViewport: {
     latitude: parseFloat(import.meta.env.VITE_DEFAULT_MAP_CENTER_LAT || '53.3498'),
     longitude: parseFloat(import.meta.env.VITE_DEFAULT_MAP_CENTER_LNG || '-6.2603'),
