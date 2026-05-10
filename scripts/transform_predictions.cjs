@@ -225,8 +225,7 @@ function getPropertyType(pred) {
 }
 
 // --- Main transform ---
-const targetErrorPcts = [-4.99, 4.89, 4.9, 4.91, 4.93, 4.95, 4.96, 4.98, 5];
-const filteredPredictions = predictions.filter(pred => targetErrorPcts.includes(pred.error_pct));
+const filteredPredictions = predictions.filter(pred => pred.error_pct >= -10 && pred.error_pct <= 10);
 
 console.log(`Transforming ${filteredPredictions.length} predictions (filtered from ${predictions.length})...`);
 
