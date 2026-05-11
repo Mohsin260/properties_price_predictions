@@ -85,7 +85,8 @@ const propertySchema = new mongoose.Schema({
   quarter: Number,
   month: Number
 }, {
-  timestamps: true
+  timestamps: true,
+  suppressReservedKeysWarning: true
 });
 
 export default mongoose.model('Property', propertySchema);

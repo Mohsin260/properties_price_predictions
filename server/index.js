@@ -169,19 +169,6 @@ app.get('/api/properties/id/:id', async (req, res) => {
   }
 });
 
-// Serve static files from the Vite build in production
-const distPath = path.join(__dirname, '../dist');
-if (fs.existsSync(distPath)) {
-  app.use(express.static(distPath));
-  
-  // Handle SPA routing - send all other requests to index.html
-  app.get('*', (req, res) => {
-    if (!req.path.startsWith('/api')) {
-      res.sendFile(path.join(distPath, 'index.html'));
-    }
-  });
-}
-
 // Start server
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
