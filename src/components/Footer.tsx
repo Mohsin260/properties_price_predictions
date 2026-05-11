@@ -28,18 +28,28 @@ const Footer = () => {
           </div>
 
           {/* Quick Links */}
-          <div>
-            <h4 className="font-bold text-sm uppercase tracking-wider mb-4">Quick Links</h4>
-            <ul className="space-y-2 text-sm">
-              <li><a href="#" className="text-nav-foreground/80 hover:text-accent transition-colors">Buy Property</a></li>
-              <li><a href="#" className="text-nav-foreground/80 hover:text-accent transition-colors">Sell Property</a></li>
-              <li><a href="#" className="text-nav-foreground/80 hover:text-accent transition-colors">Rent Property</a></li>
-            </ul>
+          <div className="flex flex-col lg:items-center">
+            <div>
+              <h4 className="font-bold text-sm uppercase tracking-wider mb-4 text-left lg:text-center w-full">Quick Links</h4>
+              <ul className="space-y-2 text-sm lg:text-center">
+                <li><a href="#" className="text-nav-foreground/80 hover:text-accent transition-colors">Buy Property</a></li>
+                <li><a href="#" className="text-nav-foreground/80 hover:text-accent transition-colors">Sell Property</a></li>
+                <li><a href="#" className="text-nav-foreground/80 hover:text-accent transition-colors">Rent Property</a></li>
+              </ul>
+            </div>
           </div>
 
           {/* Resources */}
-
-          {/* Contact Info */}
+          <div className="flex flex-col lg:items-center">
+            <div>
+              <h4 className="font-bold text-sm uppercase tracking-wider mb-4 text-left lg:text-center w-full">Resources</h4>
+              <ul className="space-y-2 text-sm lg:text-center">
+                <li><a href="#" className="text-nav-foreground/80 hover:text-accent transition-colors">Market Insights</a></li>
+                <li><a href="#" className="text-nav-foreground/80 hover:text-accent transition-colors">Mortgage Calculator</a></li>
+                <li><a href="#" className="text-nav-foreground/80 hover:text-accent transition-colors">Area Guides</a></li>
+              </ul>
+            </div>
+          </div>
           <div>
             <h4 className="font-bold text-sm uppercase tracking-wider mb-4">Contact Us</h4>
             <ul className="space-y-3 text-sm">
