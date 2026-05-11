@@ -52,6 +52,20 @@ const SearchBar = () => {
             />
           </div>
 
+          <div className="flex flex-col gap-1 flex-1">
+            <label className="text-xs font-bold text-muted-foreground tracking-wider uppercase">Keyword Search</label>
+            <div className="relative">
+              <input
+                type="text"
+                placeholder="Title, address, etc."
+                value={filters.globalSearch}
+                onChange={(e) => setFilter('globalSearch', e.target.value)}
+                className="search-input text-sm w-full"
+              />
+              <Search className="w-4 h-4 absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground pointer-events-none" />
+            </div>
+          </div>
+
           <div className="flex flex-col gap-1">
             <label className="text-xs font-bold text-muted-foreground tracking-wider uppercase">Sale Price</label>
             <div className="flex gap-2">
@@ -80,13 +94,10 @@ const SearchBar = () => {
 
           <div className="flex items-end">
             <button 
-              className="bg-accent text-accent-foreground px-8 py-2.5 rounded font-bold text-sm flex items-center gap-2 hover:opacity-90 transition-opacity"
-              onClick={() => {
-                // Search is reactive, this button is for visual feedback
-                console.log('Search filters applied:', filters);
-              }}
+              className="bg-accent text-accent-foreground px-8 py-2.5 rounded font-bold text-sm flex items-center gap-2 hover:opacity-90 transition-opacity whitespace-nowrap"
+              disabled
             >
-              <Search className="w-5 h-5" />
+              Live Search Active
             </button>
           </div>
         </div>

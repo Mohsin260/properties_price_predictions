@@ -5,10 +5,11 @@ import PropertyCard from "@/components/PropertyCard";
 import PropertyPagination from "@/components/Pagination";
 import MapWrapper from "@/components/maps/shared/MapWrapper";
 import Footer from "@/components/Footer";
-import { dublinProperties, modelMetadata } from "@/data/dublinProperties";
+import { useQuery } from "@tanstack/react-query";
+import { modelMetadata } from "@/data/dublinProperties";
 import { usePropertyStore } from "@/store/propertyStore";
 import { useSearchStore } from "@/store/searchStore";
-import type { SortBy } from "@/types/property.types";
+import type { Property, SortBy } from "@/types/property.types";
 import { Sparkles } from "lucide-react";
 
 const ITEMS_PER_PAGE = 10;
@@ -37,63 +38,24 @@ const Index = () => {
   
   const { filters } = useSearchStore();
 
-  // Apply search filters
-  const filteredProperties = useMemo(() => {
-    return dublinProperties.filter(property => {
-      // Global search - searches in title, address, and type
-      if (filters.globalSearch) {
-        const searchLower = filters.globalSearch.toLowerCase();
-        const matchesGlobal = 
-          property.title.toLowerCase().includes(searchLower) ||
-          property.address.toLowerCase().includes(searchLower) ||
-          property.type.toLowerCase().includes(searchLower);
-        if (!matchesGlobal) return false;
-      }
-
-      // Location filter
-      if (filters.location && filters.location !== 'Dublin') {
-        if (!property.address.toLowerCase().includes(filters.location.toLowerCase())) {
-          return false;
-        }
-      }
-
-      // Price filters
-      if (filters.minPrice && property.price < Number(filters.minPrice)) return false;
-      if (filters.maxPrice && property.price > Number(filters.maxPrice)) return false;
-
-      // Bedroom filters
-      if (filters.minBeds && property.beds < Number(filters.minBeds)) return false;
-      if (filters.maxBeds && property.beds > Number(filters.maxBeds)) return false;
-
-      // Bathroom filters
-      if (filters.minBaths && property.baths < Number(filters.minBaths)) return false;
-      if (filters.maxBaths && property.baths > Number(filters.maxBaths)) return false;
-
-      // Property type filter
-      if (filters.propertyType && property.type !== filters.propertyType) return false;
-
-      // Energy rating filter (BER)
-      if (filters.minEnergyRating) {
-        const ratingOrder = ['G', 'F', 'E', 'D', 'C', 'B', 'A'];
-        const propertyRatingLetter = property.berRating.charAt(0);
-        const minRatingIndex = ratingOrder.indexOf(filters.minEnergyRating);
-        const propertyRatingIndex = ratingOrder.indexOf(propertyRatingLetter);
-        if (propertyRatingIndex < minRatingIndex) return false;
-      }
-
-      // AI Valuation Filters
-      if (filters.onlyUndervalued === 'true' && property.predictedPrice) {
-        // Must be less than 95% of predicted price to be undervalued
-        if (property.price >= property.predictedPrice * 0.95) return false;
-      }
+  const { data: dublinProperties = [], isLoading, error } = useQuery({
+    queryKey: ['properties', filters],
+    queryFn: async () => {
+      const params = new URLSearchParams();
+      Object.entries(filters).forEach(([key, value]) => {
+        if (value) params.append(key, value);
+      });
       
-      if (filters.minConfidence && property.confidencePct) {
-        if (property.confidencePct < Number(filters.minConfidence)) return false;
+      const response = await fetch(`/api/properties?${params.toString()}`);
+      if (!response.ok) {
+        throw new Error('Failed to fetch properties');
       }
+      return response.json() as Promise<Property[]>;
+    }
+  });
 
-      return true;
-    });
-  }, [filters]);
+  // Since filtering is now server-side, filteredProperties is just dublinProperties
+  const filteredProperties = dublinProperties;
 
   const sortedProperties = useMemo(() => {
     const sorted = [...filteredProperties];
@@ -136,11 +98,11 @@ const Index = () => {
     setCurrentPage(1);
   }, [filters]);
 
-  const handlePropertyClick = (property: typeof dublinProperties[0]) => {
+  const handlePropertyClick = (property: Property) => {
     centerMapOnProperty(property);
   };
 
-  const handlePropertyHover = (property: typeof dublinProperties[0] | null) => {
+  const handlePropertyHover = (property: Property | null) => {
     setHoveredProperty(property?.id || null);
   };
 
@@ -168,9 +130,19 @@ const Index = () => {
 
       <main className="flex-1 flex">
         <div className="max-w-[1800px] mx-auto w-full flex">
-          {/* Properties Container - Scrollable */}
-          <div className="flex-1 flex flex-col h-[calc(100vh-240px)] overflow-hidden">
-            {/* Header */}
+          {isLoading ? (
+            <div className="flex-1 flex items-center justify-center h-[calc(100vh-240px)]">
+              <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary"></div>
+            </div>
+          ) : error ? (
+            <div className="flex-1 flex items-center justify-center h-[calc(100vh-240px)]">
+              <p className="text-destructive font-semibold">Error loading properties.</p>
+            </div>
+          ) : (
+            <>
+              {/* Properties Container - Scrollable */}
+              <div className="flex-1 flex flex-col h-[calc(100vh-240px)] overflow-hidden">
+                {/* Header */}
             <div className="px-6 py-4 border-b border-border bg-background">
               <h1 className="font-display text-2xl md:text-3xl font-bold text-foreground mb-3">
                 Properties Available In Dublin
@@ -236,8 +208,10 @@ const Index = () => {
               height="100%"
             />
           </div>
-        </div>
-      </main>
+        </>
+        )}
+      </div>
+    </main>
 
       <Footer />
     </div>

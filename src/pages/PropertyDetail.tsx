@@ -1,10 +1,12 @@
 import { useParams, useNavigate } from 'react-router-dom';
+import { useQuery } from '@tanstack/react-query';
 import { ArrowLeft, Bed, Bath, Maximize, MapPin, TrendingUp, Bus, TreePine, Bike, Shield, Sparkles, TrendingDown, BarChart3, GraduationCap } from 'lucide-react';
 import SiteHeader from '@/components/SiteHeader';
 import Footer from '@/components/Footer';
 import MapWrapper from '@/components/maps/shared/MapWrapper';
-import { getPropertyBySlug, modelMetadata } from '@/data/dublinProperties';
+import { modelMetadata } from '@/data/dublinProperties';
 import { formatDistance, getDesirabilityLabel, getCrimeLabel } from '@/utils/geoCalculations';
+import type { Property } from '@/types/property.types';
 
 const berColorMap: Record<string, string> = {
   green: "bg-ber-green text-accent-foreground",
@@ -16,9 +18,32 @@ const berColorMap: Record<string, string> = {
 const PropertyDetail = () => {
   const { slug } = useParams<{ slug: string }>();
   const navigate = useNavigate();
-  const property = slug ? getPropertyBySlug(slug) : undefined;
 
-  if (!property) {
+  const { data: property, isLoading, error } = useQuery({
+    queryKey: ['property', slug],
+    queryFn: async () => {
+      if (!slug) return null;
+      const response = await fetch(`/api/properties/${slug}`);
+      if (!response.ok) {
+        throw new Error('Failed to fetch property');
+      }
+      return response.json() as Promise<Property>;
+    },
+    enabled: !!slug
+  });
+
+  if (isLoading) {
+    return (
+      <div className="min-h-screen bg-background">
+        <SiteHeader />
+        <div className="max-w-[1400px] mx-auto px-4 py-12 flex items-center justify-center min-h-[50vh]">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary"></div>
+        </div>
+      </div>
+    );
+  }
+
+  if (!property || error) {
     return (
       <div className="min-h-screen bg-background">
         <SiteHeader />
