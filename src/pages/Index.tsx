@@ -45,8 +45,8 @@ const Index = () => {
       Object.entries(filters).forEach(([key, value]) => {
         if (value) params.append(key, value);
       });
-      
-      const response = await fetch(`/api/properties?${params.toString()}`);
+      const apiBase = import.meta.env.VITE_API_URL || '';
+      const response = await fetch(`${apiBase}/api/properties?${params.toString()}`);
       if (!response.ok) {
         throw new Error('Failed to fetch properties');
       }

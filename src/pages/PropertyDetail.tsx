@@ -23,7 +23,8 @@ const PropertyDetail = () => {
     queryKey: ['property', slug],
     queryFn: async () => {
       if (!slug) return null;
-      const response = await fetch(`/api/properties/${slug}`);
+      const apiBase = import.meta.env.VITE_API_URL || '';
+      const response = await fetch(`${apiBase}/api/properties/${slug}`);
       if (!response.ok) {
         throw new Error('Failed to fetch property');
       }
