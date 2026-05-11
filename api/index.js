@@ -1,10 +1,7 @@
-import dotenv from 'dotenv';
 import express from 'express';
 import mongoose from 'mongoose';
 import cors from 'cors';
 import Property from './models/Property.js';
-
-dotenv.config();
 
 const app = express();
 
@@ -13,33 +10,47 @@ app.use(cors());
 app.use(express.json());
 
 // Connection caching for serverless environments
-let isConnected = false;
+let cachedConnection = null;
 
 const connectDB = async () => {
-  if (isConnected) return;
-  
+  if (cachedConnection && mongoose.connection.readyState === 1) {
+    return;
+  }
+
+  if (!process.env.MONGODB_URI) {
+    throw new Error('MONGODB_URI environment variable is not set');
+  }
+
   try {
-    const db = await mongoose.connect(process.env.MONGODB_URI, { dbName: 'properties' });
-    isConnected = db.connections[0].readyState;
+    cachedConnection = await mongoose.connect(process.env.MONGODB_URI, {
+      dbName: 'properties',
+      bufferCommands: false,
+    });
     console.log('Connected to MongoDB');
   } catch (err) {
-    console.error('MongoDB connection error:', err);
+    console.error('MongoDB connection error:', err.message);
+    throw err;
   }
 };
 
 // Routes
 app.get('/api/properties', async (req, res) => {
-  await connectDB();
   try {
-    const { 
-      location, 
-      minPrice, 
-      maxPrice, 
-      minBeds, 
-      maxBeds, 
-      minBaths, 
-      maxBaths, 
-      propertyType, 
+    await connectDB();
+  } catch (err) {
+    return res.status(500).json({ error: 'Database connection failed', details: err.message });
+  }
+
+  try {
+    const {
+      location,
+      minPrice,
+      maxPrice,
+      minBeds,
+      maxBeds,
+      minBaths,
+      maxBaths,
+      propertyType,
       minEnergyRating,
       onlyUndervalued,
       minConfidence,
@@ -102,16 +113,21 @@ app.get('/api/properties', async (req, res) => {
       query.confidencePct = { $gte: Number(minConfidence) };
     }
 
-    const properties = await Property.find(query).sort({ id: 1 }).limit(100); // Limit results for performance on serverless
+    const properties = await Property.find(query).sort({ id: 1 });
     res.json(properties);
   } catch (err) {
     console.error('Search error:', err);
-    res.status(500).json({ error: 'Failed to fetch properties' });
+    res.status(500).json({ error: 'Failed to fetch properties', details: err.message });
   }
 });
 
 app.get('/api/properties/:slug', async (req, res) => {
-  await connectDB();
+  try {
+    await connectDB();
+  } catch (err) {
+    return res.status(500).json({ error: 'Database connection failed', details: err.message });
+  }
+
   try {
     const property = await Property.findOne({ slug: req.params.slug });
     if (!property) {
@@ -119,7 +135,7 @@ app.get('/api/properties/:slug', async (req, res) => {
     }
     res.json(property);
   } catch (err) {
-    res.status(500).json({ error: 'Failed to fetch property' });
+    res.status(500).json({ error: 'Failed to fetch property', details: err.message });
   }
 });
 
