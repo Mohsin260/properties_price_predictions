@@ -24,7 +24,6 @@ const connectDB = async () => {
   try {
     cachedConnection = await mongoose.connect(process.env.MONGODB_URI, {
       dbName: 'properties',
-      bufferCommands: false,
     });
     console.log('Connected to MongoDB');
   } catch (err) {
