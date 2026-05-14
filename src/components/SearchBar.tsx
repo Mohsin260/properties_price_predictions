@@ -103,13 +103,13 @@ const SearchBar = () => {
         </div>
 
         {/* Advanced search toggle */}
-        <button
+        {/* <button
           onClick={toggleAdvanced}
           className="mt-3 text-accent text-xs font-bold uppercase tracking-wider flex items-center gap-1 ml-auto"
         >
           {showAdvanced ? 'Hide' : 'Show'} Advanced Search
           <ChevronDown className={`w-3 h-3 transition-transform ${showAdvanced ? 'rotate-180' : ''}`} />
-        </button>
+        </button> */}
 
         {/* Advanced filters */}
         {showAdvanced && (

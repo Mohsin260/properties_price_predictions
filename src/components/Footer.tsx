@@ -1,4 +1,4 @@
-import { MapPin, Phone, Mail, Facebook, Twitter, Linkedin, Instagram } from "lucide-react";
+// import { MapPin, Phone, Mail, Facebook, Twitter, Linkedin, Instagram } from "lucide-react";
 
 const Footer = () => {
   return (
@@ -11,7 +11,7 @@ const Footer = () => {
             <p className="text-nav-foreground/80 text-sm leading-relaxed mb-4">
               Dublin's leading property portal with over 40 years of experience in residential and commercial property services.
             </p>
-            <div className="flex gap-3">
+            {/* <div className="flex gap-3">
               <a href="#" className="w-8 h-8 bg-nav-foreground/10 rounded-full flex items-center justify-center hover:bg-accent transition-colors">
                 <Facebook className="w-4 h-4" />
               </a>
@@ -24,10 +24,10 @@ const Footer = () => {
               <a href="#" className="w-8 h-8 bg-nav-foreground/10 rounded-full flex items-center justify-center hover:bg-accent transition-colors">
                 <Instagram className="w-4 h-4" />
               </a>
-            </div>
+            </div> */}
           </div>
 
-          {/* Quick Links */}
+          {/* Quick Links
           <div className="flex flex-col lg:items-center">
             <div>
               <h4 className="font-bold text-sm uppercase tracking-wider mb-4 text-left lg:text-center w-full">Quick Links</h4>
@@ -37,10 +37,10 @@ const Footer = () => {
                 <li><a href="#" className="text-nav-foreground/80 hover:text-accent transition-colors">Rent Property</a></li>
               </ul>
             </div>
-          </div>
+          </div> */}
 
           {/* Resources */}
-          <div className="flex flex-col lg:items-center">
+          {/* <div className="flex flex-col lg:items-center">
             <div>
               <h4 className="font-bold text-sm uppercase tracking-wider mb-4 text-left lg:text-center w-full">Resources</h4>
               <ul className="space-y-2 text-sm lg:text-center">
@@ -49,10 +49,10 @@ const Footer = () => {
                 <li><a href="#" className="text-nav-foreground/80 hover:text-accent transition-colors">Area Guides</a></li>
               </ul>
             </div>
-          </div>
+          </div> */}
           <div>
-            <h4 className="font-bold text-sm uppercase tracking-wider mb-4">Contact Us</h4>
-            <ul className="space-y-3 text-sm">
+            {/* <h4 className="font-bold text-sm uppercase tracking-wider mb-4">Contact Us</h4> */}
+            {/* <ul className="space-y-3 text-sm">
               <li className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 mt-0.5 text-accent flex-shrink-0" />
                 <span className="text-nav-foreground/80">
@@ -66,14 +66,14 @@ const Footer = () => {
                 <a href="tel:+35312345678" className="text-nav-foreground/80 hover:text-accent transition-colors">
                   +353 1 234 5678
                 </a>
-              </li> */}
+              </li>
               <li className="flex items-center gap-2">
                 <Mail className="w-4 h-4 text-accent flex-shrink-0" />
                 <a href="mailto:info@dublinpropertyportal.com" className="text-nav-foreground/80 hover:text-accent transition-colors">
                   info@dublinpropertyportal.com
                 </a>
               </li>
-            </ul>
+            </ul> */}
           </div>
         </div>
 
