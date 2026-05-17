@@ -1,7 +1,7 @@
 import { Search } from "lucide-react";
 import { useSearchStore } from "@/store/searchStore";
 
-const navItems = ["BUY", "SELL", "RENT"];
+const navItems = [""];
 
 const SiteHeader = () => {
   const { filters, setFilter } = useSearchStore();
@@ -9,7 +9,7 @@ const SiteHeader = () => {
   return (
     <>
       {/* Top bar */}
-      <div className="bg-primary py-1.5 px-4">
+      {/* <div className="bg-primary py-1.5 px-4">
         <div className="max-w-[1800px] mx-auto flex justify-end gap-6">
           <span className="text-primary-foreground/80 text-xs font-semibold tracking-wide cursor-pointer hover:text-primary-foreground transition-colors">
             Dublin 
@@ -19,11 +19,11 @@ const SiteHeader = () => {
             NORTHERN IRELAND
           </span>
         </div>
-      </div>
+      </div> */}
 
       {/* Main nav */}
       <header className="bg-nav px-4 py-3">
-        <div className="max-w-[1800px] mx-auto flex items-center justify-between">
+        <div className="max-w-full px-2 flex items-center justify-between">
           <div className="font-display text-nav-foreground text-xl font-bold italic tracking-tight">
             Dublin Property Portal
           </div>

@@ -113,7 +113,7 @@ const Index = () => {
 
       {/* Model Info Banner */}
       <div className="bg-gradient-to-r from-accent/5 via-accent/10 to-accent/5 border-b border-accent/20">
-        <div className="max-w-[1800px] mx-auto px-6 py-2 flex items-center justify-between flex-wrap gap-2">
+        <div className="max-w-full px-6 py-2 flex items-center justify-between flex-wrap gap-2">
           <div className="flex items-center gap-2">
             <Sparkles className="w-4 h-4 text-accent" />
             <span className="text-xs font-bold text-accent">{modelMetadata.model}</span>
@@ -129,7 +129,7 @@ const Index = () => {
       </div>
 
       <main className="flex-1 flex">
-        <div className="max-w-[1800px] mx-auto w-full flex">
+        <div className="max-w-full w-full flex">
           {isLoading ? (
             <div className="flex-1 flex items-center justify-center h-[calc(100vh-240px)]">
               <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary"></div>
@@ -141,7 +141,7 @@ const Index = () => {
           ) : (
             <>
               {/* Properties Container - Scrollable */}
-              <div className="flex-1 flex flex-col h-[calc(100vh-240px)] overflow-hidden">
+              <div className="w-full lg:w-[70%] flex flex-col h-[calc(100vh-240px)] overflow-hidden">
                 {/* Header */}
             <div className="px-6 py-4 border-b border-border bg-background">
               <h1 className="font-display text-2xl md:text-3xl font-bold text-foreground mb-3">
@@ -195,7 +195,7 @@ const Index = () => {
           </div>
 
           {/* Full Height Map - Right Side */}
-          <div className="hidden lg:block w-[600px] h-[calc(100vh-240px)]">
+          <div className="hidden lg:block w-full lg:w-[30%] h-[calc(100vh-240px)]">
             <MapWrapper
               engine="maplibre"
               properties={sortedProperties}

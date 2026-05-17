@@ -24,7 +24,7 @@ const SearchBar = () => {
 
   return (
     <div className="bg-search-bar border-b border-border">
-      <div className="max-w-[1800px] mx-auto px-4 py-4">
+      <div className="max-w-full px-6 py-4">
         {/* Main search row */}
         <div className="flex flex-col lg:flex-row gap-3 items-stretch">
           <div className="flex flex-col gap-1 min-w-[180px]">
@@ -34,10 +34,10 @@ const SearchBar = () => {
               onChange={(e) => setFilter('searchType', e.target.value)}
               className="search-input text-sm"
             >
-              <option>Residential To Let</option>
               <option>Residential For Sale</option>
+              {/* <option>Residential To Let</option>
               <option>Commercial To Let</option>
-              <option>Commercial For Sale</option>
+              <option>Commercial For Sale</option> */}
             </select>
           </div>
 
